@@ -1,0 +1,209 @@
+{
+    "BAY": {
+        "easter": {
+            "Christi Himmelfahrt": {
+                "diff": "P40D",
+                "uid_2025": "9005b7a8-1b3f-4ce7-85a0-dd6866a6bb53",
+                "uid_2026": "9fad7fa7-423c-409a-89b2-f6040fb40429",
+                "uid_2027": "a306c5b2-7f88-4bc6-bb4e-9a1ed31b0564",
+                "uid_2028": "39d580d6-76bf-4b18-ae9e-074ef8fb4588"
+            },
+            "Fronleichnam": {
+                "diff": "P61D",
+                "uid_2025": "b928b5fb-3d77-43a7-8519-fdfcc6f57ba8",
+                "uid_2026": "5928aabf-49e0-4299-908a-6e040a39647c",
+                "uid_2027": "0ba24915-12f0-4582-980b-ca93b5fcaa69",
+                "uid_2028": "77a24b7e-c635-4aa6-b3e0-8b543a5af4e6"
+            },
+            "Karfreitag": {
+                "diff": "P-1D",
+                "uid_2025": "b41b5dcd-6830-4765-bb0c-bb217cb93956",
+                "uid_2026": "6f9f0efb-352f-459e-b585-ad703cc89306",
+                "uid_2027": "6cec8b9a-9964-4aa0-ba00-6ccb54ccec47",
+                "uid_2028": "a613add8-ab4d-4798-9d1b-b73838223250"
+            },
+            "Ostermontag": {
+                "diff": "P2D",
+                "uid_2025": "a42819ed-d1d5-44cb-99ab-9edcf0351efa",
+                "uid_2026": "f1f0a02a-bfa8-4d57-b1ae-b0d05da869a4",
+                "uid_2027": "3a2d211f-f226-4415-a3e9-1e460771a359",
+                "uid_2028": "878be953-4061-424b-941c-b9b775578ceb"
+            },
+            "Pfingstmontag": {
+                "diff": "P51D",
+                "uid_2025": "7959df39-d975-4436-a2c1-39b2e71e3731",
+                "uid_2026": "230d0877-9414-4f6f-9076-16f6198ad4e4",
+                "uid_2027": "56f31e17-c9f7-426d-a6ea-52b17745e3bb",
+                "uid_2028": "1e2f890b-3ee6-48ac-9095-9a85940ad165"
+            }
+        },
+        "repeat": {
+            "1. Weihnachtstag": {
+                "date": "1225",
+                "uid": "6c2cdfc5-7e99-47bd-a5e2-9d81ef944070"
+            },
+            "2. Weihnachtstag": {
+                "date": "1226",
+                "uid": "9108cf86-80dd-4ecd-ac6f-27e38b634928"
+            },
+            "Allerheiligen": {
+                "date": "1101",
+                "uid": "e0343b0f-e3ec-4b35-a3e7-1f8a871f1f2d"
+            },
+            "Heilige drei Koenige": {
+                "date": "0106",
+                "uid": "61e8d9ce-40e1-4283-a4d8-4089465b1a01"
+            },
+            "Mariae Himmelfahrt": {
+                "date": "0815",
+                "uid": "e6cceb1a-2b14-45c2-8c40-456635fb1dde"
+            },
+            "Neujahr": {
+                "date": "0101",
+                "uid": "697ea849-0557-4be3-bf3b-7e82fe3dbaa5"
+            },
+            "Tag der Arbeit": {
+                "date": "0501",
+                "uid": "f2b429c5-7b44-4ddb-b167-f03034bd53ef"
+            },
+            "Tag der Deutschen Einheit": {
+                "date": "1003",
+                "uid": "3859df50-abc0-48bf-b33a-4f9c8e56c70d"
+            }
+        }
+    },
+    "BW": {
+        "easter": {
+            "Christi Himmelfahrt": {
+                "diff": "P40D",
+                "uid_2025": "eba84e36-a487-45e8-828d-ffd1a0af7f5e",
+                "uid_2026": "480f0aa3-5d0b-443d-ad68-d6f8938f5aca",
+                "uid_2027": "b3e1e4fe-0ee8-4bb9-b71f-db32d80200c4",
+                "uid_2028": "78da8054-b613-48a9-a795-b90a1e198f08"
+            },
+            "Fronleichnam": {
+                "diff": "P61D",
+                "uid_2025": "525170f0-1d29-4d75-9fe6-bdeb5aba0da9",
+                "uid_2026": "b6ec1c0d-75e7-4ef4-8f1f-54731650e67c",
+                "uid_2027": "0c59af4d-57f6-44e3-aa45-20e7f7493912",
+                "uid_2028": "e9f9cc69-ecfe-4d2e-b46c-7eada18904a1"
+            },
+            "Karfreitag": {
+                "diff": "P-1D",
+                "uid_2025": "f20c459e-92db-4a2e-a3f9-706d166c1826",
+                "uid_2026": "72cfae4a-50c8-4a15-a57e-d15b84262113",
+                "uid_2027": "11c93f83-241b-4af1-b462-42934781c167",
+                "uid_2028": "0d02119c-55ee-470b-9e68-31e30f592a0b"
+            },
+            "Ostermontag": {
+                "diff": "P2D",
+                "uid_2025": "b8a60006-d23b-410d-ada4-5a7482ef783d",
+                "uid_2026": "651e4580-0b0e-483a-9499-8b9051612ffc",
+                "uid_2027": "f9ee971f-c9b8-4bc3-b3db-efc36702a816",
+                "uid_2028": "b42d0380-8a8d-4f6f-ae70-c63ff4bb6265"
+            },
+            "Pfingstmontag": {
+                "diff": "P51D",
+                "uid_2025": "6b601f93-c585-4514-baac-7c5b7b9a0868",
+                "uid_2026": "6b053cef-60aa-410f-9058-bdbae4081ebf",
+                "uid_2027": "91f76bc1-7834-41c1-8300-ab892003e3e4",
+                "uid_2028": "287a9097-bfdc-4483-bdc4-52c4c6f1c8a4"
+            }
+        },
+        "repeat": {
+            "1. Weihnachtstag": {
+                "date": "1225",
+                "uid": "8d8f20b4-e222-4fb5-a4e5-b197c3021808"
+            },
+            "2. Weihnachtstag": {
+                "date": "1226",
+                "uid": "b268a3db-e362-4225-9f89-1ff5a0b73547"
+            },
+            "Allerheiligen": {
+                "date": "1101",
+                "uid": "8a63321b-9b33-41cd-8173-9dcc1bda64ef"
+            },
+            "Heilige drei Koenige": {
+                "date": "0106",
+                "uid": "b1ab1fcf-eccd-4377-bb95-75ea3fe383a7"
+            },
+            "Neujahr": {
+                "date": "0101",
+                "uid": "12479952-5b41-4b08-9672-d651a1b96af3"
+            },
+            "Tag der Arbeit": {
+                "date": "0501",
+                "uid": "1adb9049-deb8-44a8-b212-b2e4c9bc1a00"
+            },
+            "Tag der Deutschen Einheit": {
+                "date": "1003",
+                "uid": "3c6a2aad-d83a-4b2e-8917-1822277aa3e2"
+            }
+        }
+    },
+    "RLP": {
+        "easter": {
+            "Christi Himmelfahrt": {
+                "diff": "P40D",
+                "uid_2025": "e6f20c4f-95fa-4826-bc45-b634db1328ac",
+                "uid_2026": "57385759-1105-4e81-932c-c88c3b1a19e1",
+                "uid_2027": "e5467804-e5a9-4f19-885a-74967535a047",
+                "uid_2028": "364914ea-79b0-4c0e-b24d-bb4dc2458c1b"
+            },
+            "Fronleichnam": {
+                "diff": "P61D",
+                "uid_2025": "4781bfde-1a56-4c2b-ae2a-bab7aee5affe",
+                "uid_2026": "5feb82d2-5a1e-433f-b31a-cae7ac853875",
+                "uid_2027": "afd473d2-4eb4-445f-84cf-d9eff7473492",
+                "uid_2028": "5a5ff89c-8d68-4966-a930-e64289776a4d"
+            },
+            "Karfreitag": {
+                "diff": "P-1D",
+                "uid_2025": "22d81b5c-484d-40c8-8fe5-e91cecdfa7d5",
+                "uid_2026": "715591e9-0e7c-485b-b0bb-d566003ecf57",
+                "uid_2027": "c9d94999-8eb1-4778-bd93-c1919ba2e1c9",
+                "uid_2028": "752d5989-1115-47ad-975e-5409c482ae34"
+            },
+            "Ostermontag": {
+                "diff": "P2D",
+                "uid_2025": "c2b7a625-406c-42d0-900e-c5e7e8674f11",
+                "uid_2026": "933d432b-9f11-4316-8b2c-b32025e4baac",
+                "uid_2027": "abdcd04b-6619-40f3-8aae-886c057fe45a",
+                "uid_2028": "2175826d-4ced-4282-bdac-505406f32af5"
+            },
+            "Pfingstmontag": {
+                "diff": "P51D",
+                "uid_2025": "27527e46-6515-47ed-82e3-7e74633fb450",
+                "uid_2026": "68ca39e4-8cb8-441e-9b41-79676a290e71",
+                "uid_2027": "44712b45-b401-40e5-b6fa-b4105f71522e",
+                "uid_2028": "ac5e175f-3f77-4e9c-bc28-2352f1e4bca1"
+            }
+        },
+        "repeat": {
+            "1. Weihnachtstag": {
+                "date": "1225",
+                "uid": "871f40d3-8213-41fa-b368-1b68a64482d9"
+            },
+            "2. Weihnachtstag": {
+                "date": "1226",
+                "uid": "6f190bc7-b813-4a06-85d5-717eafe36e20"
+            },
+            "Allerheiligen": {
+                "date": "1101",
+                "uid": "9bdf2a35-c193-4fb0-8a74-534cd01cd18b"
+            },
+            "Neujahr": {
+                "date": "0101",
+                "uid": "603e9a58-e595-4501-a80a-ac9e1e3bc5d8"
+            },
+            "Tag der Arbeit": {
+                "date": "0501",
+                "uid": "936526bc-3bc4-4bc8-8d04-6deba42d4039"
+            },
+            "Tag der Deutschen Einheit": {
+                "date": "1003",
+                "uid": "553ca0f4-b805-4595-ab2a-e3f6c0e2896c"
+            }
+        }
+    }
+}

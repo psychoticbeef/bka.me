@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bka.me</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        .container {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .image {
+            max-width: 100%;
+            max-height: 100%;
+        }
+
+        /* Light mode styles */
+        @media (prefers-color-scheme: light) {
+            body, html {
+                background-color: white;
+                color: black;
+            }
+        }
+
+        /* Dark mode styles */
+        @media (prefers-color-scheme: dark) {
+            body, html {
+                background-color: black;
+                color: white;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img class="image" src="1.jpeg" alt="Image">
+    </div>
+</body>
+</html>
+

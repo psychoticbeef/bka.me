@@ -1,0 +1,41 @@
+name: Generate German Holidays
+
+on:
+  schedule:
+    - cron: '0 20 1 1 *' # Run Jan 1st
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip' # Caches dependencies automatically
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Generator
+        run: python generate.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "Calendar Bot"
+          git config --global user.email "actions@github.com"
+          git add calendar.json docs/*.ics
+          if [[ `git status --porcelain` ]]; then
+            git commit -m "Auto-update calendar [Python]"
+            git push
+          else
+            echo "No changes found."
+          fi
