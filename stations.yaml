@@ -1,0 +1,15 @@
+- name: "Radio Bob"
+  api_url: "https://iris-bob.loverad.io/search.json"
+  station_id: 69
+  referer: "https://www.radiobob.de/"
+  outputs:
+    links: "docs/bob.txt"
+    artist_title: "docs/bob_at.txt"
+
+- name: "Sunshine Live"
+  api_url: "https://iris-sunshinelive.loverad.io/search.json"
+  station_id: 3
+  referer: "https://www.sunshine-live.de/"
+  #chunk_hours: 1
+  outputs:
+    artist_title: "docs/sunshine.txt"

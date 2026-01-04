@@ -1,9 +1,9 @@
-name: Daily Radio Bob Scrape
+name: Daily Playlist Scrape
 
 on:
   schedule:
-    # Run at 18:30 UTC daily.
-    - cron: '30 18 * * *'
+    # Run at 18:30 UTC daily (covers 6PM Berlin time year-round)
+    - cron: '37 18 * * *'
   workflow_dispatch:
 
 permissions:
@@ -24,10 +24,10 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install -r requirements.txt
 
       - name: Run Scraper
-        run: python scrape_bob.py
+        run: python scrape_stations.py
 
       - name: Commit and Push changes
         run: |
@@ -40,6 +40,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update playlist: $(date +'%Y-%m-%d')"
+            git commit -m "Update playlists: $(date +'%Y-%m-%d')"
             git push
           fi

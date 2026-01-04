@@ -3,3 +3,5 @@ python-dateutil
 selenium
 beautifulsoup4
 webdriver-manager
+requests
+pyyaml
