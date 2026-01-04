@@ -1,14 +1,17 @@
 import json
 import datetime
+import uuid
 from pathlib import Path
 from dateutil.easter import easter
-from dateutil.relativedelta import relativedelta
-from icalendar import Calendar, Event, Timezone
+from icalendar import Calendar, Event
 
 # Configuration
 INPUT_FILE = Path("calendar.json")
 OUTPUT_DIR = Path("./docs")
-YEARS_TO_PROCESS = [datetime.date.today().year + i for i in range(-1, 3)] # Current year -1 to +2
+
+# Timeframe
+START_YEAR = 1999
+END_YEAR = 2099
 
 def parse_iso_duration(duration_str):
     """
@@ -18,32 +21,49 @@ def parse_iso_duration(duration_str):
     days = int(duration_str.replace("D", ""))
     return datetime.timedelta(days=days)
 
-def get_or_create_uid(data_dict, key):
+def get_or_create_persistent_uid(details_dict, key_name):
     """
-    Preserves existing UIDs or generates new unique ones.
+    Retrieves a UID or generates a new one.
     """
-    if key not in data_dict:
-        # Generate a modern, random UUID
-        import uuid
-        data_dict[key] = str(uuid.uuid4())
-    return data_dict[key]
+    if 'persistent_uids' not in details_dict:
+        details_dict['persistent_uids'] = {}
+    
+    if key_name not in details_dict['persistent_uids']:
+        details_dict['persistent_uids'][key_name] = str(uuid.uuid4())
+        
+    return details_dict['persistent_uids'][key_name]
 
-def create_event(title, date_obj, uid):
+def create_master_event(title, all_dates, uid):
     """
-    Helper to create an iCal Event object.
+    Creates a single master event on the first date, 
+    with all subsequent dates listed in RDATE.
     """
+    # Sort just in case
+    all_dates.sort()
+    
+    first_date = all_dates[0]
+    subsequent_dates = all_dates[1:]
+    
     event = Event()
     event.add('summary', title)
-    event.add('dtstart', date_obj)
-    event.add('dtend', date_obj + datetime.timedelta(days=1))
+    event.add('dtstart', first_date)
+    # For all-day events, dtend is usually dtstart + 1 day
+    event.add('dtend', first_date + datetime.timedelta(days=1))
     event.add('dtstamp', datetime.datetime.now(datetime.timezone.utc))
     event.add('uid', uid)
+    
+    # Add all other years as RDATEs
+    if subsequent_dates:
+        event.add('rdate', subsequent_dates, parameters={'VALUE': 'DATE'})
+        
     return event
 
 def main():
     if not INPUT_FILE.exists():
         print("Error: calendar.json not found.")
         return
+
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     with open(INPUT_FILE, 'r', encoding='utf-8') as f:
         data = json.load(f)
@@ -55,55 +75,58 @@ def main():
         cal.add('version', '2.0')
         cal.add('x-wr-calname', f'Feiertage {region}')
 
-        # 1. Handle Fixed Repeating Events (e.g., New Year)
+        # ---------------------------------------------------------
+        # 1. FIXED HOLIDAYS (RRULE)
+        # ---------------------------------------------------------
+        # We stick to RRULE here because it is semantically correct 
+        # for "Every year on this specific date".
         if 'repeat' in config:
             for title, details in config['repeat'].items():
-                # We add them for the requested years to make them distinct instances
-                # or we can use RRULE. Your PHP used RRULE for fixed days.
-                # Let's use RRULE for fixed days as per your original logic.
-                
-                base_year = YEARS_TO_PROCESS[0]
                 month = int(details['date'][0:2])
                 day = int(details['date'][2:4])
-                start_date = datetime.date(base_year, month, day)
+                start_date = datetime.date(START_YEAR, month, day)
                 
-                uid = get_or_create_uid(details, 'uid')
+                uid = get_or_create_persistent_uid(details, 'master_fixed_uid')
                 
-                event = create_event(title, start_date, uid)
-                event.add('rrule', {'freq': 'yearly'})
+                event = Event()
+                event.add('summary', title)
+                event.add('dtstart', start_date)
+                event.add('dtend', start_date + datetime.timedelta(days=1))
+                event.add('dtstamp', datetime.datetime.now(datetime.timezone.utc))
+                event.add('uid', uid)
+                event.add('rrule', {'freq': 'yearly', 'until': datetime.date(END_YEAR, 12, 31)})
+                
                 cal.add_component(event)
 
-        # 2. Handle Easter-based (Variable) Events
+        # ---------------------------------------------------------
+        # 2. VARIABLE HOLIDAYS (RDATE) - The "All-in-One" Method
+        # ---------------------------------------------------------
         if 'easter' in config:
             for title, details in config['easter'].items():
                 offset = parse_iso_duration(details['diff'])
                 
-                for year in YEARS_TO_PROCESS:
-                    # Calculate Easter Sunday (Standard Western/Gregorian)
+                # 1. Collect ALL dates for this holiday from 1999 to 2099
+                holiday_dates = []
+                for year in range(START_YEAR, END_YEAR + 1):
                     easter_date = easter(year)
-                    
-                    # Apply offset
-                    # Note: Your JSON has logic like "Karfreitag = P-1D". 
-                    # In reality Karfreitag is -2 days from Sunday.
-                    # If your JSON assumes Base = Saturday, we adjust here:
-                    # Adjusting base to match your legacy JSON logic (Base = Saturday)
+                    # Base = Saturday before Easter (Easter - 1 day)
                     base_date = easter_date - datetime.timedelta(days=1)
-                    
                     final_date = base_date + offset
-                    
-                    # Manage UID per year
-                    uid_key = f"uid_{year}"
-                    uid = get_or_create_uid(details, uid_key)
-                    
-                    event = create_event(title, final_date, uid)
-                    cal.add_component(event)
+                    holiday_dates.append(final_date)
+                
+                # 2. Get a single UID for this holiday type
+                uid = get_or_create_persistent_uid(details, 'master_variable_uid')
+                
+                # 3. Create ONE event with 100 RDATE entries
+                event = create_master_event(title, holiday_dates, uid)
+                cal.add_component(event)
 
         # Write ICS file
         output_path = OUTPUT_DIR / f"{region.lower()}.ics"
         with open(output_path, 'wb') as f:
             f.write(cal.to_ical())
 
-    # Save updated JSON (with new UIDs)
+    # Save updated JSON
     with open(INPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, sort_keys=True)
     
