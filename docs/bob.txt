@@ -1,10 +1,10 @@
-Free Fallin', 1440825619
+Free Fallin, 1440825619
 This Afternoon, 295233943
-The Loco-Motion, 724793638
+The LocoMotion, 724793638
 Lost Weekend, 1443994466
 Feel like Home, 1439662805
 Life Is a Highway, 724389622
-School's Out, 40458562
+Schools Out, 40458562
 All Night Long, 709157628
 Rough Boy, 882468038
 You Got This, 1849226956
@@ -12,21 +12,21 @@ Stuck in the Metal, 1001645923
 Shelter Me, 1435808561
 Shout It Out Loud, 1440783622
 We Are The Rest, 1684700890
-What I've Done, 590427450
+What Ive Done, 590427450
 The final Countdown, 196480329
 Radar Love, 81667968
-Zu spät, 292960053
+Zu spt, 292960053
 Buddy Holly, 1440879325
 Goodbye, 1822507761
 One Night Love Affair, 1440813496
 Shadow Play, 1354769980
-Rock & Roll Queen, 72868095
+Rock  Roll Queen, 72868095
 Road to Nowhere, 209695679
-Guitar Gangsters & Cadillac Blood, 285216422
+Guitar Gangsters  Cadillac Blood, 285216422
 Hot Blooded, 284531765
-Pride (In the Name of Love), 1440729859
+Pride In the Name of Love, 1440729859
 Wild Woman, 1839704432
-Rock 'n' Roll Star, 1517519730
+Rock n Roll Star, 1517519730
 Teenage Dirtbag, 298160976
 Runaway, 1422962847
 Highway Tune, 1440900539
@@ -36,7 +36,7 @@ Layla, 1440663520
 Bedroom Posters, 1810791442
 Welcome to the Jungle, 1377813288
 Paralyzed, 1709632975
-What You're Proposing, 1452854077
+What Youre Proposing, 1452854077
 God Knows, 697307930
 Hier kommt Alex, 722306827
 Killing Fields, 1825930765
@@ -47,10 +47,10 @@ Born Free, 399121764
 The Grand Slam, 1828288854
 Kings Highway, 1440821758
 Pet Sematary, 853504132
-Won't Let Go, 433666638
+Wont Let Go, 433666638
 All Star, 1440915693
 Night Like This, 1497157165
-Smokin' In the Boys Room, 1242681065
+Smokin In the Boys Room, 1242681065
 Let There Be Rock, 574124486
 Gotta Be Somebody, 295233935
 Caught Up In You, 1440891607
@@ -61,9 +61,9 @@ Sweet Gloria, 1634455942
 Zombie, 1440745653
 Kings of Metal, 357793298
 Hot Under The Collar, 1817457528
-You Ain't Seen Nothin' Yet, 73987238
+You Aint Seen Nothin Yet, 73987238
 The Anthem, 288051950
-Nothin' But a Good Time, 72548003
+Nothin But a Good Time, 72548003
 She, 417565802
 Somebody, 1440813788
 Year Of The Snake, 1833941752
@@ -74,16 +74,16 @@ Hero, 1479227476
 Thnks fr th Mmrs, 1440799376
 Poison, 253149095
 Crossing the Rubicon, 1820529741
-Ain't Talkin' 'Bout Love, 253298914
+Aint Talkin Bout Love, 253298914
 Black Summer, 1608013513
-Don't Fight It, 201425013
-Na Na Na (Na Na Na Na Na Na Na Na Na), 400148294
+Dont Fight It, 201425013
+Na Na Na Na Na Na Na Na Na Na Na Na, 400148294
 Somewhere I Belong, 528437020
-She Don't Know Me, 1440814445
-Diamond In The Rough (feat. Marty Friedman), 1821536206
+She Dont Know Me, 1440814445
+Diamond In The Rough feat Marty Friedman, 1821536206
 Alive, 425465319
 Help, 1206598560
-Milk & Honey, 405934592
+Milk  Honey, 405934592
 Cocaine, 977832541
 Exit Signs, 1765135538
 Everything About You, 1440912911
@@ -92,37 +92,37 @@ Opposite, 595691552
 Born To Raise Hell, 368729470
 If My Heart Had Wings, 1523887033
 I Hate Myself for Loving You, 1434141401
-Don't Go In The Forest, 1831556996
+Dont Go In The Forest, 1831556996
 Punk Rock Song, 1485013115
 Come Away With Me, 1445881870
-I'm Goin' Down, 203709128
+Im Goin Down, 203709128
 The Devil Is A Woman, 1736791751
-What's Up?, 1440902348
+Whats Up, 1440902348
 Dirty White Boy, 284531766
 Bad Day, 1422693810
 Sweet Sixteen, 724348798
 Asking For A Friend, 1847680351
 Tommy Gun, 647981881
-Where Do We Go?, 1462617339
+Where Do We Go, 1462617339
 51st State, 697134099
 Anything Goes, 574052520
 Surrender, 476176301
-Well, Whatever It Was, 1839918871
+Well Whatever It Was, 1839918871
 Run to the Hills, 979954060
 The Only Thing That Looks Good on Me Is You, 1440924920
 Atlas Falls, 1512827486
 Kickstart My Heart, 1242681070
-Lonesome Rider (feat. Sarah Blackwood), 1440820022
+Lonesome Rider feat Sarah Blackwood, 1440820022
 Paint It Black, 1440745782
 The Weather, 1821628271
-Won't Forget These Days, 1195687155
+Wont Forget These Days, 1195687155
 Legs, 882468025
 Oh Love, 542874032
 Unskinny Bop, 715750592
-HONEY (ARE U COMING?), 1701785550
+HONEY ARE U COMING, 1701785550
 Friends Will Be Friends, 1440822547
-Schunder-Song, 1521305886
-Let's Dance, 926949970
+SchunderSong, 1521305886
+Lets Dance, 926949970
 Self Esteem, 1485034811
 Love Is Only a Feeling, 6433518
 Turbo Lover, 212097018
@@ -131,5 +131,5 @@ Full Steam Spacemachine, 384587799
 Every Breath You Take, 1440882897
 Woman from Tokyo, 700206412
 House On Fire, 1388911107
-Jack & Diane, 1440786241
+Jack  Diane, 1440786241
 Like I Roll, 433666642

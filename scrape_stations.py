@@ -1,4 +1,5 @@
 import os
+import re
 import time
 import requests
 import yaml
@@ -154,7 +155,8 @@ def process_station(config):
             count = 0
             for item in ordered_data:
                 if item['link']:
-                    f.write(f"{item['title']}, {item['link']}\n")
+                    clean_title = re.sub(r'[^a-zA-Z0-9 ]', '', item['title'])
+                    f.write(f"{clean_title}, {item['link']}\n")
                     count += 1
             print(f"Saved {count} links to {out_path}")
 
