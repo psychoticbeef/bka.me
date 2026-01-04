@@ -11,19 +11,15 @@ CONFIG_FILE = "stations.yaml"
 BERLIN_TZ = ZoneInfo("Europe/Berlin")
 
 def extract_apple_music_link(link):
-    """Cleans an Apple Music link to keep only the song ID."""
+    """Extracts the Apple Music song ID (catalogid)."""
     if not link or "music.apple.com" not in link:
         return None
     try:
         parsed = urlparse(link)
         query_params = parse_qs(parsed.query)
         if 'i' in query_params:
-            new_query = urlencode({'i': query_params['i'][0]})
-            return urlunparse((
-                parsed.scheme, parsed.netloc, parsed.path, 
-                parsed.params, new_query, parsed.fragment
-            ))
-        return link.split('?')[0]
+            return query_params['i'][0]
+        return None
     except:
         return None
 
@@ -144,7 +140,8 @@ def process_station(config):
                 seen_identifiers.add(dedup_key)
                 ordered_data.append({
                     "name": formatted_name,
-                    "link": clean_link
+                    "link": clean_link,
+                    "title": title
                 })
 
     print(f"Found {len(ordered_data)} unique songs.")
@@ -157,7 +154,7 @@ def process_station(config):
             count = 0
             for item in ordered_data:
                 if item['link']:
-                    f.write(item['link'] + "\n")
+                    f.write(f"{item['title']}, {item['link']}\n")
                     count += 1
             print(f"Saved {count} links to {out_path}")
 
