@@ -1,37 +1,44 @@
-name: Radio Playlist Scraper
+name: Daily Playlist Scrape
 
 on:
   schedule:
-    # 21:23 UTC is approx 10:23 PM CET
-    - cron: '23 21 * * *'
+    # Run at 18:30 UTC daily
+    - cron: '37 18 * * *'
   workflow_dispatch:
+    inputs:
+      days_back:
+        description: 'Days back (0=Today, 1=Yesterday)'
+        default: '0'
+
+permissions:
+  contents: write
 
 jobs:
-  scrape-and-commit:
+  scrape:
     runs-on: ubuntu-latest
-    
-    permissions:
-      contents: write
-
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v3
+      
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
-        run: |
+      - run: |
           pip install -r requirements.txt
-
+          
       - name: Run Scraper
-        run: python scraper.py
+        env:
+          DAYS_BACK: ${{ github.event.inputs.days_back || '0' }}
+        run: python scrape_stations.py
 
-      - name: Commit and Push
+      - name: Commit
         run: |
-          git config --global user.name "GitHub Action Scraper"
-          git config --global user.email "action@github.com"
-          git add docs/*.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update playlist [skip ci]" && git push)
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update playlists: $(date +'%Y-%m-%d')"
+            git push
+          fi

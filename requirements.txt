@@ -1,7 +1,5 @@
-icalendar
-python-dateutil
-selenium
-beautifulsoup4
-webdriver-manager
 requests
 pyyaml
+selenium
+webdriver-manager
+beautifulsoup4

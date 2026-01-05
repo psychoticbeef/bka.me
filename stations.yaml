@@ -1,15 +1,41 @@
+# --- API BASED STATIONS ---
 - name: "Radio Bob"
-  api_url: "https://iris-bob.loverad.io/search.json"
-  station_id: 69
+  method: "api"
+  url: "https://iris-bob.loverad.io/search.json"
   referer: "https://www.radiobob.de/"
+  params:
+    station: 69
+  schedule: [0, 1, 2, 3, 4, 5, 6] # Mon-Sun
+  time_range: { start: 8, end: 18 }
   outputs:
-    links: "docs/bob.txt"
-    artist_title: "docs/bob_at.txt"
+    links: "docs/bob.txt"           # CSV: Title, CatalogID
+    playlist: "docs/bob_at.txt"     # Text: Artist - Title
 
 - name: "Sunshine Live"
-  api_url: "https://iris-sunshinelive.loverad.io/search.json"
-  station_id: 3
+  method: "api"
+  url: "https://iris-sunshinelive.loverad.io/search.json"
   referer: "https://www.sunshine-live.de/"
-  #chunk_hours: 1
+  params:
+    station: 3
+  chunk_hours: 1 # Loop hourly
+  schedule: [0, 1, 2, 3, 4, 5, 6]
+  time_range: { start: 8, end: 18 }
   outputs:
-    artist_title: "docs/sunshine.txt"
+    playlist: "docs/sunshine.txt"
+
+# --- SELENIUM BASED STATIONS ---
+- name: "SWR3"
+  method: "selenium"
+  url: "https://www.swr3.de/playlisten/index.html"
+  schedule: [0, 1, 2, 3, 4] # Mon-Fri
+  time_range: { start: 8, end: 18 }
+  outputs:
+    playlist: "docs/swr3.txt"
+
+- name: "SWR1"
+  method: "selenium"
+  url: "https://www.swr.de/swr1/rp/musikrecherche-swr1-rp-detail-100.html"
+  schedule: [6] # Sunday
+  time_range: { start: 11, end: 16 }
+  outputs:
+    playlist: "docs/swr1.txt"
