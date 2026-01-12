@@ -1,114 +1,122 @@
-Wild Woman,1839704432
-Every Breath You Take,1440882897
-Blue Sky Mine,885256765
-Bad Medicine,1440677674
-The Kids Aren't Alright,1440881625
-Fake It,1440777828
-Princess of the Night,693417973
-Caught Up In You,1440891607
-Hell Raiser,1040963369
-Caution,1502453962
-Vertigo,1440729861
-Metal Health (Bang Your Head),190737658
-Exit Signs,1765135538
-Story of My Life,197984900
-Rhythm of Love,1440784613
-Good Riddance (Time of Your Life),1159778603
-Killing Fields,1825930765
-Ask the Lonely,169004346
-Enjoy the Silence,937911216
-Owner of a Lonely Heart,576802190
-Up Around the Bend,1440956322
-Heroes,1260636115
-Crown of Horns,1709355178
-Rockstar,214403648
-Even Flow,158049842
-Up From the Bottom,1801842349
-Bonnie & Clyde,478013605
-Bedroom Posters,1810791442
-Whatever Happened to the 80s,204435186
-Highway Star,700205712
-Keep Your Hands to Yourself,298088778
-The Captain,384241294
-Tush,882468021
-Start Me Up,1440812153
-Asking For A Friend,1847680351
-Paranoid,1156653930
-St. Pauli,1452531121
-Whatever,1525936734
-Getting Away With Murder,1440825651
-Urgent,284531775
-Counting Blue Cars (Tell Me Your Thoughts on God),1434901802
-Lose Your Head,1485074617
-Modern Girl,306794390
-Thunderstruck,574051407
-The Power of Love,725785116
-You Got This,1849226956
-Shelter Me,1435808561
-Lolita,1441809679
-Knockin' On Heaven's Door,263688995
-Heart Of The Hurricane,1458330229
-Wicked Game,255078289
-Turbo Lover,212097018
-Year Of The Snake,1833941752
-Layla,1440663520
-Foxtrot Uniform Charlie Kilo,1440802169
-"Girls, Girls, Girls",1242681068
-Hot Under The Collar,1817457528
-Mama Said,1440837940
-Still Breathing,1140560589
-"Once Bitten, Twice Shy",214805044
-Bring Me To Life,1440666111
-Eye of the Tiger,254685026
-"Well, Whatever It Was",1839918871
-Get It On,1670614895
-Money For Nothing,1440654230
-Open Your Eyes,1440631671
-Doctor Doctor,1142809000
-Still Into You,593148441
-Hold On Loosely,1236801931
-Wake Me Up (When This Nightmare's Over),1600965880
-Ball and Chain,197986000
-Only The Dead,1590583470
-2 Minutes To Midnight,981145792
-The Weather,1821628271
-Spaceman,1440902501
-Youth Gone Wild,1092782319
-Smooth Criminal,1440762729
-Don't Speak,1440645888
-Darkside,1473471042
-Midnight Blue,160419893
-Don't Stop Believin',169003415
-Zombie,1440745653
-Times Like These,334812020
-Give Me More Time,693207672
-Mess It Up,1704374052
-Buddy Holly,1440879325
-Square Hammer,1440937567
-Paradise City,1377813298
-Just Watch Me,1845951987
-Mama Weer All Crazee Now,1459290709
-By a Monster’s Hand,1794563062
-Runaway,1422962847
-Use Somebody,290303018
-Hands Open,1440780252
-Free Fallin',1440825619
+Heaven For Everyone,1440822698
+American Girl,892461953
+Best of Both Worlds,253301335
+The Grand Slam,1828288854
+"Another Brick In the Wall, Pt. 2",700054855
+Scars,1440825655
+Black Night,724424979
+Rock 'n' Roll Star,1517519730
+The Trooper,981145793
 Crossing the Rubicon,1820529741
-I Alone,1440716643
-Amanda,1442222818
-Songs für Liam,1440779231
-Along Comes Mary,1440808826
-Gypsy Road,282106215
-Leave Out All the Rest,528975365
-Smells Like Teen Spirit,1440783625
-Best of What I Got,257870725
-Gimme All Your Lovin',655184888
-The Boys of Summer,197890727
-Love Walks In,215640592
-Anywhere the Wind Blows,1469399221
-Fallen Leaves,160346639
-I Still Haven't Found What I'm Looking For,1440730038
-Come Away With Me,1445881870
-On the Line,1712115727
-Zu spät,292960053
-Somebody,1440813788
+All You Zombies,288508252
+Long Road to Ruin,334812052
+Jealous Again,383773011
+Where Do We Go?,1462617339
+Baba O'Riley,1440799468
+Dopamine,1716427589
+Cats in the Cradle,1440912785
+Any Way You Want It,169004107
+Year Of The Snake,1833941752
+Livin' on the Edge,1440917861
+Living After Midnight,207346368
+Tell Me Baby,945569013
+Heat of the Moment,1421294691
+Hot Under The Collar,1817457528
+Killing In the Name,191450927
+Oh Love,542874032
+A Matter Of Trust,158816305
+The Devil Is A Woman,1736791751
+Pretty Fly (For a White Guy),1440881518
+Dr. Feelgood,1242687817
+Rock & Roll Queen,72868095
+Born to Be Wild,1425253292
+I Bet You Look Good on the Dancefloor,111153391
+Sharp Dressed Man,655185090
+Killing Fields,1825930765
+Little Lies,202272697
+I Don't Care,1440560156
+Dirty Love,377416682
+The Dirt I'm Buried In,1650504522
+Teenage Rampage,1040963365
+HONEY (ARE U COMING?),1701785550
+Mrs. Robinson,1225275541
+Kids Wanna Rock,1443510208
+The Weather,1821628271
+November Rain,1440896193
+Heaven's On Fire,1442457958
+Teenagers,260548666
+Stiff Upper Lip,578510483
+Killer Queen,1440822101
+Jump,253300195
+Entre Dos Tierras,697634977
+Shut Up & Kiss Me,1452312143
+Anybody Seen My Baby?,1440812588
+Hier kommt Alex,722306827
+Bedroom Posters,1810791442
+Cape of Our Hero,1440819580
+Recovery,1440909226
+Rockin' In the Free World,135132686
+In Spite of Everything,1569182122
+Punk Rock Song,1485013115
+Bohemian Like You,723935505
+Pride (In the Name of Love),1440729859
+Wild Woman,1839704432
+All the Small Things,1440845307
+Starlight,992221996
+Call It Love,161059778
+Kick,1611600331
+Asking For A Friend,1847680351
+Land of Confusion,1030228543
+Roxanne,1440883524
+Dancing With Myself,724348555
+Won't Let Go,433666638
+You Got This,1849226956
+Burning Heart,271868841
+Calling,1459629177
+Scar Tissue,947701036
+"Blue on Black (feat. Kenny Wayne Shepherd, Brantley Gilbert & Brian May)",1454353037
+Easy Livin',1143688649
+When the Sun Goes Down,111153718
+Some Might Say,1517519734
+Legs,882468025
+Exit Signs,1765135538
+Why Don't You Get a Job,1440881849
+Breaking the Law,207346225
+Sex On the Radio,716240661
+Don't Go In The Forest,1831556996
+Basket Case,1160082180
+Paralyzed,1709632975
+Moneytalks,575998089
+Slow Ride,1225275491
+Love Is Only a Feeling,6433518
+Wild Side,713437315
+"Well, Whatever It Was",1839918871
+Dancing in the Dark,203709340
+Mountains,384241309
+I Could Have Been a Dreamer,1442576988
+Pamela,1374868004
+Beautiful Girl,1440517446
+"This Ain't a Scene, It's an Arms Race",1440560147
+Talk Dirty to Me,715750443
+Gods Of Rock N Roll (feat. Steve Stevens),1790387608
+Livin' On a Prayer,1422962493
+Burn It to the Ground,295233934
+To Be With You,576802306
+Carousel,1810606183
+Safari Song,1440900404
+It's Only Love,1422706712
+Radio Orchid,1195687132
+I Fought the Law,647981479
+Freunde,478013619
+Satellite,288508253
+Crazy,1440917793
+We Built This City,1451799704
+Rosanna,205723807
+Lola Montez,1440820323
+Balls To the Wall,392883764
+Just Watch Me,1845951987
+Immigrant Song,580708280
+Dakota,1440800583
+I Want a New Drug,725785113
+American Rock 'n Roll,1295827273
+Fuel,1440875710
