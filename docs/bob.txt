@@ -1,113 +1,128 @@
-Mr. Brightside,1440891171
-I'm the Only One,1449912395
-Can't Stop,945578427
-More Than a Feeling,218124730
-Let's Ride,573424813
-Hot Under The Collar,1817457528
-Wild Frontier,712950862
-Three Chords,1580413041
-Wish You Were Here,700058019
-Blind,1440822872
-"Girls, Girls, Girls",1242681068
-Exit Signs,1765135538
-Just a Girl,1440645268
-51st State,697134099
-Last of the American Girls,315611381
-Nothin',1858411509
-Don't You (Forget About Me),1453878313
-Walk,456564025
-Layla,1440663520
-The Emptiness Machine,1766137051
-Since You've Been Gone,186347723
-Before I Die,727165429
-She Don't Know Me,1440814445
-Dirty Love,377416682
-Who Are You,585701884
-Crossing the Rubicon,1820529741
-Love Walks In,215640592
-Temple,1435640293
-Bonnie & Clyde,478013605
-Down On the Corner,1440926430
-On The Dark Side,1607366694
-Janie's Got a Gun,1440917774
-Hold On Loosely,1236801931
 The Weather,1821628271
-Along Comes Mary,1440808826
-In Between Days,1440662787
-Handwritten,1445887231
-The Show Must Go On,1440822550
-Bedroom Posters,1810791442
-That Was Yesterday,284531793
-Drive It In,353969687
-Go Your Own Way,202271971
-Again,1523886810
-Satellite,288508253
-Ist da jemand?,1476835860
-Big Gun,579650412
-Just Watch Me,1845951987
-The Number of the Beast,979954059
-Tragedy + Time,1440860412
-Backwards,1580799564
+My Oh My,1459411303
+Want You Bad,1440883273
+Sharp Dressed Man,655185090
+Barracuda,192691055
+I'm on Your Side,1474250738
+The Drug In Me Is You,579836679
+Sweet Child O' Mine,1377813701
+Teenage Rampage,1040963365
+The Chain,1486806905
+Whiskey In the Jar,1440857603
+I Want You to Want Me,193204271
+Get to You,1553928330
+Animals,719617259
+Eyes Without a Face,724348591
 Year Of The Snake,1833941752
-Days Like These,1421303799
-Separate Ways (Worlds Apart),169004756
-Moving On,669224964
-This Flight Tonight,1208824290
-Für immer jung,1520559308
-All the Love,186347344
-Easy Lover,1005850935
-Turn Me Loose,207181143
-Carousel,1810606183
-"Another Brick In the Wall, Pt. 2",700054855
-No One Knows,1444416578
-All Right Now,1440833833
-We Come Alive,1730982901
-Out In the Fields,724493185
-Face I Love,1349261218
-Heart Of The Hurricane,1458330229
-Westerland,1533955574
-What You Need,1800727120
-High Enough,321975428
-Let's Dance,926949970
-Hard Rock Hallelujah,977151107
-Diamond In The Rough (feat. Marty Friedman),1821536206
-What's My Age Again?,1440845299
-Shock Me,1442380457
-Temple Of Ekur,1586126097
-She Sells Sanctuary,1028833873
-Baby,1440841452
-The Boys of Summer,1440816332
+The Stroke,1440819912
+Caution,1502453962
+Fool for Your Loving,693206937
+Scar Tissue,947701036
 Profane Prophecy,1858689489
-L.A. Woman,724348803
-Tiny Indoor Fireworks,1501357166
-Ich will hier nicht sein,1476835870
-God Save the Queen,1440811242
-Heart-Shaped Box,1413921237
-Rock and Roll,1052497454
-Nothin' But a Good Time,72548003
-With Arms Wide Open,1440718229
-Ghosts,1529959286
-Waste a Moment,1286896203
-Up Around the Bend,1440956322
-Enter Sandman,1440833253
-Stray Heart,581055927
-Bad Medicine,1440677674
-Song on Fire,1234838377
-Hier kommt Alex,722306827
-Give a Little Bit,1109654778
-One Vision,1440822675
-I Shot the Sheriff,1440913405
-Wild Child,1611850616
-Princess of the Night,693417973
-Thirsty,1442403641
-Killing Fields,1825930765
-Joker and the Thief,1440749497
-Lovin' Every Minute of It,298192111
-Perfect Strangers,724569583
-The Mountain,1337775372
-I Remember You,265611396
-Buddy Holly,1440879325
-Hells Bells,574050495
-Black Hole Sun,1423646241
-Sirenen,999126982
-I Don't Know You,1618291413
+I Hate Myself for Loving You,1434141401
+Rock 'N' Roll Outlaw,1215315785
+Little Lion Man,1440751154
+Beautiful Girl,1440517446
+Gitarre runter,1441788247
+Angie,1521993600
+Lake Effect Kid,1428999424
+Mama,724591603
+The River,186065422
+I'll Be Waiting,716243942
+Love Is a Long Road,1440825626
+The Game,1781886295
+Asking For A Friend,1847680351
+Take It Off,319397483
+Juke Box Hero,284531774
+Wake Up Calling,1862338150
+Basket Case,1160082180
+The Trooper,981145793
+NOISE,1573414188
+Zehn kleine Jägermeister,269733556
+Pride (In the Name of Love),1440729859
+9 Lives,1868641955
+Nothing Else Matters,1440833804
+Thought Contagion,1434329542
+Passion Rules the Game,1440784616
+"A Long, Long Time Ago",1553802798
+Mama Kin,251433077
+Over the Hills and Far Away,712950973
+The Emptiness Machine,1766137051
+Top of the World,253300229
+"Blue on Black (feat. Kenny Wayne Shepherd, Brantley Gilbert & Brian May)",1454353037
+Play Ball,923586229
+Rockstar,214403648
+Working for the Weekend,207181187
+Nothin',1858411509
+Alive,425465319
+The Hills,1603722579
+Hey Tonight,1440927038
+Guess Who's Back,1677322498
+Let Her Cry,15123904
+Hammer to Fall,1435375499
+The Grand Slam,1828288854
+Rock 'N' Roll High School,853504102
+Through Glass,214473041
+Money For Nothing,1440654230
+Talk Dirty to Me,715750443
+Hot Under The Collar,1817457528
+Breakfast At Tiffany's,390615766
+OK,1521500672
+I Want a New Drug,725785113
+Modern Love,1664275308
+American Idiot,207192732
+Rosanna,205723807
+"Well, Whatever It Was",1839918871
+Life In the Fast Lane,640369793
+Mary on a Cross,1478932237
+Runaway,1422962847
+Supernatural Superserious,1440943092
+Leave Out All the Rest,528975365
+Sweet Sixteen,724348798
+Bedroom Posters,1810791442
+Tattooed Millionaire,1141569963
+Missing on TV,1751750750
+For Whom the Bell Tolls,1440869929
+It's Not My Time,1440791127
+Exit Signs,1765135538
+Kings Highway,1440821758
+Eye of the Tiger,254685026
+When You Were Young,1440891180
+Walking By Myself,723403289
+1987,1640745028
+I'm Goin' Down,203709128
+All You Zombies,288508252
+Crossing the Rubicon,1820529741
+Californication,947701035
+How You Remind Me,214475478
+Take It On the Run,385550969
+Shotgun Blues,1586126256
+Breakin' Outta Hell,1440835801
+Here I Go Again,699744046
+Just Watch Me,1845951987
+China Grove,1110962141
+Overcome,1676331061
+Marliese,696846083
+I Believe in a Thing Called Love,6433514
+Open Your Eyes,1440631671
+Heat of the Moment,1421294691
+Carousel,1810606183
+Road to Nowhere,209695679
+Lose Your Head,1485074617
+Jack & Diane,1440786241
+Wie es geht,1521306225
+Rock 'n' Roll Star,1517519730
+Little Lies,202272697
+Where Are We Runnin'?,723863194
+Don't Speak,1440645888
+Best of What I Got,257870725
+For You,208079325
+There Will Never Be Another Tonight,1445751010
+Saturday Night's Alright for Fighting,1440745314
+Don't Tell Me You Love Me,1440782944
+The Bandit,1547474736
+First Date,943895034
+Rebel Yell,724348585
+Behind Blue Eyes,1440788416
+Mother's In The Kitchen (live at Audiolodge),1805721072
+Have a Nice Day,1440677671
