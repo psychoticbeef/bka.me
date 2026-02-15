@@ -1,118 +1,127 @@
-Animals,719617259
-Profane Prophecy,1858689489
-Whiskey In the Jar,1440857603
-Days Go By,1440878395
-Maggie May,295534398
-Take It Off,319397483
-Smells Like Teen Spirit,1440783625
-A Matter Of Trust,158816305
-Tiny Indoor Fireworks,1501357166
-Whole Lotta Rosie,575663813
-"A Long, Long Time Ago",1553802798
-Hier kommt Alex,722306827
-Wake Up Calling,1862338150
-Anybody Seen My Baby?,1440812588
-32,1611282283
-Your Mama Don't Dance,715750586
-Carousel,1810606183
-Crazy Train,158044642
-Won't Let Go,433666638
-Teenage Rampage,1040963365
-Shotgun Blues,1586126256
-There's Only One Way to Rock,1440776616
-Adrienne,271870175
-The Number of the Beast,979954059
-I Alone,1440716643
-Beautiful Day,1530603868
-Behind Blue Eyes,1434897600
-The Shock Of The Lightning,1517495778
-Year Of The Snake,1833941752
-Cats in the Cradle,1440912785
-Bad Medicine,1440677674
-Modern Love,1664275308
-The River,186065422
-Open Your Eyes,1440631671
-Summer Of '69,1440924764
-What's Up?,1440902348
-Darkside,1473471042
-Rainbow In the Dark,1442913010
-Boulevard of Broken Dreams,320084009
-The Grand Slam,1828288854
-Rough Boy,882468038
-It's Not My Time,1440791127
-Crazy Little Thing Called Love,1440822110
-Bring Me Some Water,1440866235
-Celebrate Youth,1442637537
-Play Ball,923586229
-Killing Fields,1825930765
-18 and Life,265611290
-Breaking the Habit,528437026
-Scar Tissue,947701036
-S.O.S. (Sawed Off Shotgun),1278490471
-More Than a Feeling,218124730
-Hero (feat Josey Scott),1048688838
-Hot Under The Collar,1817457528
-Best of Both Worlds,253301335
-Long Road to Ruin,334812052
-Wheel In the Sky,169003481
-The Loneliest Hour,1694753333
-Over the Hills and Far Away,712950973
-Exit Signs,1765135538
-Hard To Handle,1440810837
-God Made Radio,1640488103
-Is This Love,693213544
-Lifestyles of the Rich & Famous,288051955
-Crossing the Rubicon,1820529741
-"Another Brick In the Wall, Pt. 2",700054855
-I Believe in a Thing Called Love,6433514
-Hot Blooded,284531765
-Only The Dead,1590583470
-Nothin' But a Good Time,72548003
-Have a Nice Day,1440677671
-You're All I Have,1440780032
-Start Me Up,1440812153
-Hooray Hooray Hooray,1803614452
-Enter Sandman,1440833253
+Pet Sematary,853504132
+Still Got the Blues (For You),724160176
+Josephine,712743116
+New Sensation,1440517624
+Leviathan,1460657335
+Revolution Radio,1140560530
+Somebody,1440813788
 Nothin',1858411509
-Rockin' All Over the World,1440651234
-Big City Nights,735967067
-The Hives Forever Forever The Hives,1803614794
-Gimme Three Steps,1440838310
-Rejoice,1862633596
-It's the End of the World As We Know It (And I Feel Fine),1440850619
-St. Pauli,1452531121
-The Bliss,1440847653
-I Still Haven't Found What I'm Looking For,1440730038
+Barracuda,41259997
+Block Buster!,211691253
+Crazy,1440917793
+Revelation,1354031451
+Surrender,476176301
+Sharp Dressed Man,655185090
+Hot Under The Collar,1817457528
+Where the Streets Have No Name,1440729868
+HONEY (ARE U COMING?),1701785550
+Turbo Lover,212097018
+Come as You Are,1413921156
 The Weather,1821628271
-Wonderwall,1517447333
-Anywhere the Wind Blows,1469399221
+Born In the U.S.A.,203708455
+Every Wild Heart,1440930652
+Gimme Some Lovin',1440727200
+Buddy Holly,1440879325
+Can't Stop,945578427
+Up Around the Bend,1440956322
+Bulletproof,1440902520
+We're Not Gonna Take It,1093420483
+Exit Signs,1765135538
+Even Flow,158049842
+Hallelujah,1440850440
+No One Like You,1440784622
+Under the Graveyard,1486836089
+Somewhere I Belong,528437020
+Wild Child,1611850616
+Kashmir,563633268
+White Wedding,716121209
+Thnks fr th Mmrs,1440799376
+18 and Life,265611290
+Profane Prophecy,1858689489
+Life In the Fast Lane,640369793
+Atlas Falls,1512827486
+Say It Isn't So,186346539
+The Pretender,451869588
+Rejoice,1862633596
+Tattooed Millionaire,1141569963
+Why Don't You Get a Job,1440881849
+Euphoria,1273672456
+Mystify,1440517431
+Hurra,1521305891
+Rock 'N' Roll Damnation,575998656
+Take Me Down,1440939674
+Gimme All Your Lovin',655184888
+The Captain,384241294
+Kings Highway,1440821758
+Solid Gold,1259927521
+Driver's Seat,590187095
+Shadow of Your Love,1377827083
+Everything About You,1440912911
+Your Love Is Driving Me Crazy,1440776786
 Wild Woman,1839704432
-Life Is a Highway,724389622
-Winner Takes It All,365448189
-Photograph,214403497
-Everlong,451869611
-House On Fire,1388911107
-Gypsy Road,282106215
-All You Zombies,288508252
-I'm the Only One,1449912395
-Countdown to Insanity,1444398500
-Killed By Death,694088412
-Mother's In The Kitchen (live at Audiolodge),1805721072
-Lavatory Love Machine,1460465329
-Free Fallin',1440825619
-9 Lives,1868641955
-Wish You Were Here,700058019
-BABY SAID,1659658724
-51st State,697134099
-Blurry,1450664888
-Numb,528437514
-Don't You (Forget About Me),1453878313
-Heart-Shaped Box,1413921237
-62 (My Generation’s Falling Apart),1481407687
-Take It On the Run,385550969
-Like a Rolling Stone,1440812663
-You Give Love a Bad Name,1440677667
-Beverly Hills,1440865427
-Unskinny Bop,715750592
-Sweet Gloria,1634455942
-Your Love,186346150
+Black Betty,216088341
+Recovery,1440909226
+Best of What I Got,257870725
+I Want It All,1440822129
+Counting Blue Cars (Tell Me Your Thoughts on God),1434901802
+Freunde,478013619
+In Between Days,1440662787
+This Heart,1753967402
+Just a Girl,1440645268
+Bad Day,1422693810
+I Wanna Rock,1225275188
+Just Watch Me,1845951987
+Youth Gone Wild,1092782319
+Over Each Other,1766137055
+"Bad Boys, Rag Dolls",357615055
+If Today Was Your Last Day,295233942
+No Surprise,320857023
+Africa,270787384
+The Grand Slam,1828288854
+Move,253917019
+Don't Lose It,1399546180
+Money For Nothing,1440654230
+Tanzt du noch einmal mit mir?,1477080630
+Wake Up Calling,1862338150
+Won't Forget These Days,1195687155
+Run to the Hills,979954060
+Best of You,203519845
+Don't Drag Me Down,201414886
+Mary on a Cross,1478932237
+Fool for Your Loving,693206937
+Eye of the Tiger,254685026
+Year Of The Snake,1833941752
+Word Up,1444209410
+Go Your Own Way,202271971
+I Could Have Been a Dreamer,1442576988
+We Are The Rest,1684700890
+Always the Last To Know,1444161684
+Breath,1440808141
+Pour Some Sugar On Me,437348011
+Killing Fields,1825930765
+I Miss You,1440845398
+Wreckage,1730087982
+Dancing With Myself,724348555
+Stillness of Heart,726135952
+Black Ice,575663805
+My Oh My,1459411303
+Crossing the Rubicon,1820529741
+Hedonism (Just Because You Feel Good),1505331455
+Good Time,1677322505
+Hit That,1376395435
+Lust For Life,1440882903
+The Unforgiven II,1440872738
+Balls To the Wall,392883764
+You Know My Name,1436558554
+"Mama, I'm Coming Home",209695192
+Urgent,284531775
+The Devil's Bleeding Crown,1440847656
+Kryptonite,1443714857
+Verdamp Lang Her,724733283
+Safari Song,1440900404
+The Middle,1450030115
+Wild Side,713437315
+Smoke On the Water,726163881
+The Way,1440905488
+The Trooper,981145793
+Last Resort,709157653
