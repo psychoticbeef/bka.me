@@ -1,117 +1,120 @@
-Hurra,1521305891
-Beast of Burden,76155150
-Boys Don't Cry,1440932663
-Metal Health (Bang Your Head),190737658
-Mess It Up,1704374052
-Self Esteem,1485034811
-Demon Fire,1533816334
-Rockin' In the Free World,135132686
-Because the Night,209671962
-Eye of the Tiger,254685026
-Love Is a Long Road,1440825626
-Wild Woman,1839704432
-Fear of the Dark,699819854
-Rhythm of Love,1440784613
-Going Clear,1606211475
-The Grand Slam,1828288854
-Wild Side,713437315
-Cold Hard Bitch,2859582
-Born to Be Wild,1425253292
-Wild Child,1611850616
-Crazy Crazy Nights,1451182043
-Watch Over You,1440746893
-Falling For Strangers,1833559160
-Handwritten,1445887231
-Learn to Fly,278229654
-Back On the Road Again,385551005
-Heart Of The Hurricane,1458330229
-Australia,257479356
-Born to Be My Baby,1440677678
-Exit Signs,1765135538
-Born To Raise Hell,368729470
-Heart Turns to Stone,284531800
-Through Glass,214473041
-Why Can't This Be Love,253303419
+Jump,253300195
+You're All I Have,1440780032
+Shout It Out Loud,1440783622
+Good Riddance (Time of Your Life),1159778603
 Year Of The Snake,1833941752
-Breakfast At Tiffany's,390615766
-CASTLE OF GLASS,518869940
-Give Me More Time,693207672
-DANCE WITH ME,1707257679
-You Get What You Give,1440762717
-9 Lives,1868641955
-Hier kommt Alex,722306827
-Mr. Brightside,1440891171
-Cowboy Song,1443720355
-Dance Macabre,1368158534
-Hammer to Fall,1435375499
-Lonesome Rider (feat. Sarah Blackwood),1440820022
-Rock 'N' Roll Train,574052453
-Celebrate,1838501370
-Otherside,947701044
-The End of the Innocence,1444195063
-Coming of Age,217539294
-All the Love,186347344
-Talking to Ourselves,1556349471
-Rock 'N' Roll Outlaw,1215315785
-Carry On Wayward Son,355939445
-Passion Rules the Game,1440784616
-Killing Fields,1825930765
-Summer Of '69,1440924764
-Pocket,595691746
-The Unforgiven II,1440872738
-Guess Who's Back,1677322498
-La Grange,1443556254
-Lake Effect Kid,1428999424
-"Girls, Girls, Girls",1242681068
-Stuck With You,725785132
-Some Might Say,1517519734
-Nothin',1858411509
-Baby,1440841452
-Hungry Heart,1435854365
-Wake Up Calling,1862338150
-Killing In the Name,191450927
-Redneck Paradise,573424823
-Pride (In the Name of Love),1440729859
-Mother's In The Kitchen (live at Audiolodge),1805721072
-Little Lies,202272697
-Wie es geht,1521306225
-High Time,1642698737
-Midnight Blue,160419893
-BURN IT DOWN,518869937
-Over the Hills and Far Away,712950973
-Is This Love,693213544
-Ring of Fire,1444280828
-Everything About You,1440912911
+Let's Dance,926949970
+Waste a Moment,1286896203
+Paranoid,1156653930
+Missing on TV,1751750750
+Real Wild Child (Wild One),1443994800
+My Friends Over You,1440802172
 Profane Prophecy,1858689489
-"Bad Boys, Rag Dolls",357615055
-The Game,1781886295
-Easy Lover,1005850935
-With Arms Wide Open,1440718229
-So Lonely,1440883529
-Hands Open,1440780252
-Rejoice,1862633596
-American Woman,723338394
-Get It On,1670614895
-Africa,270787384
-White Trash Millionaire,433666608
-Didn't Know It Was Love,271868873
-Into the Great Wide Open,1440821764
-Legs,882468025
+Ask the Lonely,169004346
+Won't Forget These Days,1195687155
+Kick,1611600331
+Simple Man,1434094421
+Narcotic,1015955379
+With or Without You,1440729860
+Days Like These,1421303799
+Electric Eye,212096920
+The Boys of Summer,1440816332
+Nothin',1858411509
+Two Princes,169628364
+Want You Bad,1440883273
+Perfect Strangers,724569583
+NOISE,1573414188
 Crossing the Rubicon,1820529741
-This Flight Tonight,1208824290
-Oh Love,542874032
-Big City Nights,735967067
-Whatever,1525936734
-It's Only Love,1422706712
-Caution,1502453962
-18 and Life,265611290
-Joker and the Thief,1440749497
+Rag Doll,1440917493
+Don't Tell Me How to Live,1057975197
+2-4-6-8 Motorway,696999487
+I Won't Back Down,1440825623
+Princess of the Night,693417973
 Just Watch Me,1845951987
-Marliese,696846083
-Lose Your Head,1485074617
-Hells Bells,574050495
-Life Is a Highway,724389622
-Fortunate Son,1440926434
-Low Hangin' Fruit,509871397
-Sleeping My Day Away,345101010
-Gitarre runter,1441788247
+For You,208079325
+She Hates Me,1450664889
+The Usual Suspects,1634455594
+Dance Dance Dance,1448249793
+Let Her Cry,15123904
+One Night Love Affair,1440813496
+Wake Up Calling,1862338150
+Bohemian Like You,723935505
+You Shook Me All Night Long,574050607
+Rock'n Me,1440917281
+Dancing In the Street,253304121
+All the Small Things,1440845307
+I Don't Know You,1618291413
+Your Mama Don't Dance,715750586
+Welcome to My Life,110686792
+Burning Heart,271868841
+The Grand Slam,1828288854
+Rock and Roll All Nite,1442379861
+Ich will hier nicht sein,1476835870
+Like a Rolling Stone,1440812663
+Rejoice,1862633596
+Still Breathing,1140560589
+Give Me All Your Love,693206942
+Californication,947701035
+Panic Attack,1464238524
+Feed My Frankenstein,253149197
+Falling For Strangers,1833559160
+Where the Streets Have No Name,1440729868
+Celebrate Youth,1442637537
+Fox on the Run,1040963364
+When I'm Gone,1482163910
+Mystify,1440517431
+Owner of a Lonely Heart,576802190
+Living After Midnight,207346368
+The Drug In Me Is You,579836679
+Rough Boy,882468038
+The Memory Remains,1440875773
+BABY SAID,1659658724
+I Shot the Sheriff,1440913405
+Shotgun Blues,1586126256
+Why Don't You Get a Job,1440881849
+Road to Nowhere,209695679
+Wild Woman,1839704432
+Black Velvet,217503142
+Lost Weekend,1443994466
+Take It Off,319397483
+The Only Thing That Looks Good on Me Is You,1440924920
+Exit Signs,1765135538
+Hard As a Rock,579533585
+Highway Tune,1440900539
+No One Like You,1440784622
+OK,1521500672
+I Want It All,1440822129
+I Wanna Rock,1225275188
+Celebrate,1838501370
+Peace of Mind,218124748
+Animals,719617259
+Don't Tell Me You Love Me,1440782944
+Backwards,1580799564
+Shelter Me,1435808561
+Full Steam Spacemachine,384587799
+Livin' On a Prayer,1422962493
+Down by the River,1465910289
+That Was Yesterday,284531793
+Teenagers,260548666
+Along Comes Mary,1440808826
+Killing Fields,1825930765
+Money For Nothing,1440654230
+Darkside,1473471042
+We Didn't Start the Fire,273854291
+Wicked Game,255078289
+The Boys Are Back In Town,1440923430
+When You Were Young,1440891180
+Since You've Been Gone,186347723
+S.O.S. (Sawed Off Shotgun),1278490471
+Are You Gonna Go My Way,723338309
+Tiny Indoor Fireworks,1501357166
+Poison,253149095
+Leave Out All the Rest,528975365
+New Sensation,1440517624
+Kings Highway,1440821758
+Dr. Feelgood,1242687817
+Carousel,1810606183
+The Ballroom Blitz,1040963196
+Use Somebody,290303018
+St. Pauli,1452531121
+All Star,1440915693
