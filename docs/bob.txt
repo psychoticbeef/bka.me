@@ -1,120 +1,114 @@
-Jump,253300195
-You're All I Have,1440780032
-Shout It Out Loud,1440783622
-Good Riddance (Time of Your Life),1159778603
-Year Of The Snake,1833941752
-Let's Dance,926949970
-Waste a Moment,1286896203
-Paranoid,1156653930
-Missing on TV,1751750750
-Real Wild Child (Wild One),1443994800
-My Friends Over You,1440802172
-Profane Prophecy,1858689489
-Ask the Lonely,169004346
-Won't Forget These Days,1195687155
-Kick,1611600331
-Simple Man,1434094421
-Narcotic,1015955379
-With or Without You,1440729860
-Days Like These,1421303799
-Electric Eye,212096920
-The Boys of Summer,1440816332
-Nothin',1858411509
-Two Princes,169628364
-Want You Bad,1440883273
-Perfect Strangers,724569583
-NOISE,1573414188
-Crossing the Rubicon,1820529741
-Rag Doll,1440917493
-Don't Tell Me How to Live,1057975197
-2-4-6-8 Motorway,696999487
-I Won't Back Down,1440825623
-Princess of the Night,693417973
-Just Watch Me,1845951987
-For You,208079325
-She Hates Me,1450664889
-The Usual Suspects,1634455594
-Dance Dance Dance,1448249793
-Let Her Cry,15123904
-One Night Love Affair,1440813496
+Summer Of '69,1440924764
+Breakfast At Tiffany's,390615766
+Since You Been Gone,1445099174
+Schrei nach Liebe,1521324605
 Wake Up Calling,1862338150
-Bohemian Like You,723935505
-You Shook Me All Night Long,574050607
-Rock'n Me,1440917281
-Dancing In the Street,253304121
-All the Small Things,1440845307
-I Don't Know You,1618291413
-Your Mama Don't Dance,715750586
-Welcome to My Life,110686792
-Burning Heart,271868841
-The Grand Slam,1828288854
-Rock and Roll All Nite,1442379861
-Ich will hier nicht sein,1476835870
-Like a Rolling Stone,1440812663
-Rejoice,1862633596
-Still Breathing,1140560589
-Give Me All Your Love,693206942
-Californication,947701035
-Panic Attack,1464238524
-Feed My Frankenstein,253149197
-Falling For Strangers,1833559160
+Bad to the Bone,716530455
 Where the Streets Have No Name,1440729868
-Celebrate Youth,1442637537
-Fox on the Run,1040963364
-When I'm Gone,1482163910
-Mystify,1440517431
-Owner of a Lonely Heart,576802190
-Living After Midnight,207346368
-The Drug In Me Is You,579836679
-Rough Boy,882468038
-The Memory Remains,1440875773
-BABY SAID,1659658724
-I Shot the Sheriff,1440913405
-Shotgun Blues,1586126256
-Why Don't You Get a Job,1440881849
-Road to Nowhere,209695679
-Wild Woman,1839704432
-Black Velvet,217503142
-Lost Weekend,1443994466
-Take It Off,319397483
-The Only Thing That Looks Good on Me Is You,1440924920
-Exit Signs,1765135538
-Hard As a Rock,579533585
-Highway Tune,1440900539
-No One Like You,1440784622
-OK,1521500672
-I Want It All,1440822129
-I Wanna Rock,1225275188
-Celebrate,1838501370
-Peace of Mind,218124748
-Animals,719617259
-Don't Tell Me You Love Me,1440782944
-Backwards,1580799564
-Shelter Me,1435808561
-Full Steam Spacemachine,384587799
-Livin' On a Prayer,1422962493
-Down by the River,1465910289
-That Was Yesterday,284531793
-Teenagers,260548666
-Along Comes Mary,1440808826
+The Dirt I'm Buried In,1650504522
+L.A. Woman,724348803
+Urgent,284531775
+Hedonism (Just Because You Feel Good),1505331455
+Breaking the Habit,528437026
+"Once Bitten, Twice Shy",214805044
+I Left My License in the Future,1712101555
+Beautiful Girl,1440517446
 Killing Fields,1825930765
-Money For Nothing,1440654230
-Darkside,1473471042
-We Didn't Start the Fire,273854291
-Wicked Game,255078289
-The Boys Are Back In Town,1440923430
-When You Were Young,1440891180
-Since You've Been Gone,186347723
-S.O.S. (Sawed Off Shotgun),1278490471
-Are You Gonna Go My Way,723338309
-Tiny Indoor Fireworks,1501357166
-Poison,253149095
-Leave Out All the Rest,528975365
-New Sensation,1440517624
-Kings Highway,1440821758
-Dr. Feelgood,1242687817
+She Don't Know Me,1440814445
+Still Counting,1443272739
+More Than a Feeling,218124730
+Wake Me Up (When This Nightmare's Over),1600965880
+Didn't Know It Was Love,271868873
 Carousel,1810606183
-The Ballroom Blitz,1040963196
-Use Somebody,290303018
-St. Pauli,1452531121
-All Star,1440915693
+Chelsea Dagger,1440783311
+Night Like This,1497157165
+You Ain't Seen Nothin' Yet,73987238
+Bring Me To Life,1440666111
+Pamela,1374868004
+The Unforgiven II,1440872738
+Pride (In the Name of Love),1440729859
+Rejoice,1862633596
+With Arms Wide Open,1440718229
+Smokin' In the Boys Room,1242681065
+Gypsy Road,282106215
+Wild Woman,1839704432
+Ring of Fire,1444280828
+Beast of Burden,76155150
+We Built This City,1451799704
+Profane Prophecy,1858689489
+Black Saturday,1445301743
+All Night Long,1458823321
+Dreaming,1779136515
+Don't Cry,1440913592
+Breath,1440808141
+Thunderstruck,574051407
+Bad Moon Rising,1440955834
+We're Not Gonna Take It,1093420483
+Shut Up & Kiss Me,1452312143
+Golden Woman,1635196718
+Bad Penny,1354757164
+Edge of Seventeen,219393906
+Exit Signs,1765135538
+Fallen Leaves,160346639
+White Wedding,716121209
+Just Watch Me,1845951987
+Westerland,1533955574
+Square Hammer,1440937567
+Unskinny Bop,715750592
+Angry,1704374028
+Toughest Street In Town,1442514280
+What About Me?,1458664768
+Word Up,1444209410
+Juke Box Hero,284531774
+Year Of The Snake,1833941752
+Cats in the Cradle,1440912785
+Bad Reputation,1434146617
+The Devil's Bleeding Crown,1440847656
+Weak,1463204471
+Hier kommt Alex,722306827
+Don't Look Back In Anger,1517447336
+The '59 Sound,1457739818
+Bad Medicine,1440677674
+The Grand Slam,1828288854
+Rosanna,205723807
+God Knows,697307930
+It's a Long Way to the Top (If You Wanna Rock 'N' Roll),574124819
+Black Eyes Blue,1525186029
+A Matter Of Trust,158816305
+Hold On Loosely,1236801931
+Revelation,1354031451
+Bark at the Moon,192826926
+Special K,1440881824
+Livin' on the Edge,1440917861
+Falling For Strangers,1833559160
+Heaven's On Fire,1442457958
+Dopamine,1716427589
+Somebody,1440813788
+Coming of Age,217539294
+Nothin',1858411509
+American Girl,892461953
+I Predict a Riot,1440954740
+Rainbow In the Dark,1442913010
+Twice As Hard,1440810649
+Wild Life,1443647478
+Don't Stop Believin',169003415
+If Today Was Your Last Day,295233942
+"The Road to Hell, Pt. 2",79018297
+Blinded By the Light,208077407
+9 Lives,1868641955
+Run to the Hills,979954060
+Zu spät,292960053
+Mary on a Cross,1478932237
+Australia,257479356
+The Boys of Summer,1440816332
+The Devil Is A Woman,1736791751
+Start Me Up,1440812153
+So Long (feat. Frank Turner),1445882171
+She,417565802
+Celebrate,1838501370
+Friends Will Be Friends,1440822547
+Born In the U.S.A.,203708455
+Lithium,1440783764
+Only You Can Rock Me,689338158
+Bad Day,1422693810
+Say It Isn't So,186346539
