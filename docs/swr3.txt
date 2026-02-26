@@ -1,133 +1,119 @@
-Dasha - Austin
-Ed Sheeran - Galway girl
-Kamrad - Hug yourself
-Nelly Furtado - Powerless (Say what you want)
-Spider Murphy Gang - Skandal im Sperrbezirk
-Ásdís - Electrified
-Giant Rooks - Somebody like you
-Tate McRae - Greedy
-Swedish House Mafia - Don't you worry child
-George Ezra - Shotgun
-sombr - 12 to 12
-Linkin Park - Lost
-Chappell Roan - Good luck, babe!
-Nico Santos - All time high
-Natasha Bedingfield - These words
-Michael Patrick Kelly - Run Free
-Charlie Puth feat. Meghan Trainor - Marvin Gaye
-Emilia - Big big world
-Toby Romeo x Younotus - What it feels like
-Mark Ambor - Belong together
-Purple Disco Machine Feat. Eyelar - Dopamine
-RAYE - Where is my husband!
-Joan Jett & The Blackhearts - I love Rock'n'Roll
-Rita Ora - You only love me
-David Guetta & OneRepublic - I don't wanna wait
-Sportfreunde Stiller - Ti amo, italiano!
-Christina Aguilera feat. Missy Elliott - Carwash
-Katy Perry - Bandaids
-The 1975 - Chocolate
-Leony - Don't worry
-Malik Harris - Sticks & stones
-Fury In The Slaughterhouse - Won't forget these days
-Shouse - Love tonight
-Ariana Grande - 7 rings
-ClockClock - Out of the dark
-Max Giesinger - Du wärst es gewesen
-Avicii feat. Aloe Blacc - SOS
-Sam Smith - Diamonds
-Phantom Planet - California
-Olivia Dean - Man I need
-Lykke Li - I follow rivers
-The Beautiful South - Song for whoever
-Saint Clara - Breakup glow
-Bleu Soleil & Luiza - Soleil bleu
-Lady Gaga & Bruno Mars - Die with a smile
-Joris - Herz über Kopf
-Sienna Spiro - Die on this hill
-Jesse McCartney - Beautiful soul
-Sabrina Carpenter - Manchild
-Myles Smith & Niall Horan - Drive safe
-Omi - Cheerleader
-Bastille - Save my soul
-Rihanna - Only girl (in the world)
-Provinz - Glaubst du
-Will Smith - Gettin' jiggy wit it
-BTS - Dynamite
-Sean Paul - I'm still in love with you
-Kamrad - Be mine
-Katseye - Gabriela
-Lost Frequencies - Love is the only thing
-Blessid Union Of Souls - I believe
-Marshmello & Halsey - Be kind
-Ellie Goulding - Love me like you do
-Noah Kahan - The great divide
-Benson Boone - Sorry I'm here for someone else
-David Guetta x Teddy Swims x Tones And I - Gone gone gone
-Coldplay - Fix you
-Aerosmith & Yungblud - Wild woman
-Adele - Skyfall
-Oasis - Little by little
-Picture This x Michael Schulte - Giants
-Suzanne Vega - Luka
-WizTheMc - At the party
-Green Day - Last of the American girls
-Loi - Red eyes
-Jason Derulo feat. Nuka - Love not war (The Tampa beat)
-Alle Farben - Baby goodbye
-R.E.M. - Imitation of life
-ClockClock - Someone else
-Camila Cabello - Don't go yet
-Ásdís - Pick up!
-Maroon 5 - Memories
-Alice Cooper - Poison
-Taylor Swift - Opalite
-RAYE feat. 070 Shake - Escapism
-BOY LOCO - Moves Tonight
-Revolverheld - Mit dir chilln
-Bruno Mars - I just might
-Snow Patrol - Chasing cars
-Beyoncé - Texas Hold 'Em
-ISAAK - Always on the run
-Semisonic - Closing time
-The xx - I dare you
-Harry Styles - Aperture
-24kGoldn feat. Iann Dior - Mood
-Cameo - Word up
-Robbie Williams - All my life
-Loud Luxury feat. Brando - Body
-Max Allais - Wherever you go
-Sophie And The Giants - Shut up and dance
-P!nk - Runaway
-AJR - Weak
-Djo - End of beginning
-Joel Corry feat. Charli XCX & Saweetie - Out out
-Clueso - Gewinner
-Dua Lipa feat. Pierre de Maere - These walls
-Zara Larsson - Memory lane
-Cris Cab - Liar liar
-The Sisters Of Mercy - More
-Tove Lo - 2 die 4
-Michael Schulte - 5am
-Mumford & Sons - Little lion man
-Glockenbach x Chris de Sarandy - Magic Moment
-Imagine Dragons - Radioactive
-Thirty Seconds To Mars - Seasons
-Maisie Peters - My regards
-Alphaville - Forever young
-Tom Grennan - Little bit of love
-Shawn Mendes - Why why why
-Daft Punk - Around the world
-Family Of The Year - Hero
-Mary J. Blige - Family affair
-Gigi d'Agostino - La passion
-Loi - Get lucky
-Ini Kamoze - Here comes the hotstepper
-Passenger - Let her go
-Holly Humberstone - To love somebody
-Purple Disco Machine & Sophie And The Giants - Hypnotized
-Glasperlenspiel - Echt
-Linkin Park - In the end
-Robin Schulz x FAST BOY - Million good reasons
-Lena - Looking for love
-Katzenjammer - Rock-paper-scissors
+David Hasselhoff - Looking for freedom
+Nena - Nur geträumt
+Milli Vanilli - Girl you know it's true
+C. C. Catch - 'Cause You Are Young
+Robert Tepper - No easy way out
+Kajagoogoo & Limahl - Too shy
+Bruce & Bongo - Geil
+Donna Summer - She works hard for the money
+The Cure - Boys don't cry
+The Weather Girls - It's raining men
+Mötley Crüe - Kickstart my heart
+Berlin - Take my breath away
+Clemens von Steinwolke - Katharine, Katharine
+The Damned - Eloise
+Paula Abdul - Straight up
+a-ha - Take on me
+Modern Talking - You're my heart, you're my soul
+Loverboy - Working for the weekend
+Okay - Okay!
+Kylie Minogue - I should be so lucky
+Lindsey Buckingham - Holiday road
+Bill Medley & Jennifer Warnes - I've had the time of my life
+Trio - Da da da, ich lieb' dich nicht, du liebst mich nicht, ah aha aha
+Pat Benatar - Love is a battlefield
+Violent Femmes - Blister in the sun
+Visage - Fade to grey
+Sabrina - Boys (Summertime love)
+Markus - Ich will Spaß
+Yello - The race
+Bonnie Tyler - If you were a woman (and I was a man)
+Prince and The Revolution - Kiss
+New Model Army - Green and grey
+Whitney Houston - I wanna dance with somebody (who loves me)
+Herbert Grönemeyer - Kinder an die Macht
+Shannon - Let the music play
+Eddie Murphy - Party all the time
+A Flock Of Seagulls - I ran
+Fancy - Slice me nice
+Die Ärzte - Radio brennt
+F. R. David - Words
+Soft Cell - Tainted love
+Kate Bush - Running up that hill
+The Bee Gees - You win again
+Nu Shooz - I can't wait
+The Cult - She sells sanctuary
+Bananarama - Cruel summer
+Gazebo - I like Chopin
+Falco - Jeanny
+The J. Geils Band - Freeze-frame
+Matthew Wilder - Break my stride
+Randy Crawford - Almaz
+Peter Schilling - Major Tom (Völlig losgelöst)
+Eurythmics - Sweet dreams (are made of this)
+Rosé & Bruno Mars - APT.
+Toni Basil - Mickey
+Styx - Mr. Roboto
+Dead Or Alive - You spin me round (like a record)
+UKW - Sommersprossen
+The RAH Band - Clouds across the moon
+Europe - The final countdown
+Alphaville - Jet Set
+Vanessa Paradis - Joe le Taxi
+Asia - Heat of the moment
+Tracey Ullman - Breakaway
+Talking Heads - And she was
+Grace Jones - Slave to the rhythm
+Mike Oldfield - Crime of passion
+Trio Rio - New York - Rio - Tokyo
+David Bowie - Blue Jean
+ABBA - The winner takes it all
+Roachford - Cuddly toy
+Baltimora - Tarzan boy
+Sade - Paradise
+Queen - Who wants to live forever
+Irene Cara - Flashdance (What a feeling)
+The Waterboys - The whole of the moon
+Opus - Live is life
+Shakatak - Down on the street
+White Lion - When the children cry
+The Cars - You might think
+Nena - ? (Fragezeichen)
+Jon Bon Jovi - Runaway
+Righeira - Vamos a la playa
+The Style Council - You're the best thing
+Whitesnake - Don't break my heart again
+Jody Watley - Real love
+Clowns & Helden - Ich liebe dich
+Latin Quarter - Radio Africa
+Guns'n'Roses - Paradise city
+Michael Jackson - Human nature
+France Gall - Ella, elle l'a
+U2 - The unforgettable fire
+Erste Allgemeine Verunsicherung - Ba-Ba Banküberfall
+Joy Division - Love will tear us apart
+Steve Perry - Oh Sherrie
+Kim Wilde - You came
+The Police - King of pain
+Janet Jackson - What have you done for me lately
+Heinz Rudolf Kunze - Dein ist mein ganzes Herz
+The Outfield - Your love
+Patti LaBelle & Michael McDonald - On my own
+Talk Talk - Living in another world
+Frankie Goes To Hollywood - Rage hard "rage, rage"
+Cock Robin - The promise you made
+AC/DC - Who made who
+The Smiths - There is a light that never goes out
+Franklin, Aretha - Who's Zoomin' Who?
+Depeche Mode - A question of lust
+Bryan Adams and Tina Turner - It's only love
+Tanita Tikaram - Cathedral song
+Tone Loc - Wild thing
+Chris Rea - Josephine
+Fritz Brause - Shilly Shally (Let's dance tonight)
+Cold Chisel - Forever now
+Rick Astley - Never gonna give you up
+Dr. Hook - Sexy eyes
+Jermaine Jackson & Pia Zadora - When the rain begins to fall
+DÖF - Codo (.. düse im Sauseschritt)
+Steve Winwood - Back in the high life again
