@@ -1,118 +1,119 @@
-Jump,253300195
-Recovery,1440909226
-La Grange,1443556254
-The Kids Aren't Alright,1440881625
-Crazy Little Thing Called Love,1440822110
-Those Days,1642698279
-Wake Up Calling,1862338150
-18 and Life,265611290
-Songs für Liam,1440779231
-Lust For Life,1440882903
-God Knows,697307930
-Love Somebody,258613900
-Falling For Strangers,1833559160
-Beds Are Burning,288955173
-No Surprise,320857023
-Every You Every Me,961067403
-Shadow Play,1354769980
-Nothin',1858411509
-Dirty Love,377416682
-Easy Lover,1005850935
-Leave Me Alone,1442637529
-What's My Age Again?,1440845299
-The Deeper the Love,693206948
-Pamela,1374868004
-Punk Rock Song,1485013115
-One Night Love Affair,1440813496
-Along Comes Mary,1440808826
-Again,716243965
-(You Can Still) Rock In America,216312798
-Wild Life,1443647478
-Love To Be Loved,1873043629
-Lovin' Every Minute of It,298192111
-You're All I Have,1440780032
-Fox on the Run,1040963364
-51st State,697134099
-The Captain,384241294
-Don't You (Forget About Me),1453878313
-Killing Fields,1825930765
-Start Me Up,1440812153
-Are You Gonna Be My Girl,311582143
-To Be With You,576802306
-Unrockbar,1521306239
-The Line,1249069032
-Every Generation Got Its Own Disease,1195687128
-Juke Box Hero,284531774
+Your Love,186346150
+Whatever,1525936734
+THE DEVIL I KNOW,1773351148
+Black Hole Sun,1423646241
+Johnny B. Goode,1440742307
+Born to Be My Baby,1440677678
 Wild Woman,1839704432
-Breakfast At Tiffany's,390615766
-Winner Takes It All,365448189
-Thunderstruck,574051407
+Surrender,476176301
+Temple of Love 1983),1255852577
+American Idiot,207192732
+Far Far Away,1459269991
+Summer Of '69,1440924764
+Rebel Yell,724348585
 Rejoice,1862633596
-Surrender,186353021
-You Can Leave Your Hat On,920634015
-Tattooed Millionaire,1141569963
-Wreckage,1730087982
-Exit Signs,1765135538
-Gimme Three Steps,1440838310
-What's Up?,1440902348
-Scars,1440825655
-We Didn't Start the Fire,273854291
-Poison,253149095
-Carousel,1810606183
-Mrs. Robinson,1225275541
-Speed of Sound,1123076830
-I'm the Only One,1449912395
-The Grand Slam,1828288854
-Run to You,1440813518
-Two Princes,169628364
-Battery,1440901429
-Ask the Lonely,169004346
-Ça plane pour moi,80084665
-Just Watch Me,1845951987
-I Love Rock 'N Roll,1434145184
-Losing,332575361
-Stand By Me,1517475374
-Tennessee Mountain Top,1295826545
-Baba O'Riley,1440799468
-Golden Woman,1635196718
-Zombie,1440745653
-The final Countdown,196480329
-Year Of The Snake,1833941752
-Always the Last To Know,1444161684
-Living After Midnight,207346368
-9 Lives,1868641955
-NYC (Sing It Loud),1464664137
-Here I Go Again,699744046
-Snow (Hey Oh),207928116
-Shoot to Thrill,575998655
-Better Days,1435854690
-The Spirit of Radio,1440783222
-Celebrate,1838501370
-Boys Don't Cry,1440932663
-Under the Graveyard,1486836089
-Didn't Know It Was Love,271868873
-Photograph,214403497
-Sharp Dressed Man,655185090
-Yuve Yuve Yu (feat. From Ashes to New),1480876556
-I Wanna Rock,1225275188
-I Don't Care,1440560156
-When I Come Around,1160082350
+Only Wanna Be With You,15123880
+Come Away With Me,1445881870
+Killed By Death,694088412
+Help,1206598560
 Se Llama (Tell Me What You Want),1858404960
-Wanting and Waiting,1719010772
-Little Lies,202272697
-Gazoline,526065666
-Since You Been Gone,1445099174
-The Devil's Bleeding Crown,1440847656
-Out In the Fields,724493185
-Unskinny Bop,715750592
-Too Good At Raising Hell,1699673475
-I Want It All,1440822129
-Whatever Happened to the 80s,204435186
-Verdamp Lang Her,724733283
-Like a Rolling Stone,1440812663
-The Boys of Summer,1440816332
-Mama Weer All Crazee Now,1459290709
-Teenagers,260548666
-Modern Love,926949967
-Revelation,1354031451
-Don't Speak,1440645888
+Any Way You Want It,169004107
+Fallen,1440738439
+The Joker,723570499
+Goodbye,1559536614
+I Want a New Drug,725785113
+Like I Roll,433666642
+Na Na Na (Na Na Na Na Na Na Na Na Na),400148294
+Into the Great Wide Open,1440821764
+Bad Moon Rising,1440955834
+We Don't Need Money to Have a Good Time,458557282
+Carousel,1810606183
+The Way,1440905488
+Owner of a Lonely Heart,576802190
+Wild World,1270576307
+Heaven's On Fire,1442457958
+Bad Day,1422693810
+Pride (In the Name of Love),1440729859
+Year Of The Snake,1833941752
+Counting Blue Cars (Tell Me Your Thoughts on God),1434901802
+Same Ol' Situation (S.O.S.),1242687852
+Pork and Beans,1444864875
+Falling For Strangers,1833559160
+Run to the Hills,979954060
+Lonely Boy,1052966684
+Driver's Seat,590187095
+Mystify,1440517431
+Tage wie diese,507180915
+Stiff Upper Lip,578510483
+Love To Be Loved,1873043629
+Narcotic,1015955379
+When I See You Smile,257870992
+When the Curtain Falls,1435351493
+Jealous Again,383773011
+Mess It Up,1704374052
+Born to Run,310730214
+Smuggler's Blues,1440724731
+9 Lives,1868641955
+Eye of the Tiger,254685026
+Thanks,1440495334
+When You Close Your Eyes,1440782941
+Killing Fields,1825930765
+Livin' On a Prayer,1422962493
+Kings and Queens,715961660
+Are You Gonna Go My Way,723338309
+Gods Of Rock N Roll (feat. Steve Stevens),1790387608
+Who Are You,585701884
+Heroes,1260636115
+Ball and Chain,197986000
+Pour Some Sugar On Me,437348011
+Wake Up Calling,1862338150
+Mr. Jones,1442449547
+Dancing With Myself,724348555
+Nothin',1858411509
+Heat of the Moment,1421294691
+Secret Crowds,1440782225
+Risin' High,253917239
+One Vision,1440822675
+Gifts From The Holy Ghost,1611811083
+Exit Signs,1765135538
+Dr. Feelgood,1242687817
+Breath,1440808141
+Can't Get Enough,318756406
+You're Gonna Be My Girl,1543697264
+Lost Weekend,1443994466
+Bad to the Bone,716530455
+I've Got the Fire,1375509535
+That Was Yesterday,284531793
+Welcome to the Black Parade,197208607
+The Grand Slam,1828288854
+Lolita,1441809679
+Rough Boy,882468038
+Just a Girl,1440645268
+Marliese,696846083
+Dirty Little Secret,1444407729
+Hey You,73987115
+Hurra,1521305891
+Three Chords,1580413041
+Is This Love,693213544
+We Come Alive,1730982901
+Since You've Been Gone,186347723
+There Will Never Be Another Tonight,1445751010
+Because the Night,209671962
+Just Watch Me,1845951987
+Bark at the Moon,192826926
+Red Flag,160346621
+What You're Proposing,1452854077
+Kryptonite,1443714857
+All You Zombies,288508252
+On The Dark Side,1607366694
+Caught Up In You,1440891607
+Guitar Gangsters & Cadillac Blood,285216422
+Weak,1463204471
+Celebrate,1838501370
+Good Times,1440517619
+The Mountain,1337775372
+I Can't Drive 55,1440776984
+L.A. Woman,724348803
+All Along the Watchtower,344803162
+Your Love Alone Is Not Enough,220317000
+Crazy Crazy Nights,1451182043
