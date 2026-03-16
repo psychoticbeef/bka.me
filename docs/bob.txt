@@ -1,122 +1,124 @@
-Jump,253300195
-Ist da jemand?,1476835860
-The Bad Touch,1440808397
-For Whom the Bell Tolls,1440869929
-Do Your Worst,1440340688
-Feed My Frankenstein,253149197
-Drive It In,353969687
-Just Watch Me,1845951987
-I Want a New Drug,725785113
-Alive,425465319
-Crazy Little Thing Called Love,1440822110
-High Time,1642698737
-Hit That,1376395435
-The Boys of Summer,1440816332
-Still Got the Blues (For You),724160176
-I Could Have Been a Dreamer,1442576988
-Celebrate,1838501370
-Down by the River,1465910289
-Hysteria,437347998
-Narcotic,1015955379
-Cold Hard Bitch,2859582
-Heat of the Moment,1421294691
-Wild Woman,1839704432
-Everlong,451869611
-Dark Days,1458860802
-Keep Your Hands to Yourself,298088778
-Hurra,1521305891
-First Kiss,950436023
-Let's Dance,926949970
-Die Show muss weitergehen,1884031131
-The Lemon Song,580708473
-Your Love Alone Is Not Enough,220317000
-Caught Up In You,1440891607
-Under the Bridge,947701032
-Dance Macabre,1368158534
-Your Mama Don't Dance,715750586
-Opposite,595691552
-Rejoice,1862633596
-Fuel,1440875710
-Crazy Train,158044642
-Behind Blue Eyes,1440788416
-She,417565802
-Overcome,1676331061
-Best of What I Got,257870725
-Rock 'N' Roll Train,574052453
-Gypsy Road,282106215
-One,1440729871
-Falling For Strangers,1833559160
-Ich will hier nicht sein,1476835870
-Get It On,1440805585
-Get to You,1553928330
-The Hills,1603722579
-Supersonic,1517520200
-Glory Days,203709191
-Carousel,1810606183
-Cocaine,1440650862
-Finest Hour,1458646483
-New Sensation,1440517624
-Kids Wanna Rock,1443510208
-Year Of The Snake,1833941752
-Learning to Fly,1440821514
-First Time,1445868005
-Separate Ways (Worlds Apart),169004756
-All the Small Things,1440845307
-Runaway,835400782
-Youth Gone Wild,1092782319
+Pet Sematary,853504132
+What's Your Name,1423334011
+Better Days,1435854690
+Dani California,208036515
+Passion Rules the Game,1440784616
+Self Esteem,1485034811
+Westerland,1533955574
+21 Guns,315611467
+Black Night,724424979
 Love To Be Loved,1873043629
-Born To Raise Hell,368729470
-I'm on Your Side,1474250738
-In Between Days,1440662787
-Give a Little Bit,1109654778
-Wanted Dead or Alive,585701786
-Killing Fields,1825930765
-Perry Mason,192898627
-"My Way, Soon",1533376692
-Rag Doll,1440917493
-9 Lives,1868641955
-head over feet,549864747
-Metal Health (Bang Your Head),190737658
-Schrei nach Liebe,1521324605
-Over Each Other,1766137055
-Crazy Crazy Nights,1451182043
-Princess of the Night,693417973
-Wake Up Calling,1862338150
-Good Riddance (Time of Your Life),1159778603
-Full Steam Spacemachine,384587799
-51st State,697134099
-Roll With It,1727215507
-Coming of Age,217539294
-Miss You,1440915488
-Want You Bad,1440883273
-Here I Go Again,699744046
-Exit Signs,1765135538
-Born to Be Wild,1425253292
-Guess Who's Back,1677322498
-Stuck With You,725785132
-Sirenen,999126982
-Low Hangin' Fruit,509871397
-Lovin' Every Minute of It,298192111
-The Grand Slam,1828288854
-Save Me,1462648379
-The Dolphin's Cry,1440716899
-By a Monster’s Hand,1794563062
-Absolute Beginners,926949962
-Nothin',1858411509
-Breakfast At Tiffany's,390615766
-Pride (In the Name of Love),1440729859
-Don't Tell Me How to Live,1057975197
-If It Makes You Happy,1442919113
-High on You (feat. Nikki Sixx),1767850659
-Love Is a Long Road,1440825626
-Cats in the Cradle,1440912785
-Tanzt du noch einmal mit mir?,1477080630
-Jack & Diane,1440786241
-"Blue on Black (feat. Kenny Wayne Shepherd, Brantley Gilbert & Brian May)",1454353037
-Hellevator,1527687927
+Somebody,1440813788
+The Shock Of The Lightning,1517495778
+I Remember You,265611396
+BABY SAID,1659658724
+So Lonely,1440883529
+Punk Rock Song,1485013115
 Owner of a Lonely Heart,576802190
-Down On the Corner,1440926430
-Those Days,1642698279
-Runaway,1422962847
-All Signs Point To Lauderdale,1558582338
-Foxtrot Uniform Charlie Kilo,1440802169
+Nothin',1858411509
+Just a Girl,1440645268
+Midnight Blue,160419893
+Over the Hills and Far Away,712950973
+Carousel,1810606183
+I'm the Only One,1449912395
+Lifestyles of the Rich & Famous,288051955
+Verdamp Lang Her,724733283
+I Can't Quit,1310805843
+Always the Last To Know,1444161684
+Born to Kill,1873280357
+She Don't Know Me,1440814445
+In the End,528437613
+Hey Joe,344803593
+Kick,1611600331
+Can I Play With Madness,979945781
+The Grand Slam,1828288854
+Kayleigh,699747991
+Long Road to Ruin,334812052
+Counting Blue Cars (Tell Me Your Thoughts on God),1434901802
+American Rock 'n Roll,1295827273
+Taximann,1445320265
+Anywhere the Wind Blows,1469399221
+American Woman,723338394
+Dancing in the Dark,203709340
+9 Lives,1868641955
+Weak,1463204471
+Hammer to Fall,1435375499
+Gentleman of the Year,881932170
+You Shook Me All Night Long,574050607
+Celebrate,1838501370
+Love Is Like Oxygen,1040963363
+For You,208079325
+Come Around,1439662804
+(You Can Still) Rock In America,216312798
+Into the Great Wide Open,1440821764
+We Don't Need Money to Have a Good Time,458557282
+Bark at the Moon,192826926
+Se Llama (Tell Me What You Want),1858404960
+The Boys of Summer,197890727
+It's Only Love,1422706712
+21st Century (Digital Boy),1485011864
+The Lost,1675324883
+Live And Let Die,1440896048
+Lavatory Love Machine,1460465329
+I Love Rock 'N Roll,1434145184
+Suburban Requiem,1874720791
+Mrs. Robinson,1225275541
+You're All I Have,1440780032
+Real Wild Child (Wild One),1443994800
+In The Name Of Rock'n'Roll,1807151768
+I Can't Drive 55,1440776984
+How You Remind Me,214475478
+Living After Midnight,207346368
+Make It All Right,1746794870
+Cowboy Song,1443720355
+Falling For Strangers,1833559160
+Wild Side,713437315
+Lass die Musik an,546317173
+Ball and Chain,197986000
+S.O.S. (Sawed Off Shotgun),1278490471
+Rock 'N' Roll High School,853504102
+Bring Me To Life,1440666111
+Life Is a Highway,724389622
+Poison,253149095
+Californication,947701035
+Satellite,288508253
+I Miss You,1440845398
+Rejoice,1862633596
+Amazing,1440917781
+We Built This City,1451799704
+Hier kommt Alex,722306827
+Lonely Is the Night,1440820164
+Born In the U.S.A.,203708455
+Year Of The Snake,1833941752
+Born To Raise Hell,368729470
+Rusted from the Rain,322083869
+Money For Nothing,1440654230
+Sweet Gloria,1634455942
+Are You Gonna Go My Way,723338309
+Livin' On a Prayer,1422962493
+In Spite of Everything,1569182122
+One Night Love Affair,1440813496
+Fake It,1440777828
+Some Might Say,1517519734
+Night Like This,1497157165
+Don't You (Forget About Me),1453878313
+Buddy Holly,1440879325
+Wake Up Calling,1862338150
+Carry On Wayward Son,355939445
+Numb,528437514
+Your Love Is Driving Me Crazy,1440776786
+Angry,1704374028
+Entre Dos Tierras,697634977
+Atlas Falls,1512827486
+Don't Stop Believin',169003415
+Ring of Fire,1444280828
+Bad Reputation,1434146617
+Heart-Shaped Box,1413921237
+Working for the Weekend,207181187
+Just Watch Me,1845951987
+Lust For Life,1440882903
+Songs für Liam,1440779231
+Since You've Been Gone,186347723
+Crown of Horns,1709355178
+Basket Case,1160082180
+Rebel Yell,724348585
