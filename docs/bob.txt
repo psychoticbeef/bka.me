@@ -1,128 +1,124 @@
-Hey Joe,344803593
-The Unforgiven,1440833479
-Control,1440782010
-I Wanna Rock,1225275188
-Zombie,1337765670
-Suburban Requiem,1874720791
-Let's Dance,926949970
-On the Line,1712115727
-Baba O'Riley,1440799468
-Basket Case,1160082180
-Satellite,288508253
-Just Watch Me,1845951987
-Sharp Dressed Man,655185090
-Surrender,476176301
-Come as You Are,1413921156
-Talking to Ourselves,1556349471
-Far Far Away,1459269991
-Hit That,1376395435
-Under the Graveyard,1486836089
-Kryptonite,1443714857
-Rock You Like a Hurricane,1440784495
-Iris,267537169
-Panama,253301278
-Little Black Submarines,1052966705
-Livin' On a Prayer,1422962493
-Rejoice,1862633596
-Learn to Fly,278229654
-CASTLE OF GLASS,518869940
-Hungry Heart,1435854365
-Mixed Emotions (I Didn’t Know How to Tell You What I Was Going Through),1647412767
-Are You Gonna Go My Way,723338309
-Love To Be Loved,1873043629
-Underclass Hero,1440766695
-Already Gone,640369642
-Mother's In The Kitchen (live at Audiolodge),1805721072
-Breaking the Law,207346225
-Bound for Glory,1460464739
-Born to Kill,1873280357
-With or Without You,1440729860
-Like I Roll,433666642
-Born To Raise Hell,368729470
-I'm on Your Side,1474250738
-Killer Queen,1440822101
-Everybody Have a Good Time,540349730
-High Time,1642698737
-If It Makes You Happy,1442919113
-Hier kommt Alex,722306827
 Wake Up Calling,1862338150
-Creep,1097862231
-Marliese,696846083
-Back In Black,574050602
+Working for the Weekend,207181187
+China Plates,1379072882
+Crazy Crazy Nights,1451182043
+Anything Goes,574052520
+Sirenen,999126982
+Bro Hymn,1485042609
+The Passenger,723746055
+Jumpin' Jack Flash,1440765744
+Smooth (feat. Rob Thomas),354579303
+Give Me More Time,693207672
+Wild Side,713437315
 Nothin',1858411509
-Rock and Roll,1052497454
-Since You've Been Gone,186347723
-Lake Effect Kid,1428999424
-Interstate Love Song,3631594
-The Grand Slam,1828288854
-Just What I Needed,1088530788
-You Get What You Give,1440762717
-Whatever Happened to the 80s,204435186
-Burning Heart,271868841
-Under the Bridge,947701032
-Crazy Train,158044642
-Carousel,1810606183
-Everything About You,1440912911
-Profane Prophecy,1858689489
-I Want a New Drug,725785113
-Pocket,595691746
-Se Llama (Tell Me What You Want),1858404960
-"Another Brick In the Wall, Pt. 2",700054855
-I'm Not Okay (I Promise),811747398
-I Want You to Want Me,193204271
-Lost,1668488811
-Danger Zone,405600306
-Shut Up!,291939387
-She Don't Know Me,1440814445
-Set Me on Fire,1871255461
-Summer Of '69,1440924764
-Stray Heart,581055927
-Enter Sandman,1440833253
-The Boys Are Back In Town,1440923430
-Wie es geht,1521306225
-Kick,1611600331
-I Don't Want to Miss a Thing,322801285
-I Want It All,1440822129
-9 Lives,1868641955
-I Remember You,265611396
-Kings of Metal,357793298
-Dirty Dynamite,584893333
-Celebrate,1838501370
-Wild World,1270576307
-DANCE WITH ME,1707257679
-Lovin' Every Minute of It,298192111
-Big Jack,575663801
-Call Me,716231650
-Shelter Me,1435808561
-Run to the Hills,979954060
+Supersonic,1517520200
+Nothin' But a Good Time,72548003
 Falling For Strangers,1833559160
-"Long, Long Way from Home",284531750
-Altes Fieber,512313002
-I'm Goin' Down,203709128
-Song on Fire,1234838377
-Punk Rock Song,1485013115
-Times Like These,334812020
-Any Way You Want It,169004107
-Temple Of Ekur,1586126097
-Paradise City,1377813298
-Handwritten,1445887231
-Perry Mason,192898627
+Eye of the Tiger,254685026
+Living After Midnight,207346368
+BABY SAID,1659658724
+Life In the Fast Lane,640369793
+Gentleman of the Year,881932170
+Urgent,284531775
 Year Of The Snake,1833941752
-Get to You,1553928330
-Narcotic,1015955379
-The Power of Love,725785116
-Caroline,1440651415
-Blind,1440822872
-Good Times,1440517619
-Overcome,1676331061
-Stand By Me,1517475374
-Up From the Bottom,1801842349
-Rough Boy,882468038
-The Lost,1675324883
-The Lemon Song,580708473
-I Hate Myself for Loving You,1434141401
-You've Got Another Thing Comin',212097114
-Beautiful Day,1530603868
-Your Mama Don't Dance,715750586
-NOISE,1573414188
-Two Princes,169628364
+Don't You (Forget About Me),1453878313
+Gitarre runter,1441788247
+Mama Said,1440837940
+Wild Child,1611850616
+I Fought the Law,647981479
+My Friends Over You,1440802172
+I Won't Back Down,1440825623
+Only The Dead,1590583470
+Otherside,947701044
+Like the Way I Do,1440865830
+Carousel,1810606183
+Can't Stop Lovin' You,253300573
+White Wedding,716121209
+The Spirit of Radio,1440783222
+9 Lives,1868641955
+Don't Speak,1440645888
+Don't Tell Me How to Live,1057975197
+Rockin' In the Free World,135132686
+I Hate How Much I Want You,1530097607
+Bark at the Moon,192826926
+All Signs Point To Lauderdale,1558582338
+Born to Run,310730214
+Wild Frontier,712950862
+Moving On,669224964
+Big Gun,579650412
+Just Watch Me,1845951987
+Don't Stop Believin',169003415
+Shadow of the Day,528975367
+Walk Of Life,1565392067
+The Loneliest Hour,1694753333
+She,417565802
+Feel like Home,1439662805
+2-4-6-8 Motorway,696999487
+We Didn't Start the Fire,273854291
+Celebrate,1838501370
+Come as You Are,1413921156
+She Hates Me,1450664889
+Stuck With You,725785132
+Lose Your Head,1485074617
+Love To Be Loved,1873043629
+That Was Yesterday,284531793
+Still Into You,593148441
+Anybody Seen My Baby?,1440812588
+The Usual Suspects,1634455594
+Rock and Roll All Nite,1442379861
+Always,1440845408
+Mystify,1440517431
+Shotgun Blues,1586126256
+Even Flow,158049842
+For You,208079325
+Suburban Requiem,1874720791
+Mrs. Robinson,1225275541
+"The Road to Hell, Pt. 2",79018297
+Pet Sematary,853504132
+Rhythm of Love,1440784613
+No One Knows,1444416578
+Learning to Fly,1440821514
+I Don't Know You,1618291413
+L.A. Woman,724348803
+Born to Kill,1873280357
+Black Velvet,217503142
+No Way But the Hard Way,356464264
+Simple Man,1434094421
+Panic Attack,1464238524
+51st State,697134099
+Legs,882468025
+Roll With It,1727215507
+Born to Be My Baby,1440677678
+Bring Me To Life,1440666111
+Little Girl,253917051
+The Grand Slam,1828288854
+(You Can Still) Rock In America,216312798
+Taugenichts,1676474408
+Somebody,1440813788
+Black Hole Sun,1423646241
+Rejoice,1862633596
+Ain't Talkin' 'Bout Love,253298914
+The Drug In Me Is You,579836679
+Hammer to Fall,1435375499
+Profane Prophecy,1858689489
+Hold On Loosely,1236801931
+"A Long, Long Time Ago",1553802798
+2 Minutes To Midnight,981145792
+Easy Lover,1005850935
+Se Llama (Tell Me What You Want),1858404960
+Dirty White Boy,284531766
+Four Simple Words,1440909152
+Holy Diver,1442912745
+Mess It Up,1704374052
+Owner of a Lonely Heart,576802190
+Good Time,1677322505
+Why Don't You Get a Job,1440881849
+Finest Hour,1458646483
+Eat the Rich,1440861741
+Set Me on Fire,1871255461
+What About Me?,1458664768
+Youth Gone Wild,1092782319
+Alive,425465319
+So Lonely,1440883529
+Black Ice,575663805
+Call It Love,161059778
