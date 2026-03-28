@@ -1,124 +1,113 @@
-Boneshaker,1474958793
-Pet Sematary,853504132
-Heart Of The Hurricane,1458330229
-Livin' on the Edge,1440917861
-Rock and Roll,1052497454
-Give a Little Bit,1109654778
-First Date,943895034
-Run to the Hills,979954060
-The Emptiness Machine,1766137051
-The Ballroom Blitz,1040963196
-Nothin',1858411509
-Beast of Burden,76155150
-Your Love Alone Is Not Enough,220317000
-Year Of The Snake,1833941752
-Walk,456564025
-Self Esteem,1485034811
-ALL IN MY HEAD,1763330286
-Taximann,1445320265
-Beyond,1684700889
-Every You Every Me,961067403
-My Oh My,1459411303
-Carousel,1810606183
-head over feet,549864747
-Same Ol' Situation (S.O.S.),1242687852
-Heat of the Moment,1421294691
-9 Lives,1868641955
-Killing In the Name,191450927
-Come Away With Me,1445881870
-She Sells Sanctuary,1028833873
-Crazy Train,158044642
-When We Stand Together,470343163
-School's Out,40458562
-Only the Young,169003337
-Thanks,1440495334
-Just Watch Me,1845951987
-Here I Go Again,699744046
-Wie es geht,1521306225
-Twice As Hard,1440810649
-Get It On,1670614895
-Bohemian Rhapsody,1435375371
-The Mountain,1337775372
-Better Days,1435854690
-Juke Box Hero,284531774
-Celebrate,1838501370
-All Star,1440915693
-New Sensation,1440517624
-Lonely Boy,1052966684
-Moneytalks,575998089
-Suburban Requiem,1874720791
-All Right Now,1440833833
-Addicted to Love,1440651176
-Rock 'N' Roll High School,853504102
-Goodbye,1559536614
-Heart-Shaped Box,1413921237
-Start Me Up,1440812153
-Love To Be Loved,1873043629
-No Way Out,1450979664
-Rock & Roll Queen,72868095
-Semi-Charmed Life,271978747
-Kings Highway,1440821758
-You Give Love a Bad Name,1440677667
-Panama,253301278
-Angels Fall,1440811205
-Mama Said,1440837940
-Three Chords,1580413041
-Born to Kill,1873280357
-Read My Mind,1440864348
-Fox on the Run,1040963364
-We Come Alive,1730982901
-Keep Your Hands to Yourself,298088778
-Still Counting,1443272739
-Pride (In the Name of Love),1440729859
+Thirsty,1442403641
+Rebel Yell,724348585
 The Grand Slam,1828288854
-Easy Lover,1005850935
-Best of You,203519845
-Entre Dos Tierras,697634977
-Mother's In The Kitchen (live at Audiolodge),1805721072
-Rejoice,1862633596
-American Woman,723338394
-Youth Gone Wild,1092782319
-Profane Prophecy,1858689489
-Won't Forget These Days,1195687155
-Passion Rules the Game,1440784616
-Girl All the Bad Guys Want,418437027
-Wake Up Calling,1862338150
-Unskinny Bop,715750592
-On The Dark Side,1607366694
-For You,208079325
-Like I Roll,433666642
-One Vision,1440822675
-To Be With You,576802306
-Like the Way I Do,1440865830
-Get High?,1677323056
-Tommy Gun,647981881
-CASTLE OF GLASS,518869940
-Killed By Death,694088412
+Tattooed Millionaire,1141569963
+Song on Fire,1234838377
+Driver's Seat,590187095
+Celebrate,1838501370
+Otherside,947701044
+Rockin' In the Free World,135132686
+Ghosts,1529959286
+Hey You,73987115
+Mystify,1440517431
+Suburban Requiem,1874720791
+Sweet Child O' Mine,1377813701
+Whiskey In the Jar,1440857603
+Why Can't This Be Love,253303419
+Opposite,595691552
 Se Llama (Tell Me What You Want),1858404960
-Come as You Are,1413921156
-The Spirit of Radio,1440783222
-Rats,1368158470
-That Was Yesterday,284531793
-First Date,1440845386
-Counting Blue Cars (Tell Me Your Thoughts on God),1434901802
+The final Countdown,196480329
+BURN IT DOWN,518869937
+White Room,1440921642
+Für immer jung,1520559308
+Oh Sherrie,304208032
+Temple,1435640293
+Legs,882468025
 Set Me on Fire,1871255461
-Give Me More Time,693207672
-Gave You Everything,1485072435
-Black Velvet,217503142
-Road to Nowhere,209695679
-Toughest Street In Town,1442514280
-Days Go By,1440878395
-Californication,947701035
-Mixed Emotions (I Didn’t Know How to Tell You What I Was Going Through),1647412767
-Dr. Feelgood,1242687817
-Little Black Submarines,1052966705
-What You're Proposing,1452854077
-Livin' On a Prayer,1422962493
+Coming of Age,217539294
+Don't Look Back In Anger,1517447336
+Didn't Know It Was Love,271868873
+Going Clear,1606211475
+Behind Blue Eyes,1434897600
+Let's Ride,573424813
+I Could Have Been a Dreamer,1442576988
+All You Zombies,288508252
+Rejoice,1862633596
+Fly Away,723338326
+Dance Macabre,1368158534
+You've Got Another Thing Comin',212097114
+Hit That,1376395435
 Falling For Strangers,1833559160
-Teenage Rampage,1040963365
-Black Chandelier,595691550
-Kings of Metal,357793298
-I'm on Your Side,1474250738
-I Alone,1440716643
-1985,255076262
-Born to Be Wild,1425253292
+"Another Brick In the Wall, Pt. 2",700054855
+Ich will hier nicht sein,1476835870
+Crazy Little Thing Called Love,1440822110
+Nothin' But a Good Time,72548003
+Drive It In,353969687
+Free Fallin',1440825619
+Rock 'N' Roll Train,574052453
+Balls To the Wall,392883764
+One,1440729871
+High on You (feat. Nikki Sixx),1767850659
+Rockin' All Over the World,1440651234
+Wake Up Calling,1862338150
+Song 2,867694916
+Best of What I Got,257870725
+Naive,724160600
+My Sharona,6545167
+The Lost,1675324883
+Winner Takes It All,365448189
+Born In the U.S.A.,203708455
+Nothin',1858411509
+"Mama, I'm Coming Home",209695192
+Bring Me Some Water,1440866235
+Tragedy + Time,1440860412
+Can I Play With Madness,979945781
+High Time,1642698737
+Hot Legs,295534409
+Temple Of Ekur,1586126097
+Whatever,1525936734
+Stairway to Heaven,580708180
+Just Watch Me,1845951987
+Carousel,1810606183
+The Memory Remains,1440875773
+A Kind of Magic,1440822125
+Up From the Bottom,1801842349
+Turbo Lover,212097018
+I'm Not Okay (I Promise),811747398
+Dirty Love,377416682
+Love To Be Loved,1873043629
+Hier kommt Alex,722306827
+Zombie,1337765670
+Modern Girl,306794390
+Billion Dollar Babies,253149226
+Life Is a Highway,724389622
+Burning Heart,271868841
+Afraid of Heights,1110115204
+Beautiful Girl,1440517446
+What About Me?,1458664768
+All the Love,186347344
+Can't Stop Lovin' You,253300573
+Talk Dirty to Me,715750443
+Iris,267537169
+Before I Die,727165429
+In Between Days,1440662787
+Lose Your Head,1485074617
+Lithium,1440783764
+Knockin' On Heaven's Door,263688995
+Tanzt du noch einmal mit mir?,1477080630
+Africa,270787384
+Born to Kill,1873280357
+Immigrant Song,580708280
+Caution,1502453962
+Big City Nights,735967067
+Wake Me Up When September Ends,207192838
+Underclass Hero,1440766695
+With or Without You,1440729860
+Heroes,1260636115
+If It Makes You Happy,1442919113
+Glory Days,203709191
+One Way or Another,724177448
+Enter Sandman,1440833253
+My Friends Over You,1440802172
+Run to You,1440813518
+I Surrender,1458823322
