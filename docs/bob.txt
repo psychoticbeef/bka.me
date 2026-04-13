@@ -1,123 +1,121 @@
-Always,1440845408
-Beds Are Burning,288955173
-The Midnight Special,1440927492
-What I've Done,590427450
-Janie's Got a Gun,1440917774
-Love To Be Loved,1873043629
-Black Hole Sun,1423646241
-We're Not Gonna Take It,1093420483
-In The Army Now,1440665967
-"Another Brick In the Wall, Pt. 2",700054855
-Satellite,288508253
-9 Lives,1868641955
-Under the Bridge,947701032
-Stop Your Sobbing,316150973
-Westerland,1533955574
-Stillness of Heart,726135952
-Woman from Tokyo,700206412
-Scars,1440825655
-I Still Haven't Found What I'm Looking For,1440730038
-Too Tough To Die,1878383666
-I Can't Dance,724591732
-Carousel,1810606183
-Straight From the Heart,1444222831
-I Was Made for Lovin' You,1440783785
-Fisch im Netz,1020603707
-Rejoice,1862633596
-Livin' On a Prayer,1422962493
-Dancing In the Moonlight,1186934862
-Money For Nothing,1440654230
-Of All People,1877913732
-Love Is a Long Road,1440825626
-The Ballroom Blitz,1040963196
-Hard Rock Hallelujah,977151107
-Dream On,1208824475
-Songs für Liam,1440779231
-Big City Nights,735967067
-Addicted to Love,1440651176
-Killing In the Name,191450927
-American Idiot,207192732
-Nothin',1858411509
-Burning Heart,271868841
-From the Inside,528437027
-The Spirit of Radio,1440783222
+Juke Box Hero,284531774
 Suburban Requiem,1874720791
-Run to the Hills,979954060
-Who Will You Follow,1890222345
-Let Her Cry,15123904
-Are You Gonna Be My Girl,311582143
-Thunderstruck,574051407
-The Captain,384241294
-Nothing Ever Happens,1440913575
-Born to Kill,1873280357
-Coming of Age,217539294
-NYC (Sing It Loud),1464664137
-Surrender,186353021
-Crown of Horns,1709355178
-Iris,267537169
-Celebrate,1838501370
-"Musik nur, wenn sie laut ist",1020603819
-Smoke On the Water,726163881
-No Surprise,320857023
-Modern Love,926949967
-Poison,253149095
-Wake Up Calling,1862338150
-Last Kiss,158051176
-You Know My Name,1436558554
-When You Close Your Eyes,1440782941
-We Are The Rest,1684700890
-Otherside,947701044
-Go Your Own Way,202271971
-Hand In Hand,49313715
-I Love Rock 'N Roll,1434145184
-What Would You Do? (feat. Gavin Rossdale),1631917694
-Rainbow In the Dark,1442913010
-The Devil's Bleeding Crown,1440847656
-Pour Some Sugar On Me,437348011
-Just Watch Me,1845951987
-Live And Let Die,1440896048
-Good Time,1677322505
-It's a Hard Life,1440822376
-First Kiss,950436023
-Mama Said,1440837940
-Born In the U.S.A.,203708455
-Like a Rolling Stone,1440812663
-Too Many Friends,1440880593
-Raise Your Glass,1728447276
-Rhythm of Love,1440784613
-Sharp Dressed Man,655185090
-Die Show muss weitergehen,1884031131
-Fear of the Dark,699819854
-Rusted from the Rain,322083869
-Give Me More Time,693207672
-Whatever,1529331371
-Losing,332575361
-One Night Love Affair,1440813496
-Se Llama (Tell Me What You Want),1858404960
-Radar Love,81667968
-Revelation,1354031451
-Say It Isn't So,186346539
-Again,716243965
-Surrender,476176301
-Rag Doll,1440917493
+Wanted Dead or Alive,585701786
+This Flight Tonight,1208824290
+Rock 'n' Roll Star,1517519730
+Black Ice,575663805
+Working for the Weekend,207181187
+Shadow Play,1354769980
+Misery Business,604804763
+Black Saturday,1445301743
 Set Me on Fire,1871255461
-Born To Raise Hell,368729470
-Again,1523886810
-Rockin' In the Free World,135132686
-Whatever Happened to the 80s,204435186
-Wicked Game,255078289
-For You,208079325
-Walk,456564025
-Schunder-Song,1521305886
-Wake Me Up (When This Nightmare's Over),1600965880
-Walk Of Life,1565392067
-Pride (In the Name of Love),1440729859
-Stand By Me,1517475374
-Lifeline,1444018119
-Pamela,1374868004
-Lola Montez,1440820323
-We Didn't Start the Fire,273854291
-Mama Weer All Crazee Now,1459290709
-You're Gonna Be My Girl,1543697264
-I Could Have Been a Dreamer,1442576988
-Teenagers,260548666
+The final Countdown,196480329
+Thanks,1440495334
+Mrs. Robinson,1225275541
+DEUTSCHLAND,1456789852
+Cocaine,1440650862
+When We Stand Together,470343163
+Goodbye,1559536614
+A Kind of Magic,1440822125
+Celebrate,1838501370
+Road to Nowhere,209695679
+"Bad Boys, Rag Dolls",357615055
+Love Is Only a Feeling,6433518
+Gypsy Road,282106215
+Wake Up Calling,1862338150
+All the Love,186347344
+Better Times Will Come,1651239341
+Every You Every Me,961067403
+Hey Joe,344803593
+Run to You,1440813518
+Love Tyger,1460463761
+Caroline,1440651415
+We Come Alive,1730982901
+Jack & Diane,1440786241
+Audience of One,1440852116
+Too Tough To Die,1878383666
+Any Way You Want It,169004107
+Your Love Alone Is Not Enough,220317000
+Interstate Love Song,3631594
+Bulletproof,1440902520
+Dirty White Boy,284531766
+Biblical,595691554
+Heroes,1260636115
+Over the Hills and Far Away,712950973
+Recovery,1440909226
+Die Show muss weitergehen,1884031131
+Rosanna,205723807
+Heat of the Moment,1421294691
+Rock & Roll Queen,72868095
+What's My Age Again?,1440845299
+Gimme All Your Lovin',655184888
+Falling For Strangers,1833559160
+Pork and Beans,1444864875
+Everlong,451869611
+Wild Woman,1839704432
+When I Come Around,1160082350
+Moving On,669224964
+Get It On,1440805585
+Bad to the Bone,716530455
+Love To Be Loved,1873043629
+The Memory Remains,1440875773
+Runaway,835400782
+Dancing With Myself,724348555
+Dreaming,1779136515
+Punk Rock Song,1485013115
+Nothin',1858411509
+Wild Side,713437315
+Bist du glücklich?,990648520
+Black Betty,216088341
+American Rock 'n Roll,1295827273
+Best of What I Got,257870725
+Born to Kill,1873280357
+Summer Of '69,1440924764
+I Alone,1440716643
+Immigrant Song,580708280
+Red Flag,160346621
+Going Clear,1606211475
+Hedonism (Just Because You Feel Good),1505331455
+Don't Stop Believin',169003415
+9 Lives,1868641955
+All Star,1440915693
+I Surrender,1458823322
+Beautiful Day,1530603868
+Two Princes,169628364
+Rejoice,1862633596
+The Kids Aren't Alright,1440881625
+Mess It Up,1704374052
+Eye of the Tiger,254685026
+16 Dollars,1440738445
+Better Days,1435854690
+You Give Love a Bad Name,1440677667
+The Passenger,723746055
+Black Chandelier,595691550
+Kings of Metal,357793298
+Under You,1682993468
+Good Riddance (Time of Your Life),1159778603
+I Wanna Rock,1225275188
+The Mountain,1337775372
+Give a Little Bit,1109654778
+Mr. Jones,1442449547
+Just Watch Me,1845951987
+Fool for Your Loving,693206937
+Rats,1368158470
+The Spirit of Radio,1440783222
+Fuel,1440875710
+Hot Legs,295534409
+Down in the Past,726226653
+Amazing,1440917781
+Wanting and Waiting,1719010772
+Why Can't This Be Love,253303419
+Ocean Avenue,725822641
+Cuts Like a Knife,1440924773
+Even Flow,158049842
+Westerland,1533955574
+Se Llama (Tell Me What You Want),1858404960
+Shout It Out Loud,1440783622
+Lullaby,469259329
+In Between Days,1440662787
+32,1611282283
+Learning to Fly,1440821514
+1985,255076262
