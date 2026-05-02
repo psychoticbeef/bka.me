@@ -1,113 +1,102 @@
-9 Lives,1868641955
-Cryin',1440917778
-Absolute Beginners,926949962
-Lass die Musik an,546317173
-Metal Health (Bang Your Head),190737658
-Panic Stations,1885872966
-The Passenger,723746055
-On the Line,1712115727
-The Trooper,981145793
-Rejoice,1862633596
-I Love Rock 'N Roll,1434145184
-"Too Much, Too Young, Too Fast",271953672
-Enter Sandman,1440833253
-Don't Bring Me Down,196427027
-Hot Under The Collar,1817457528
-What's My Age Again?,1440845299
-All You Zombies,288508252
-Best of What I Got,257870725
-Tragedy + Time,1440860412
-Word Up,1444209410
-Wild Side,713437315
-Just Watch Me,1845951987
-Two Princes,169628364
-Drive It In,353969687
-Keep Your Hands to Yourself,298088778
-Temple Of Ekur,1586126097
-Se Llama (Tell Me What You Want),1858404960
-Heat of the Moment,1421294691
-First Kiss,950436023
-Rock and Roll All Nite,1442379861
-It's a Hard Life,1440822376
-Ditmas,1440873738
-Beds Are Burning,288955173
-Set Me on Fire,1871255461
-Sweet Child O' Mine,1377813701
-Boys Don't Cry,1440932663
-Of All People,1877913732
-Are You Gonna Go My Way,723338309
-Far Far Away,1459269991
-Baby,1440841452
-Dance Macabre,1368158534
-Even Flow,158049842
-The Boys of Summer,1440816332
-Celebrate,1838501370
-Say It Isn't So,186346539
-Shut Up!,291939387
-Back In Black,574050602
-Can't Get Enough,318756406
-THE DEVIL I KNOW,1773351148
-Into the Great Wide Open,1440821764
-One Night Love Affair,1440813496
-Black Betty,216088341
-Speed of Sound,1123076830
-I Don't Know You,1618291413
-Pride (In the Name of Love),1440729859
-Too Tough To Die,1878383666
-Breakfast At Tiffany's,390615766
-Face I Love,1349261218
-When I Come Around,1160082350
-Falling For Strangers,1833559160
-That Was Yesterday,284531793
-OK,1521500672
-Lady Writer,1440912583
-Make It All Right,1746794870
-Give Me All Your Love,693206942
-Thirsty,1442403641
-Little Lies,202272697
+Dancing in the Dark,203709340
 Born to Kill,1873280357
-Faint,528437024
-Scar Tissue,947701036
-Fox on the Run,1040963364
-By a Monster’s Hand,1794563062
-The Dolphin's Cry,1440716899
-Working for the Weekend,207181187
-Behind Blue Eyes,1440788416
-Flying High Again,437515112
-Let Her Cry,15123904
-You Give Love a Bad Name,1440677667
-Die Show muss weitergehen,1884031131
-Watch Over You,1440746893
-No One Like You,1440784622
-The Bandit,1547474736
-Anything Goes,574052520
-I Can't Drive 55,1440776984
+Some Might Say,1517519734
+Radar Love,81667968
+Still Into You,593148441
+Celebrate,1838501370
+Zombie,1440745653
+Living After Midnight,207346368
+Angie,1521993600
+Tage wie diese,507180915
+Wake Up Calling,1862338150
+Tattooed Millionaire,1141569963
+Hey Tonight,1440927038
+Of All People,1877913732
+Kryptonite,1443714857
 Can I Get A,1849226957
-Immigrant Song,580708280
-Heroes,1260636115
-Don't Fight It,201425013
-White Trash Millionaire,433666608
-Talk Dirty to Me,715750443
-Times Like These,334812020
-A Kind of Magic,1440822125
+Urgent,284531775
+Want You Bad,1440883273
+Black Night,724424979
+Take It Off,319397483
+Rosanna,205723807
+Saccharine Smile,255708500
+With or Without You,1440729860
 Who Will You Follow,1890222345
-Livin' on the Edge,1440917861
-Mixed Emotions (I Didn’t Know How to Tell You What I Was Going Through),1647412767
-Master of Puppets,1440875693
-Iris,267537169
-The final Countdown,196480329
-Ich will hier nicht sein,1476835870
-Entre Dos Tierras,697634977
-Get to You,1553928330
-Straight From the Heart,1444222831
-Temple of Love 1983),1255852577
-Bad Penny,1354757164
-Ask the Lonely,169004346
-Fear of the Dark,699819854
-Friends and Enemies,1093554544
-Finest Hour,1458646483
-Africa,270787384
-The Ballroom Blitz,1040963196
-Over Each Other,1766137055
-"Bad Boys, Rag Dolls",357615055
-All Signs Point To Lauderdale,1558582338
+The Memory Remains,1440875773
+Gimme Three Steps,1440838310
+Modern Girl,306794390
+The Game,1781886295
+Wish You Were Here,700058019
+I Want It All,1440822129
+Amazing,1440917781
+Animals,719617259
+Panic Stations,1885872966
+Owner of a Lonely Heart,576802190
+When You Were Young,1440891180
+School's Out,40458562
+Breaking the Law,207346225
+Legs,882468025
+Big Gun,579650412
+Rejoice,1862633596
+I Wanna Rock,1225275188
+21 Guns,315611467
+Whatever,1525936734
+Dance Dance Dance,1448249793
+Don't Speak,1440645888
+Your Love Is Driving Me Crazy,1440776786
+Die Show muss weitergehen,1884031131
+Out In the Fields,724493185
+Burning Heart,271868841
+Jeremy,425465353
+Come Around,1439662804
+"Once Bitten, Twice Shy",214805044
+Radio Nowhere,1045058856
+Se Llama (Tell Me What You Want),1858404960
+Livin' On a Prayer,1422962493
+Leave Out All the Rest,528975365
+All Night Long,1458823321
+High on You (feat. Nikki Sixx),1767850659
+It's Not My Time,1440791127
+Sweet Sixteen,724348798
+I Believe in a Thing Called Love,6433514
+Balls To the Wall,392883764
+Alive or Undead,1565497044
+Run to the Hills,979954060
+Killing In the Name,191450927
+Amen & Attack,1442284916
+Baba O'Riley,1440799468
+Lose Your Head,1485074617
+Ashes To Ashes,693127130
+Schunder-Song,1521305886
+Lovin' Every Minute of It,298192111
+The Sidewinder Sleeps Tonite,1422694393
+Boulevard of Broken Dreams,320084009
+Just Watch Me,1845951987
+Whiskey In the Jar,1440857603
+18 and Life,265611290
+Chelsea Dagger,1440783311
+Wonderwall,1517447333
+Roll With It,1727215507
+We Didn't Start the Fire,273854291
+Thunderstruck,574051407
+Use Somebody,290303018
+Armageddon It,437348003
+BABY SAID,1659658724
+Fallen Leaves,160346639
+So Lonely,1440883529
+Time Will Heal,1794563073
+Don't Stop Believin',169003415
+Falling For Strangers,1833559160
+I Surrender,1458823322
+Square Hammer,1440937567
+Hanging By a Moment,1440788227
+Run to You,1440813518
+Californication,947701035
+Anywhere the Wind Blows,1469399221
+Amanda,1442222818
+Best of You,203519845
+Every Generation Got Its Own Disease,1195687128
+Caught Up In You,1440891607
+Bohemian Like You,723935505
+Hurra,1521305891
+Atlas Falls,1512827486
