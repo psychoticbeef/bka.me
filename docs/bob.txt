@@ -1,115 +1,114 @@
-Surrender,186353021
-Dirty Dynamite,584893333
-(You Can Still) Rock In America,216312798
-Rock and Roll All Nite,1442379861
-Stand By Me,1517475374
-Wie es geht,1521306225
-Witch's Spell,1533816326
-Balls To the Wall,392883764
-Down On the Corner,1440926430
-In The Stars,6764865395
-Give Me All Your Love,693206942
-Kayleigh,699747991
-Give It Away,947701034
-Heroes,1260636115
-You Ain't Seen Nothin' Yet,73987238
-CASTLE OF GLASS,518869940
-Die Show muss weitergehen,1884031131
-My Hero,362133488
-Hit That,1376395435
-Run to You,1440813518
-9 Lives,1868641955
-Black Hole Sun,1423646241
-Runaway,835400782
-Perfect Strangers,724569583
-Rats,1368158470
-Dark Thoughts,1703604228
-I Still Haven't Found What I'm Looking For,1440730038
-Pocket,595691746
-The Ballroom Blitz,1040963196
-Panama,253301278
-Baby,1440841452
-That Was Yesterday,284531793
-Owner of a Lonely Heart,576802190
-I Bet You Look Good on the Dancefloor,111153391
-Last Kiss,158051176
-Down by the River,1465910289
-My Sharona,6545167
-Taugenichts,1676474408
-God Gave Rock 'N' Roll to You Ii,1440783892
-Legs,882468025
-One Vision,1440822675
-Little Black Submarines,1052966705
-Back In Black,574050602
-Tommy Gun,647981881
-Shotgun Blues,1586126256
-Don't Go Away Mad (Just Go Away),1242687856
-Working for the Weekend,207181187
-More Than a Feeling,218124730
-Before I Die,727165429
-Wanted Dead or Alive,585701786
-Caution,1502453962
-All You Zombies,288508252
-Rescue,1873910117
-Join Me,267705470
-Altes Fieber,512313002
-Only the Young,169003337
-Set Me on Fire,1871255461
-It's Only Love,1422706712
-Locomotive Breath,726401276
-I Don't Know You,1618291413
-Jack & Diane,1440786241
-Shut Up!,291939387
-Bark at the Moon,192826926
-Can I Get A,1849226957
-Here I Go Again,699744046
-Let's Ride,573424813
-Self Esteem,1485034811
-When the Curtain Falls,1435351493
-Black Night,724424979
-Mixed Emotions (I Didn’t Know How to Tell You What I Was Going Through),1647412767
-Good Riddance (Time of Your Life),1159778603
-Welcome to the Jungle,1377813288
-Celebrate,1838501370
-Buddy Holly,1440879325
-All the Love,186347344
-Low Hangin' Fruit,509871397
-Only Wanna Be With You,15123880
-Alive After Death (Last Plane Out),1890143399
-What's My Age Again?,1440845299
-Heart Of The Hurricane,1458330229
-Another One Bites the Dust,1440821740
-Temple,1435640293
-Call Me,716231650
-Don't Drag Me Down,201414886
-The Loneliest Hour,1694753333
-Hells Bells,574050495
-Bad Moon Rising,1440955834
-Ist da jemand?,1476835860
-A Matter Of Trust,158816305
-Wild Child,1611850616
-Unskinny Bop,715750592
-Don't You (Forget About Me),1453878313
+Urgent,284531775
+Getting Away With Murder,1440825651
+There Will Never Be Another Tonight,1445751010
+Cocaine,977832541
 Why Can't This Be Love,253303419
-Moving On,669224964
+ALL IN MY HEAD,1763330286
+Africa,270787384
+Chains of Destiny,1572261347
+Because the Night,209671962
+Runnin' Wild,271953671
+The Sidewinder Sleeps Tonite,1422694393
+Talk Dirty to Me,715750443
+Just Watch Me,1845951987
+Even Flow,158049842
+Hard Rock Hallelujah,977151107
+Marliese,696846083
 Who Will You Follow,1890222345
-Friday On My Mind,724493476
-Poison,253149095
-We Come Alive,1730982901
-I'm the Only One,1449912395
-Lust For Life,1440882903
-Love Tyger,1460463761
-The Trooper,981145793
-Dance Macabre,1368158534
-The Only Thing That Looks Good on Me Is You,1440924920
-For You,208079325
-Watch Over You,1440746893
-Dancing With Myself,724348555
-The Kids Aren't Alright,1440881625
-Crazy Train,158044642
+Crazy Little Thing Called Love,1440822110
+Beyond,1684700889
+"Another Brick In the Wall, Pt. 2",700054855
 Energies,1869042514
-Rockin' All Over the World,1440651234
-Mountains,384241309
-Mystify,1440517431
-Missing on TV,1751750750
-Everything About You,1440912911
+Let's Dance,926949970
+No One Knows,1444416578
+Live And Let Die,1440896048
+Guess Who's Back,1677322498
+American Girl,892461953
+Cold Hard Bitch,2859582
+Lake Effect Kid,1428999424
+Livin' on the Edge,1440917861
+You Give Love a Bad Name,1440677667
+Rescue,1873910117
+head over feet,549864747
+Real Wild Child (Wild One),1443994800
+Rock You Like a Hurricane,1440784495
+Celebrate,1838501370
+Every Generation Got Its Own Disease,1195687128
+Hellevator,1527687927
+Keep On Loving You,385550946
+Roll With It,1727215507
+One Night Love Affair,1440813496
+Mr. Brightside,1440891171
+The Wolf,1583260741
+Angel of Harlem,1440894914
+The Power of Love,725785116
+Big Gun,579650412
+Dark Thoughts,1703604228
+Heat of the Moment,1421294691
+Heaven's On Fire,1442457958
+Wreckage,1730087982
+Every You Every Me,961067403
+The Joker,723570499
+Alive After Death (Last Plane Out),1890143399
+Glory Days,203709191
+Bro Hymn,1485042609
+Shadow of the Day,528975367
+Eye of the Tiger,254685026
+It's Not My Time,1440791127
+All the Small Things,1440845307
+The Game,1781886295
+Spread Your Wings,1440825154
+Friends and Enemies,1093554544
+In The Stars,6764865395
+Born To Raise Hell,368729470
+We Didn't Start the Fire,273854291
+Fix This Crack,1868641969
+Top of the World,253300229
+Your Love,186346150
+Any Way You Want It,169004107
+Die Show muss weitergehen,1884031131
+Cryin',1440917778
+Four Simple Words,1440909152
+Armageddon It,437348003
+Under You,1682993468
+Panic Stations,1885872966
+Pet Sematary,853504132
+Animals,719617259
+Love Is Like Oxygen,1040963363
+Wake Me Up (When This Nightmare's Over),1600965880
+Breaking the Law,207346225
+Seven Nation Army,1533513537
+Bound for Glory,1460464739
+Somebody,1440813788
+Learning to Survive,1457030125
+With or Without You,1440729860
+Mrs. Robinson,1225275541
+Set Me on Fire,1871255461
+HONEY (ARE U COMING?),1701785550
+Youth Gone Wild,1092782319
+The Unforgiven II,1440872738
+Hanging Out with All the Wrong People,1583260945
+Rock and Roll,1052497454
+Wake Me Up When September Ends,207192838
+No One Like You,1440784622
+High Enough,321975428
+The Usual Suspects,1634455594
+Saccharine Smile,255708500
+Holy Diver,1442912745
+I Want It All,1440822129
+Cold As Ice,284531755
+Adrienne,271870175
+Walk Of Life,1565392067
+High on You (feat. Nikki Sixx),1767850659
+Pretty Fly (For a White Guy),1440881518
+Radio Nowhere,1045058856
+Westerland,1533955574
+Metal Health (Bang Your Head),190737658
+In the End,528437613
+Weak,1463204471
+Only The Dead,1590583470
+Beds Are Burning,288955173
+Like a Rolling Stone,1440812663
+The Seeker,1442934340
+Lavatory Love Machine,1460465329
+Don't Fight It,201425013
