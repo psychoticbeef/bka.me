@@ -1,106 +1,125 @@
-Hold On Loosely,1236801931
-In The Stars,6764865395
-Australia,257479356
-Ashes To Ashes,693127130
-Mr. Jones,1442449547
-Fake It,1440777828
-Bigger Than America,6764871046
-London Calling,684811768
-Same Ol' Situation (S.O.S.),1242687852
-Smooth Criminal,1440762729
-Africa,270787384
-Hard To Handle,1440810837
-Passion Rules the Game,1440784616
-Blurry,1450664888
-Cold As Ice,284531755
-Fix This Crack,1868641969
-Kryptonite,1443714857
-The Power of Love,725785116
-Under the Bridge,947701032
-2 Minutes To Midnight,981145792
-Play Your Games,6772932837
-Knockin' On Heaven's Door,1452802994
-"Bad Boys, Rag Dolls",357615055
-Ghosts,1529959286
-Nur nach vorn,1884031135
-I Want It All,1440822129
-Teenage Dirtbag,298160976
-Layla,1440663520
-Won't Forget These Days,1195687155
-Flesh for Fantasy,724348595
-Going Clear,1606211475
-All the Small Things,1440845307
+Crazy Train,158044642
+Calling,1459629177
+November Rain,1440896193
+Ain't Talkin' 'Bout Love,253298914
+Hammer to Fall,1435375499
 Can I Get A,1849226957
-Let's Dance,926949970
-Schrei nach Liebe,1521324605
-I Surrender,1458823322
-You Shook Me All Night Long,574050607
-Recovery,1440909226
-Poison,253149095
-Who Will You Follow,1890222345
-Still Got the Blues (For You),724160176
-I Don't Know You,1618291413
-China Grove,1110962141
-Ring of Fire,1444280828
-Take the Ride,1647134684
-All Star,1440915693
-All the Love,186347344
-Blinded By the Light,208077407
-Use Somebody,290303018
-It's the End of the World As We Know It (And I Feel Fine),1440850619
-Pour Some Sugar On Me,437348011
-Rescue,1873910117
-Radio Orchid,1195687132
-Songs für Liam,1440779231
-What You're Proposing,1452854077
-Missing on TV,1751750750
-21st Century (Digital Boy),1485011864
-Lola Montez,1440820323
-Paradise City,1377813298
-No One Like You,1440784622
-Tell Me Baby,945569013
-I Still Haven't Found What I'm Looking For,1440730038
-Celebrate,1838501370
-God Gave Rock 'N' Roll to You Ii,1440783892
-Talking to Ourselves,1556349471
-White Wedding,716121209
-Energies,1869042514
-Don't Speak,1440645888
-Misery Business,604804763
-Pet Sematary,853504132
-You're the One,1435351497
-One Vision,1440822675
-Sharp Dressed Man,655185090
-Alive After Death (Last Plane Out),1890143399
-Fear of the Dark,699819854
-Master of Puppets,1440875693
-Rusted from the Rain,322083869
-God Knows,697307930
-Gypsy Road,282106215
-Thought Contagion,1434329542
-Radar Love,81667968
-Call Me,716231650
-The '59 Sound,1457739818
-Scars,1440825655
-Ask the Lonely,169004346
+Legs,882468025
+Cryogen,1885607726
+Hell Raiser,1040963369
+Deine Schuld,1521306244
+When You Close Your Eyes,1440782941
 Evolution,6769156314
-Bro Hymn,1485042609
-Caution,1502453962
-Midnight Blue,160419893
-Bring Me To Life,1440666111
-Sunburn,295116856
-Wild Side,713437315
-I Alone,1440716643
-Rats,1368158470
-Jump,253300195
-Alive,425465319
-Breaking the Habit,528437026
-Armageddon It,437348003
-NOISE,1573414188
-Twice As Hard,1440810649
-Bad Day,1422693810
-Rag Doll,1440917493
-By a Monster’s Hand,1794563062
-So Lonely,1440883529
-Take It On the Run,385550969
-Can't Stop,945578427
+Eye of the Tiger,254685026
+Runaway,835400782
+Only Wanna Be With You,15123880
+Roll With It,1727215507
+Heartache Tonight,640369800
+"This Ain't a Scene, It's an Arms Race",1440560147
+The Usual Suspects,1634455594
+"Girls, Girls, Girls",1242681068
+All Star,1440915693
+This Time,1444221879
+Burn It to the Ground,295233934
+Easy Lover,1005850935
+Rescue,1873910117
+Word Up,1444209410
+Always,1440845408
+Mony Mony,724348559
+Zombie,1337765670
+Walking By Myself,723403289
+Bigger Than America,6764871046
+Any Way You Want It,169004107
+Somewhere I Belong,528437020
+I Fought the Law,647981479
+Rhythm of Love,1440784613
+Black Saturday,1445301743
+She Don't Know Me,1440814445
+The Spirit of Radio,1440783222
+Your Love Alone Is Not Enough,220317000
+The Unforgiven II,1440872738
+Dance Dance Dance,1448249793
+Born to Be Wild,1425253292
+Give It Away,947701034
+That Was Yesterday,284531793
+Energies,1869042514
+Temple of Love 1983),1255852577
+In Between Days,1440662787
+All Night Long,709157628
+Thunderstruck,574051407
+Alive After Death (Last Plane Out),1890143399
+Hey Joe,344803593
+Only The Dead,1590583470
+Panama,253301278
+Narcotic,1015955379
+I Hate Myself for Loving You,1434141401
+Nur nach vorn,1884031135
+This Flight Tonight,1208824290
+Breath,1440808141
+A Matter Of Trust,158816305
+I'm on Your Side,1474250738
+Song 2,867694916
+Born Free,399121764
+One Night Love Affair,1440813496
+In The Stars,6764865395
+Leave Me Alone,1442637529
+2 Minutes To Midnight,981145792
+Dark Thoughts,1703604228
+Rough Boy,882468038
+Land of Confusion,1030228543
+Wheel In the Sky,169003481
+Mother's In The Kitchen (live at Audiolodge),1805721072
+Don't Tell Me You Love Me,1440782944
+Who Will You Follow,1890222345
+Dancing in the Dark,203709340
+It's My Life,1451976803
+Fly Away,723338326
+Davy's On the Road Again,208077975
+Closer to the Edge,715961747
+Down by the River,1465910289
+Basket Case,1160082180
+Bark at the Moon,192826926
+Fix This Crack,1868641969
+Come as You Are,1413921156
+Say It Isn't So,186346539
+The Anthem,288051950
+Kings Highway,1440821758
+Play Your Games,6772932837
+The Way,1440905488
+Love From The Other Side,1665320673
+Perfect Strangers,724569583
+Anything Goes,574052520
+Westerland,1533955574
+Can't Stop Lovin' You,253300573
+Balls To the Wall,392883764
+Shadow Play,1354769980
+This Afternoon,295233943
+Walk This Way,398183687
+The Hills,1603722579
+My Hero,362133488
+When I'm Gone,1482163910
+Where the Streets Have No Name,1440729868
+Milk & Honey,405934592
+Two Princes,169628364
+Celebrate,1838501370
+Love Somebody,258613900
+Fox on the Run,1040963364
+High on You (feat. Nikki Sixx),1767850659
+Even Flow,158049842
+Sweet Sixteen,724348798
+Keep On Loving You,385550946
+Angels Fall,1440811205
+Some Might Say,1517519734
+The Lost,1675324883
+Born In the U.S.A.,203708455
+The Rock Show,1440845381
+Good Times,1440517619
+High Enough,321975428
+Kids Wanna Rock,1443510208
+Set Me on Fire,1871255461
+I Was Made for Lovin' You,1440783785
+Rock & Roll Queen,72868095
+Stuck With You,725785132
+HONEY (ARE U COMING?),1701785550
+Pretty Fly (For a White Guy),1440881518
+Satellite,1440856376
