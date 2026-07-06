@@ -1,101 +1,120 @@
-Rescue,1873910117
-Creep,1097862231
-Who Made Who,575997997
-Whiskey In the Jar,1440857603
-Mr. Brightside,1440891171
-Urgent,284531775
-Evolution,6769156314
-Barracuda,192691055
-Wreckage,1730087982
-Hungry Heart,1435854365
-Hit That,1376395435
-The final Countdown,196480329
-Bigger Than America,6764871046
-Perry Mason,192898627
-Doctor Doctor,1142809000
-Energies,1869042514
-Bed of Roses,1440677680
-Edge of Seventeen,219393906
-Temple,1435640293
-Californication,947701035
-The Power of Love,725785116
-Learning to Fly,1440821514
-Cryogen,1885607726
-Hotel California,1453925093
-With or Without You,1440729860
-A Kind of Magic,1440822125
-Lola Montez,1440820323
-Nur nach vorn,1884031135
-Turn the Page,1440857349
-Nothin' But a Good Time,72548003
-Balls To the Wall,392883764
-Good Riddance (Time of Your Life),1159778603
-In The Stars,6764865395
-Satellite,288508253
-Back In Black,574050602
-Dark Thoughts,1703604228
-Can't Fight This Feeling,385550981
-Ich will hier nicht sein,1476835870
-Hedonism (Just Because You Feel Good),1505331455
-Space Oddity,695543080
-Dopamine,1716427589
-Only Wanna Be With You,15123880
-Friday On My Mind,724493476
-The River,186065422
+It's the End of the World As We Know It (And I Feel Fine),1440850619
+I Bet You Look Good on the Dancefloor,111153391
+Give It Away,947701034
+Don't Bring Me Down,196427027
+Along Comes Mary,1440808826
+Let's Dance,926949970
+Wake Me Up When September Ends,207192838
+I Was Made for Lovin' You,1440783785
+What Would You Do? (feat. Gavin Rossdale),1631917694
+Bark at the Moon,192826926
+Feels Like Home,6771498592
+Beds Are Burning,288955173
+Long Road to Ruin,334812052
+Unskinny Bop,715750592
+Dreaming,1779136515
+Davy's On the Road Again,208077975
+I Believe in a Thing Called Love,6433514
+Driving In Style,1502964619
+Even Flow,158049842
+Gypsy Road,282106215
 Fix This Crack,1868641969
-Beast of Burden,76155150
-I Love Rock 'N Roll,1434145184
+Heart-Shaped Box,1413921237
+Zu spät,292960053
+Naive,724160600
+You Give Love a Bad Name,1440677667
 Play Your Games,6772932837
-I Don't Want to Miss a Thing,322801285
-Mystify,1440517431
-Angels Fall,1440811205
-Into the Great Wide Open,1440821764
-First Time,1445868005
-Kayleigh,699747991
-Wie es geht,1521306225
-Who Will You Follow,1890222345
-Midnight Blue,160419893
-Up From the Bottom,1801842349
-Afraid of Heights,1110115204
-It's Only Love,1422706712
-Mr. Jones,1442449547
-Just Watch Me,1845951987
-Smokin' In the Boys Room,1242681065
+Cryin',1440917778
+Open Your Eyes,1440631671
+Didn't Know It Was Love,271868873
+Wanting and Waiting,1719010772
+Cryogen,1885607726
+Lifestyles of the Rich & Famous,288051955
+Bohemian Rhapsody,1435375371
+On the Line,1712115727
+Electric Eye,212096920
+Bound for Glory,1460464739
+Rescue,1873910117
+I Still Haven't Found What I'm Looking For,1440730038
+How You Remind Me,214475478
+"Mama, I'm Coming Home",209695192
+Die Beste aller Zeiten,1171431793
+Jet Airliner,1440917533
+Burnin',1341758286
+Wonderwall,1517447333
+Somebody,1440813788
+Sunburn,295116856
+Big City Nights,735967067
+Nobody's Home,533017353
+The Sidewinder Sleeps Tonite,1422694393
+Big Gun,579650412
+Lady In Black,948176845
+One More For the Road,1440930857
+Nemm mich met,724003841
+Nothing but Trouble,1353782275
+Gimme All Your Lovin',655184888
+Evolution,6769156314
+Bad Penny,1354757164
+The Bliss,1440847653
+Your Mama Don't Dance,715750586
+Hurra,1521305891
+Paradise City,1377813298
+Energies,1869042514
+Enter Sandman,1440833253
+Goodbye Angels,1109250848
+Give Me More Time,693207672
+Carousel,1810606183
+Bigger Than America,6764871046
+Time to Wonder,1195687149
+Hanging By a Moment,1440788227
+Born to Run,310730214
+You're Not Alone,1375509536
+Walk Of Life,1565392067
+Whatever Happened to the 80s,204435186
+Nur nach vorn,1884031135
+Beautiful Day,1530603868
+L.A. Woman,724348803
+"My Way, Soon",1533376692
+Rock and Roll All Nite,1442379861
+Under the Graveyard,1486836089
+Temple of Love 1983),1255852577
+Alive After Death (Last Plane Out),1890143399
+Beautiful Girl,1440517446
+(You Can Still) Rock In America,216312798
+The Shock Of The Lightning,1517495778
+Revelation,1354031451
+"Girls, Girls, Girls",1242681068
+In The Stars,6764865395
+The Only Thing That Looks Good on Me Is You,1440924920
+Love Is Only a Feeling,6433518
+"The Road to Hell, Pt. 2",79018297
+Ain't Talkin' 'Bout Love,253298914
+Dark Thoughts,1703604228
+The Number of the Beast,979954059
+Turn Me Loose,207181143
+Black Eyes Blue,1525186029
+Self Esteem,1485034811
+You've Got Another Thing Comin',212097114
+Golden Woman,1635196718
+Black Velvet,217503142
+Fake It,1440777828
+Alive,425465319
 Can I Get A,1849226957
-She,417565802
-Lovin' Every Minute of It,298192111
-The Devil Is A Woman,1736791751
-The Unforgiven II,1440872738
-I Surrender,1458823322
-Easy Lover,1005850935
-Twice As Hard,1440810649
-No Way But the Hard Way,356464264
-Passion Rules the Game,1440784616
-Leviathan,1460657335
-I Want a New Drug,725785113
-Eye of the Tiger,254685026
-Celebrate,1838501370
-My Sharona,6545167
-In Spite of Everything,1569182122
-Read My Mind,1440864348
-Altes Fieber,512313002
-Metal Health (Bang Your Head),190737658
-Set Me on Fire,1871255461
-Punk Rock Song,1485013115
-Flying High Again,437515112
-My Friends Over You,1440802172
-China Grove,1110962141
-If It Makes You Happy,1442919113
-The Spirit of Radio,1440783222
-Getting Along,1440841459
-Hellevator,1527687927
-Black Hole Sun,1423646241
-Over the Hills and Far Away,712950973
-Crazy,1440917793
-Since You've Been Gone,186347723
-We Are The Rest,1684700890
-Don't Tell Me How to Live,1057975197
-Carry On Wayward Son,355939445
-We Built This City,1451799704
-White Wedding,716121209
-Nowhere Freeway (feat. Lynne Jackaman),1660604343
+Don't Lose It,1399546180
+The Power of Love,725785116
+Schunder-Song,1521305886
+Mama Weer All Crazee Now,1459290709
+Rusted from the Rain,322083869
+I'm Goin' Down,203709128
+Back to Life,1515775242
+I Remember You,265611396
+Every Breath You Take,1440882897
+Dani California,208036515
+Midnight Mover,958966468
+Thunderstruck,574051407
+Hold On Loosely,1236801931
+Window,1877913733
+Rockin' All Over the World,1440651234
+Numb,528437514
+Real Wild Child (Wild One),1443994800
+Lithium,1440783764
