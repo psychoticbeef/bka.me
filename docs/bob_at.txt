@@ -1,122 +1,131 @@
-Simple Minds - Don't You (Forget About Me)
-The Rolling Stones - In The Stars
-The Black Crowes - Hard To Handle
-Nickelback - Gotta Be Somebody
-Scorpions - Passion Rules the Game
-Spin Doctors - Two Princes
-R.E.M. - Supernatural Superserious
-Quiet Riot - Metal Health (Bang Your Head)
-Foo Fighters - Window
-The Cure - Boys Don't Cry
-Dio - Rainbow In the Dark
-Placebo - Special K
-Story of the Year - Until the Day I Die
-Skid Row - 18 and Life
-Hollywood Undead - Feels Like Home
-The Offspring - Self Esteem
-Twisted Sister - We're Not Gonna Take It
-Manowar - Warriors of the World United
-Atreyu - All For You
-Metallica - Mama Said
-Def Leppard - Pour Some Sugar On Me
-Snow Patrol - Hands Open
-Deep Blue Something - Breakfast At Tiffany's
-Takida - In Spite of Everything
-Nothing But Thieves - Stray Dogs
-Papa Roach - Getting Away With Murder
-Thin Lizzy - Toughest Street In Town
-Green Day - American Idiot
-Night Ranger - FOUR IN THE MORNING (I CAN'T TAKE ANYMORE)
-The Glorious Sons - S.O.S. (Sawed Off Shotgun)
-Nirvana - Lithium
-Queen - One Vision
-Led Zeppelin - Kashmir
-Muse - Cryogen
-Huey Lewis and the News - Hip To Be Square
-Judas Priest - Crown of Horns
-Blondie - Call Me
-Prince & The Revolution - Purple Rain (Long Version)
-Kraftklub - Songs für Liam
-Iron Maiden - The Number of the Beast
-Bon Jovi - Always
-Biffy Clyro - Mountains
-Greta Van Fleet - Play Your Games
-Oasis - Wonderwall
-Pearl Jam - Even Flow
-Simple Plan - Wake Me Up (When This Nightmare's Over)
-Mötley Crüe - Smokin' In the Boys Room
-Toto - Rosanna
-Nothing But Thieves - Evolution
-Mr. Big - Wild World
-The Offspring - Ok, But This Is The Last Time
-Hootie & The Blowfish - Let Her Cry
-Huey Lewis and the News - I Want a New Drug
-The Pretty Reckless - When I Wake Up
-Kiss - Shout It Out Loud
-Kings of Leon - Use Somebody
-The Cure - In Between Days
-Joan Jett & The Blackhearts - I Love Rock 'N Roll
-Social Distortion - The Way Things Were
-Gun - Word Up
-Ugly Kid Joe - Everything About You
-Journey - Separate Ways (Worlds Apart)
-The Struts - Too Good At Raising Hell
-Ghost - Square Hammer
-Ozzy Osbourne - Bark at the Moon
-John Diva & The Rockets of Love - Bigger Than America
-Golden Earring - Radar Love
-Billy Talent - The Wolf
-Judas Priest - Electric Eye
-Kaiser Chiefs - I Predict a Riot
-Biffy Clyro - The Captain
-Philip Bailey & Phil Collins - Easy Lover
-Die Toten Hosen - Nur nach vorn
-Placebo - Every You Every Me
-Reef - Revelation
-Tom Petty - I Won't Back Down
-Avril Lavigne - SK8ERBOI
-Steve Miller Band - Jet Airliner
-LEAP - Energies
-Green Day - Good Riddance (Time of Your Life)
-Yes - Owner of a Lonely Heart
-The Red Jumpsuit Apparatus - Face Down
-Fury In the Slaughterhouse - Radio Orchid
-The Hu - Yuve Yuve Yu (feat. From Ashes to New)
-Gary Moore & Phil Lynott - Out In the Fields
-Ramones - Pet Sematary
-Airbourne - Alive After Death (Last Plane Out)
-Metallica - The Unforgiven II
-Mando Diao - God Knows
-The Cars - Magic
-The Kooks - Pamela
-AC/DC - Thunderstruck
-Muse - Starlight
-Midnight Oil - Beds Are Burning
-The Funeral Portrait - Dark Thoughts
-Ram Jam - Black Betty
-The Black Crowes - Wanting and Waiting
-REO Speedwagon - Keep On Loving You
-The Gaslight Anthem - The '59 Sound
-Mötley Crüe - Dr. Feelgood
+Queen - I Want It All
+Pearl Jam - Alive
+Eric Clapton - I Shot the Sheriff
+Billy Idol - Dancing With Myself
+Damn Yankees - Coming of Age
 Skindred - Can I Get A
-Deine Cousine - St. Pauli
-Liquido - Narcotic
-Bon Jovi - Runaway
-Alien Ant Farm - Smooth Criminal
-The Sisters of Mercy - Temple of Love 1983)
-Guns N' Roses - Sweet Child O' Mine
-Lenny Kravitz - I'll Be Waiting
-Fuel - Sunburn
-Kissin' Dynamite - Raise Your Glass
-Whitesnake - Here I Go Again
-Ozzy Osbourne - Perry Mason
-Wolfmother - Joker and the Thief
-Bette Midler - Beast of Burden
-The New Roses - One More For the Road
-LINKIN PARK - Numb
-David Bowie - Let's Dance
-Elton John - Saturday Night's Alright for Fighting
-Danko Jones - Get High?
-Lou Gramm - Midnight Blue
-Green Day - 21st Century Breakdown
-Billy Talent - Rusted from the Rain
+Bryan Adams - Somebody
+Jimmy Eat World - The Middle
+Creedence Clearwater Revival - Up Around the Bend
+Ozzy Osbourne & Jeff Beck - Patient Number 9
+Survivor - I Can't Hold Back
+Tom Cochrane - Life Is a Highway
+Asia - The Traveller (Into The Light)
+Tom Petty - Love Is a Long Road
+Arctic Monkeys - When the Sun Goes Down
+blink-182 - What's My Age Again?
+Muse - Thought Contagion
+Sweet - Hell Raiser
+Biffy Clyro - Mountains
+Danko Jones - Good Time
+Thunder - Dirty Love
+Foreigner - Juke Box Hero
+The Rolling Stones - In The Stars
+Green Day - She
+Whitesnake - The Deeper the Love
+Good Charlotte - Sex On the Radio
+Twisted Sister - I Wanna Rock
+Fury In the Slaughterhouse - Fix This Crack
+Metallica - Enter Sandman
+Fall Out Boy - This Ain't a Scene, It's an Arms Race
+REO Speedwagon - Take It On the Run
+Massive Wagons - China Plates
+LIVE - The Dolphin's Cry
+Foo Fighters - Window
+Accept - Balls To the Wall
+The Doobie Brothers - China Grove
+Volbeat - Temple Of Ekur
+Van Halen - Dreams
+Die Ärzte - Ist das noch Punkrock?
+Hollywood Undead - Feels Like Home
+The Hooters - All You Zombies
+Kid Rock - Born Free
+Oasis - Supersonic
+Jelly Roll - Need A Favor (Rock Mix)
+Led Zeppelin - Rock and Roll
+Beatsteaks - Milk & Honey
+Takida - Goodbye
+Iron Maiden - Fear of the Dark
+Joan Jett & The Blackhearts - I Hate Myself for Loving You
+Social Distortion - The Way Things Were
+No Doubt - Don't Speak
+Judas Priest - Breaking the Law
+AC/DC - Play Ball
+Airbourne - Alive After Death (Last Plane Out)
+Lynyrd Skynyrd - Sweet Home Alabama
+Motörhead - Heroes
+Bryan Adams - This Time
+Goodbye June - Three Chords
+4 Non Blondes - Spaceman
+The New Roses - Thirsty
+Greta Van Fleet - Play Your Games
+Guns N' Roses - Paradise City
+Placebo - Too Many Friends
+Foreigner - Cold As Ice
+Lenny Kravitz - Paralyzed
+Billy Squier - Lonely Is the Night
+Muse - Cryogen
+Bon Jovi - Livin' On a Prayer
+LINKIN PARK - From the Inside
+Red Hot Chili Peppers - Californication
+Nestor - We Come Alive
+The Rolling Stones - Jumpin' Jack Flash
+Deaf Havana - Going Clear
+Alanis Morissette - head over feet
+Europe - The final Countdown
+Green Day - I'm Never Gonna R.I.P.
+Gary Moore - Walking By Myself
+Bruce Springsteen - Glory Days
+Black Stone Cherry - Won't Let Go
+blink-182 - All the Small Things
+Die Ärzte - Westerland
+Alter Bridge - Watch Over You
+ELTON JOHN & ERIC CLAPTON - RUNAWAY TRAIN
+The Pretty Reckless - About You
+Queen - It's a Hard Life
+Corey Taylor - On The Dark Side
+Nothing But Thieves - Evolution
+Volbeat - Guitar Gangsters & Cadillac Blood
+Eagles - Heartache Tonight
+Whitesnake - Shut Up & Kiss Me
+Poco - Call It Love
+R.E.M. - Bad Day
+The Funeral Portrait - Dark Thoughts
+Rise Against - Satellite
+Blackberry Smoke - Run Away from It All
+Foo Fighters - My Hero
+ZZ Top - Rough Boy
+Rick Springfield - Love Somebody
+Scorpions - Rock You Like a Hurricane
+John Diva & The Rockets of Love - Bigger Than America
+T. Rex - Get It On
+Beatsteaks - Gentleman of the Year
+Van Halen - Panama
+Ghost - Rats
+Héroes del Silencio - Entre Dos Tierras
+Survivor - Eye of the Tiger
+Beyond The Black - Heart Of The Hurricane
+Poison - Talk Dirty to Me
+The Darkness - Love Is Only a Feeling
+Blur - Song 2
+Die Toten Hosen - Nur nach vorn
+Metallica - For Whom the Bell Tolls
+Greta Van Fleet - Safari Song
+Foreigner - Urgent
+Nirvana - Smells Like Teen Spirit
+Paul McCartney & Wings - Jet
+U2 - Vertigo
+David Bowie - Ashes To Ashes
+Gary Moore - Cold Day In Hell
+Def Leppard - Kick
+Guns N' Roses - Welcome to the Jungle
+Angels & Airwaves - Secret Crowds
+The Cult - She Sells Sanctuary
+Billy Idol - Rebel Yell
+Avatar - Crying Fire
+Queen - Killer Queen
+Judas Priest - Living After Midnight
+Black Stone Cherry - Like I Roll
+Volbeat - Time Will Heal
+Weezer - Buddy Holly
+Royal Republic - High Times
