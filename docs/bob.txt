@@ -1,116 +1,127 @@
-Use Somebody,290303018
-Gimme All Your Lovin',655184888
-Sweet Home Alabama,1440846819
-In The Stars,6764865395
-Cryin',1440917778
-Born To Raise Hell,368729470
-One Night Love Affair,1440813496
-16 Dollars,1440738445
-Cum on Feel the Noize,1459276809
-Stiff Upper Lip,578510483
-Narcotic,1015955379
-Heat of the Moment,1421294691
-Fix This Crack,1868641969
-Hold My Hand,15123870
-Lifestyles of the Rich & Famous,288051955
-Call It Love,161059778
-Bulletproof,1440902520
-Basket Case,1160082180
-Ask the Lonely,169004346
-In the End,528437613
-Urgent,284531775
-Fox on the Run,1040963364
-Hanging By a Moment,1440788227
-Feels Like Home,6771498592
-Rosanna,205723807
-Where Are We Runnin'?,723863194
-Shadow of Your Love,1377827083
-Life In the Fast Lane,640369793
-Blurry,1450664888
-Coming of Age,217539294
-Born to Be My Baby,1440677678
-I Surrender,1458823322
-For You,208079325
-Alive After Death (Last Plane Out),1890143399
-Californication,947701035
-Sex On Fire,290303003
-Angel of Harlem,1440894914
-NYC (Sing It Loud),1464664137
-Play Your Games,6772932837
-Rough Boy,882468038
-Still Into You,593148441
-Carry On Wayward Son,355939445
-ALL IN MY HEAD,1763330286
-Electric Eye,212096920
-Freunde,478013619
-Rock 'N' Roll Train,574052453
-Cryogen,1885607726
-Kids Wanna Rock,1443510208
-We Built This City,1451799704
-Help,1206598560
-The Way,1440905488
-Every Wild Heart,1440930652
-Learning to Fly,1440821514
-Ain't Talkin' 'Bout Love,253298914
-Give Me All Your Love,693206942
-The Dolphin's Cry,1440716899
-I Wanna Rock,1225275188
-I'm Never Gonna R.I.P.,6784903816
-Fear of the Dark,699819854
-Rusted from the Rain,322083869
-Mony Mony,724348559
-Leviathan,1460657335
-Evolution,6769156314
-Time to Wonder,1195687149
-Chelsea Dagger,1440783311
-House On Fire,1388911107
-Same Ol' Situation (S.O.S.),1242687852
-Recovery,1440909226
-Bigger Than America,6764871046
-Gypsy Road,282106215
-Bohemian Like You,723935505
-Schunder-Song,1521305886
-Dreaming,1779136515
-Only You Can Rock Me,689338158
-Walk,456564025
-Under the Graveyard,1486836089
-Mr. Jones,1442449547
-Dark Thoughts,1703604228
-The Sidewinder Sleeps Tonite,1422694393
-Beast of Burden,76155150
-All You Zombies,288508252
-Numb,528437514
-Balls To the Wall,392883764
-Bring Me To Life,1440666111
+Pet Sematary,853504132
+Entre Dos Tierras,697634977
+Wheel In the Sky,169003481
+The Memory Remains,1440875773
+32,1611282283
+Everlong,451869611
+I Miss You,1440845398
+Why Can't This Be Love,253303419
+Whatever Happened to the 80s,204435186
+Wanted Dead or Alive,585701786
+Lost,1668488811
+Whatever You Want,1440651600
 Nur nach vorn,1884031135
-Edge of Seventeen,219393906
-"Ok, But This Is The Last Time",1746794873
-What's My Age Again?,1440845299
-Can I Get A,1849226957
-Rock 'N' Roll Outlaw,1215315785
-The Boys of Summer,197890727
-All the Love,186347344
-So Close,1761566100
-Highway Tune,1440900539
-If Today Was Your Last Day,295233942
-Winner Takes It All,365448189
-Square Hammer,1440937567
+The Spirit of Radio,1440783222
+The Great Escape,272090300
+Along Comes Mary,1440808826
+"Bad Case Of Loving You (Doctor, Doctor)",1261024532
+I Don't Care,1440560156
+Wanting and Waiting,1719010772
+Why Don't You Get a Job,1440881849
+Hold On Loosely,1236801931
+Wonderwall,1517447333
+Big City Nights,735967067
+Lifeline,1444018119
+Like the Way I Do,1440865830
+I'm Never Gonna R.I.P.,6784903816
+The Middle,1450030115
+I've Got the Fire,1375509535
+Won't Forget These Days,1195687155
 Crying Fire,6766303435
-Barracuda,192691055
-Fallen Leaves,160346639
-Nemm mich met,724003841
-Yuve Yuve Yu (feat. From Ashes to New),1480876556
-Come as You Are,1413921156
-Paradise City,1377813298
-Revelation,1354031451
-"Another Brick In the Wall, Pt. 2",700054855
-Anything Goes,574052520
-Good Riddance (Time of Your Life),1159778603
-Passion Rules the Game,1440784616
-Crown of Horns,1709355178
-Easy Lover,1005850935
-Ring of Fire,1444280828
-Even Flow,158049842
-Black Night,724424979
-Special K,1440881824
-Smooth Criminal,1440762729
+Kayleigh,699747991
+Six Ways to Sunday,725015891
+One Way or Another,724177448
+When the Curtain Falls,1435351493
+Nothin' But a Good Time,72548003
+Teenagers,260548666
+The Traveller (Into The Light),6786070482
+It's Only Love,1422706712
+Starlight,992221996
+Eat the Rich,1440861741
+Black Eyes Blue,1525186029
+Jet,1440942055
+When the Sun Goes Down,111153718
+Again,1523886810
+I Remember You,265611396
+Sweet Child O' Mine,1377813701
+Dark Thoughts,1703604228
+Buddy Holly,1440879325
+Can I Play With Madness,979945781
+You Shook Me All Night Long,574050607
+Can I Get A,1849226957
+I Wanna Be Sedated,394266029
+China Plates,1379072882
+Jack & Diane,1440786241
+Back to Life,1515775242
+With Arms Wide Open,1440718229
+Working for the Weekend,207181187
+Window,1877913733
+Paranoid,1156653930
+Secret Crowds,1440782225
+Armageddon It,437348003
+Gifts From The Holy Ghost,1611811083
+Breakfast At Tiffany's,390615766
+Feels Like Home,6771498592
+With or Without You,1440729860
+Scars,1440825655
+Are You Gonna Go My Way,723338309
+Exit Signs,1765135538
+More Than a Feeling,218124730
+The Mountain,1337775372
+Bro Hymn,1485042609
+Here I Go Again,699744046
+In The Stars,6764865395
+Top of the World,253300229
+Say It Isn't So,186346539
+Love Is Only a Feeling,6433518
+All Star,1440915693
+Born In the U.S.A.,203708455
+Fix This Crack,1868641969
+Mama Said,1440837940
+Land of Confusion,1030228543
+When You Close Your Eyes,1440782941
+Three Chords,1580413041
+Play Your Games,6772932837
+She Don't Know Me,1440814445
+Still Counting,1443272739
+Dirty White Boy,284531766
+On the Line,1712115727
+Heaven's On Fire,1442457958
+"This Ain't a Scene, It's an Arms Race",1440560147
+Iris,267537169
+Heroes,1260636115
+Sharp Dressed Man,655185090
+Burn It to the Ground,295233934
+Heaven Is a 4 Letter Word,257870753
+Live And Let Die,1440896048
+Run to You,1440813518
+Cryogen,1885607726
+Easy Livin',1143688649
+Come Away With Me,1445881870
+You're Not Alone,1375509536
+Moneytalks,575998089
+Tiny Indoor Fireworks,1501357166
+Nothing Ever Happens,1440913575
+The Adventure,1445117131
+Every You Every Me,961067403
+Evolution,6769156314
+White Wedding,716121209
+I Hate How Much I Want You,1530097607
+Lovin' Every Minute of It,298192111
+Two Princes,169628364
+The Ballroom Blitz,1040963196
+Little Black Submarines,1052966705
+Marliese,696846083
+THE DEVIL I KNOW,1773351148
+Sweet Gloria,1634455942
+Livin' on the Edge,1440917861
+Pride (In the Name of Love),1440729859
+Tear Away,1440777729
+I'm Goin' Down,203709128
+Princess of the Night,693417973
+Bigger Than America,6764871046
+(I Can't Get No) Satisfaction,1440759724
+Everybody Have a Good Time,540349730
+One Vision,1440822675
+Goodbye,1559536614
+Into the Great Wide Open,1440821764
