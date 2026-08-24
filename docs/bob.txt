@@ -1,116 +1,128 @@
-My Oh My,1459411303
-1979,712732634
-Feel like Home,1439662805
-Dakota,1440800583
-Otherside,947701044
-The Number of the Beast,979954059
-I Can't Dance,724591732
-Always,1440845408
-House On Fire,1388911107
-Hold On Loosely,1236801931
-I'm Never Gonna R.I.P.,6784903816
-Breakfast At Tiffany's,390615766
-What's Your Name,1423334011
-Keep the Fire Burnin',192663350
-Song #3,1229163653
-Cold Day In Hell,712950879
-Won't Let Go,433666638
-What I've Done,590427450
-United,207346349
-Cryogen,1885607726
-The Passenger,723746055
-Golden Woman,1635196718
-The Deeper the Love,693206948
-American Slang,1456175185
-Duality,927744252
-"This Ain't a Scene, It's an Arms Race",1440560147
-Eye of the Storm,6765775795
-Heroes,695543530
-Mony Mony,724348559
-Weak,1463204471
-No More Tears,209695373
-Cape of Our Hero,1440819580
-Iris,267537169
-Australia,257479356
-In The Stars,6764865395
-Whiskey In the Jar,1440857603
-Who Wants To Live Forever,1440822383
-Schöne Grüße vom Meer,1519761372
-Milk & Honey,405934592
-Westerland,1533955574
-Stand By Me,1517475374
-Killing Fields,1825930765
-Oh Sherrie,304208032
-High Voltage,574124828
-I Miss You,1440845398
-Love Is a Long Road,1440825626
-Sunburn,295116856
-Already Gone,640369642
-Rejoice,1862633596
-Fix This Crack,1868641969
-Doctor Doctor,1142809000
-Like I Roll,433666642
-Bad to the Bone,716530455
-Feels Like Home,6771498592
-When I Come Around,1160082350
-Satellite,1440856376
-Nemm mich met,724003841
-"Ok, But This Is The Last Time",1746794873
-Still Got the Blues (For You),724160176
-First Date,943895034
-With or Without You,1440729860
-Crying Fire,6766303435
-Block Buster!,211691253
-This Heart,1753967402
-Give Me All Your Love,693206942
-Starlight,992221996
-Fallen,1440738439
-Black Velvet,217503142
-Bigger Than America,6764871046
-Crown of Horns,1709355178
-Jeremy,425465353
-Keep On Loving You,385550946
-Somewhere I Belong,528437020
-Alive After Death (Last Plane Out),1890143399
-Another One Bites the Dust,1440821740
-Animal,1446010424
-Knockin' On Heaven's Door,1452802994
-Tennessee Mountain Top,1295826545
-Since You've Been Gone,186347723
-It's Only Love,1422706712
-Glory Days,6781018404
-Some Might Say,1517519734
-Tell Me Baby,945569013
-Beast of Burden,76155150
-Deine Schuld,1521306244
-Where Is My Mind?,1025318629
-The Traveller (Into The Light),6786070482
-One Way or Another,724177448
-Too Good At Raising Hell,1699673475
-Can I Play With Madness,979945781
-The Anthem,288051950
-Nothing Ever Happens,1440913575
-Gotta Be Somebody,295233935
-Balls To the Wall,392883764
+Mr. Brightside,1440891171
+Ask the Lonely,169004346
+Days Like These,1421303799
+Smokin' In the Boys Room,1242681065
+Bohemian Rhapsody,1435375371
+I've Got the Fire,1375509535
+Dark Thoughts,1703604228
+Fuel,1440875710
+When We Stand Together,470343163
+Altes Fieber,512313002
+Good Times,1440517619
 Young Again,1877229743
-Won't Forget These Days,1195687155
-Whatever,1529331371
-Separate Ways (Worlds Apart),169004756
-Hold My Hand,15123870
-Youth Gone Wild,1092782319
-Big Jack,575663801
-Revelation,1354031451
-Rhythm of Love,1440784613
-Dancing in the Dark,203709340
-Coming of Age,217539294
-Freunde,478013619
-Didn't Know It Was Love,271868873
-Good Time,1677322505
-To Be With You,576802306
-Vertigo,1440729861
-Rosanna,205723807
-Baba O'Riley,1440799468
-Tiny Indoor Fireworks,1501357166
-Bring Me Some Water,1440866235
-Full Steam Spacemachine,384587799
-White Trash Millionaire,433666608
+Summer Of '69,1440924764
+Tear Away,1440777729
+Spaceman,1440902501
+I Hate How Much I Want You,1530097607
+Life In the Fast Lane,640369793
+Lonesome Rider (feat. Sarah Blackwood),1440820022
+Back to Life,1515775242
+Ball and Chain,197986000
+Rock You Like a Hurricane,1440784495
+Fix This Crack,1868641969
+Into the Great Wide Open,1440821764
+(You Can Still) Rock In America,216312798
+Nobody's Home,533017353
+Paradise City,1377813298
+Feels Like Home,6771498592
+Two Princes,169628364
+Wake Me Up When September Ends,207192838
+High On You,271868844
+Gave You Everything,1485072435
+I Hate Myself for Loving You,1434141401
+Surprise Surprise,550341419
+You Ain't Seen Nothin' Yet,73987238
+Heroes,1260636115
+Nothin' But a Good Time,72548003
+Too Many Friends,1440880593
+You Give Love a Bad Name,1440677667
+Cryogen,1885607726
+The Power of Love,725785116
+From the Inside,528437027
+Learn to Fly,278229654
+We Built This City,1451799704
+Born to Run,310730214
+I Can't Quit,1310805843
+Give It Away,947701034
+Bark at the Moon,192826926
+Alive After Death (Last Plane Out),1890143399
+Wild World,1270576307
+Living After Midnight,207346368
+Breath,1440808141
+Let There Be Rock,574124486
+Glory Days,6781018404
+Mit 18,153464575
+What Would You Do? (feat. Gavin Rossdale),1631917694
+Walk Of Life,1565392067
+Gifts From The Holy Ghost,1611811083
+Start Me Up,1440812153
+Eye of the Storm,6765775795
+Rock and Roll,1052497454
+Everybody Have a Good Time,540349730
+Danger Zone,405600306
+Interstate Love Song,3631594
+Bad Day,1422693810
+Tonight,1873280360
+Beds Are Burning,288955173
+Ist das noch Punkrock?,1521298906
+American Woman,723338394
+DANCE WITH ME,1707257679
+Black Night,724424979
+Until the Day I Die,2417376
+Wicked Game,255078289
+Burning Heart,271868841
+Radio Orchid,1195687132
+Walk This Way,398183687
+Biblical,595691554
+"Girls, Girls, Girls",1242681068
+I'm Never Gonna R.I.P.,6784903816
+Word Up,1444209410
+Watch Over You,1440746893
+"The Road to Hell, Pt. 2",79018297
+We Come Alive,1730982901
+Pretty Fly (For a White Guy),1440881518
+Edge of Seventeen,219393906
+Handwritten,1445887231
+Dirty White Boy,284531766
+Dreaming,1779136515
+The Trooper,981145793
+Underclass Hero,1440766695
+Ghosts,1529959286
+Live And Let Die,1440896048
+A Kind of Magic,1440822125
+In the End,528437613
+Give Me More Time,693207672
+Pour Some Sugar On Me,437348011
+Crying Fire,6766303435
+Born to Be Wild,1425253292
+Before I Die,727165429
+A Matter Of Trust,158816305
+Along Comes Mary,1440808826
+Panama,253301278
+You're Not Alone,1375509536
+"Another Brick In the Wall, Pt. 2",700054855
+Ist da jemand?,1476835860
+The Sidewinder Sleeps Tonite,1422694393
+Bigger Than America,6764871046
+Easy Lover,1005850935
+"My Way, Soon",1533376692
+Metal Health (Bang Your Head),190737658
+Bro Hymn,1485042609
+In The Stars,6764865395
+All Night Long,1458823321
+Still Counting,1443272739
+Lost Weekend,1443994466
+Born To Raise Hell,368729470
+Thought Contagion,1434329542
+Pet Sematary,853504132
+Anything Goes,574052520
+Vagabonds,696468233
+Don't Stop Believin',169003415
+The Traveller (Into The Light),6786070482
+Boom,204672485
+Rock'n Me,1440917281
+Why Don't You Get a Job,1440881849
+Do Your Worst,1440340688
+Lonely Is the Night,1440820164
+First Date,1440845386
+Hier kommt Alex,722306827
