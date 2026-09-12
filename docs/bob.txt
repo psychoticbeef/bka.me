@@ -1,113 +1,115 @@
-Breath,1440808141
-All the Small Things,1440845307
-Somebody to Love,1440850666
-Didn't Know It Was Love,271868873
-Don't Lose It,1399546180
-I'm Never Gonna R.I.P.,6784903816
-Hold the Line,198227598
-Opposite,595691552
-The Spirit of Radio,1440783222
-Black Eyes Blue,1525186029
-All the Love,186347344
-Satellite,1440856376
-Flesh for Fantasy,724348595
-I Bet You Look Good on the Dancefloor,111153391
-The Unforgiven,1440833479
-9 Lives,1868641955
-Immigrant Song,580708280
-Days Go By,1440878395
-Let Her Cry,15123904
-Livin' On a Prayer,1422962493
-Mr Charm,6764865397
-Always the Last To Know,1444161684
-"Hurra, hurra, die Schule brennt",205560053
-Born In the U.S.A.,203708455
-Crying Fire,6766303435
-Shut Up!,291939387
-Love Walks In,215640592
-Song 2,867694916
-Not Bad for New Jersey,6763344041
-I Love Rock 'N Roll,1434145184
-Face I Love,1349261218
-Hot Legs,295534409
-I've Got the Fire,1375509535
-Magic,1088531482
-The Devil's Bleeding Crown,1440847656
-Eine letzte Runde,6794334725
-Runaway,835400782
-Mrs. Robinson,1225275541
-Dirty White Boy,284531766
-Californication,947701035
-Crazy Crazy Nights,1451182043
+45,1445851291
+Eyes Without a Face,724348591
+Perfect Strangers,724569583
+I Hate How Much I Want You,1530097607
+Knockin' On Heaven's Door,263688995
 Dark Thoughts,1703604228
-Here I Go Again,699744046
-Biblical,595691554
-Rock 'N' Roll Damnation,575998656
+Going Clear,1606211475
+Wish You Were Here,700058019
+Thirsty,1442403641
+Wild Side,713437315
 The Traveller (Into The Light),6786070482
-American Girl,892461953
-Gifts From The Holy Ghost,1611811083
-Ashes To Ashes,693127130
-Perry Mason,192898627
-Pour Some Sugar On Me,437348011
-Jet,1440942055
-Rusted from the Rain,322083869
-Smokin' In the Boys Room,1242681065
-When the Curtain Falls,1435351493
-Good Riddance (Time of Your Life),1159778603
-Young Again,1877229743
-Rebel Yell,724348585
-Let's Ride,573424813
-Some Might Say,1517519734
-Mess It Up,1704374052
-Born to Run,310730214
-Fix This Crack,1868641969
-Metal Health (Bang Your Head),190737658
-Alive After Death (Last Plane Out),1890143399
-I Remember You,265611396
-Marliese,696846083
-Don't You (Forget About Me),1453878313
-Glory Days,6781018404
-Everything About You,1440912911
-This Afternoon,295233943
-Panama,253301278
-Eine letzte letzte Runde,1280484467
-Bad to the Bone,716530455
-Before I Die,727165429
-Cold As Ice,284531755
-Mary on a Cross,1478932237
-Best of What I Got,257870725
-Low Hangin' Fruit,509871397
-You Give Love a Bad Name,1440677667
-Tonight,1873280360
-I Can't Dance,724591732
-Tiny Indoor Fireworks,1501357166
-Only the Young,169003337
-Fallen,1440738439
-Africa,270787384
-I Want It All,1440822129
+We Didn't Start the Fire,273854291
+On The Dark Side,1607366694
+Absolute Beginners,926949962
+Last of the American Girls,315611381
 Bigger Than America,6764871046
-You Ain't Seen Nothin' Yet,73987238
-Rejoice,1862633596
-Still Got the Blues (For You),724160176
-Sweet Child O' Mine,1377813701
-DANCE WITH ME,1707257679
-The Power of Love,725785116
-Blind,1440822872
-Join Me,267705470
+Burning Heart,271868841
+Sirenen,999126982
+School's Out,40458562
+Missing on TV,1751750750
+I Won't Back Down,1440825623
+Faint,528437024
+Celebrate Youth,1442637537
+Nothing Ever Happens,1440913575
 Cryogen,1885607726
-You're Gonna Be My Girl,1543697264
-Crazy Train,158044642
-Cryin',1440917778
-I Shot the Sheriff,1440913405
-Temple,1435640293
-Your Love,186346150
-Counting Blue Cars (Tell Me Your Thoughts on God),1434901802
-Again,1523886810
-Is This Love,693213544
-Love Tyger,1460463761
-Eye of the Tiger,254685026
-Highway to Hell,574044008
-Watch Over You,1440746893
-Mony Mony,724348559
-Carousel,1810606183
-Entre Dos Tierras,697634977
+The Show Must Go On,1440822550
+Money For Nothing,1440654230
+Here Without You,1440739980
+Highway Tune,1440900539
+Stupid Girl,1030364141
+Somebody's Out There,1287321351
+Alive After Death (Last Plane Out),1890143399
+Miss You,1440915488
+Gitarre runter,1441788247
+Heaven Is a 4 Letter Word,257870753
+Two Princes,169628364
+Born to Be My Baby,1440677678
+Glory Days,6781018404
+The Unforgiven,1440833479
+Good Time,1677322505
+There's Only One Way to Rock,1440776616
+Faithfully,169003626
+Want You Bad,1440883273
+Jet Airliner,1440917533
+Wild Child,1611850616
+This Time,1444221879
+Tanzt du noch einmal mit mir?,1477080630
+Little Lies,202272697
+Moneytalks,575998089
+Fear of the Dark,699819854
+Tonight,1873280360
+Stand By Me,1517475374
+51st State,697134099
+No One Knows,1444416578
+Blitzkrieg Bop,853504076
+Hot Under The Collar,1817457528
+Talk Dirty to Me,715750443
+I'm Never Gonna R.I.P.,6784903816
+One,1440729871
+NOISE,1573414188
+Immigrant Song,580708280
+Hot,268993584
+Coming of Age,217539294
+La Grange,1443556254
+Not Bad for New Jersey,6763344041
+Love Is a Long Road,1440825626
+Lola Montez,1440820323
+Far Far Away,1459269991
+Dance Macabre,1368158534
+Bad Reputation,1434146617
+Cold Hard Bitch,2859582
+Over the Hills and Far Away,712950973
+Four Simple Words,1440909152
+Killed By Death,694088412
+Eine letzte Runde,6794334725
+Mr Charm,6764865397
+Every Generation Got Its Own Disease,1195687128
+Strike the Match,1689462037
+Kickstart My Heart,1242681070
+Space Oddity,695543080
+Whiskey In the Jar,1440857603
+Crying Fire,6766303435
+Teenagers,260548666
+Spaceman,1440902501
+Danger Zone,405600306
+Mother's In The Kitchen (live at Audiolodge),1805721072
+Run to You,1440813518
+Adrienne,271870175
+"Another Brick In the Wall, Pt. 2",700054855
+Go Your Own Way,202271971
+I'm on Your Side,1474250738
+Keep the Fire Burnin',192663350
+Take It Off,319397483
+Kayleigh,699747991
+Still Into You,593148441
+Hier kommt Alex,722306827
+Young Again,1877229743
+21st Century (Digital Boy),1485011864
+A Matter Of Trust,158816305
+Lullaby,469259329
+Hold My Hand,15123870
+Supernatural Superserious,1440943092
+High Enough,321975428
+Get to You,1553928330
+Westerland,1533955574
+Amazing,1440917781
+Handwritten,1445887231
+Who Wants To Live Forever,1440822383
+She,417565802
+Somewhere I Belong,528437020
+She Don't Know Me,1440814445
+Saccharine Smile,255708500
+Take the Ride,1647134684
+Same Ol' Situation (S.O.S.),1242687852
+Stairway to Heaven,580708180
