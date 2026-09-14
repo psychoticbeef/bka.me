@@ -1,126 +1,130 @@
-LINKIN PARK - What I've Done
-Tom Petty - Free Fallin'
-Betontod - Eine letzte Runde
-The FAIM - The Hills
-U2 - Sunday Bloody Sunday
-The Killers - When You Were Young
-Kissin' Dynamite - Glory Days
-Eric Clapton - Layla (MTV Unplugged)
-Foreigner - Urgent
-Avril Lavigne - SK8ERBOI
-Thunder - Dirty Love
-blink-182 - ALL IN MY HEAD
-Scorpions - Big City Nights
-Simple Minds - Don't You (Forget About Me)
-Social Distortion - Tonight
-The Pretty Reckless - Take Me Down
-Van Halen - Dreams
-Fall Out Boy - Lake Effect Kid
-Guns N' Roses - Live And Let Die
-The Fratellis - Chelsea Dagger
-REO Speedwagon - Can't Fight This Feeling
-Tony Iommi - World Alone
-Rory Gallagher - Shadow Play
-Deaf Havana - Trigger
-Judas Priest - Electric Eye
-Evanescence - Bring Me To Life
-Iron Maiden - Run to the Hills
-Shinedown - Young Again
-Nirvana - Smells Like Teen Spirit
-Nickelback - Animals
-Bon Jovi - Wanted Dead or Alive
-Billy Talent - Fallen Leaves
-Brian Fallon - Not Bad for New Jersey
-Lenny Kravitz - American Woman
-Ramones - Pet Sematary
-Oasis - Some Might Say
-Snow Patrol - Hands Open
-Green Day - I'm Never Gonna R.I.P.
-Rainbow - I Surrender
-Megadeth - Symphony of Destruction
-Kings of Leon - Use Somebody
-Corey Taylor - Beyond
-Die Ärzte - Hurra
-The Rolling Stones - Mr Charm
-Europe - The final Countdown
-Led Zeppelin - Good Times Bad Times
-U2 - I Still Haven't Found What I'm Looking For
-Lakeview feat. The Ghost Inside - Kill Me First
-Bruce Springsteen - Born to Run
-Poco - Call It Love
-Papa Roach - Getting Away With Murder
-AC/DC - Rock 'N' Roll Train
-Ghost - Square Hammer
-Stevie Nicks - Edge of Seventeen
-Rod Stewart - Hot Legs
-The Killers - Caution
-Danko Jones - Dance Dance Dance
-Placebo - Every You Every Me
-Van Halen - Love Walks In
-Avatar - Crying Fire
-Cheap Trick - I Want You to Want Me
-Mando Diao - God Knows
-Survivor - High On You
-Journey - Don't Stop Believin'
-The Funeral Portrait - Dark Thoughts
-The Black Crowes - Jealous Again
-Kaiser Chiefs - I Predict a Riot
-Iron Maiden - The Trooper
-Foo Fighters - The Sky Is A Neighborhood
-LINKIN PARK - Numb
-The Hooters - Johnny B.
-Muse - Cryogen
-Tom Petty & The Heartbreakers - American Girl
-R.E.M. - It's the End of the World As We Know It (And I Feel Fine)
-Lenny Kravitz - Again
-Fall Out Boy - Thnks fr th Mmrs
-ZZ Top - Gimme All Your Lovin'
-The Pretty Reckless - About You
-Metallica - Nothing Else Matters
-Volbeat - Time Will Heal
-BAP - Nemm mich met
-Asia - The Traveller (Into The Light)
-Green Day - When I Come Around
-Guns N' Roses - Welcome to the Jungle
-The Kooks - Naive
-Pearl Jam - Alive
-Greta Van Fleet - My Way, Soon
-The Cure - In Between Days
-Foreigner - Juke Box Hero
-Airbourne - Alive After Death (Last Plane Out)
-HIM - Wicked Game
-David Bowie - Ashes To Ashes
-The Dandy Warhols - Bohemian Like You
-Billy Talent - Hanging Out with All the Wrong People
-Poison - Unskinny Bop
-Daughtry - No Surprise
-Scorpions - Rock You Like a Hurricane
-Nickelback & John 5 - Rattle The Cage
 Mötley Crüe - Dr. Feelgood
-Jelly Roll - The Lost
-Westernhagen - Taximann
-Red Hot Chili Peppers - Can't Stop
-Alanis Morissette - head over feet
-Kiss - Heaven's On Fire
-John Diva & The Rockets of Love - Lolita
-Loverboy - Working for the Weekend
-H-Blockx vs. Dr. Ring-Ding - Ring of Fire
-Journey - Lights
-Blur - Song 2
-38 Special - Hold On Loosely
-Frank Turner - Recovery
-Gary Moore - Cold Day In Hell
-Steel Panther - 1987
-Accept - Midnight Mover
-Bryan Adams - Summer Of '69
-Danzig - MOTHER '94
-Placebo - Too Many Friends
-Huey Lewis and the News - I Want a New Drug
-Bad Religion - Lose Your Head
-Lenny Kravitz - Fly Away
-Van Halen - Ain't Talkin' 'Bout Love
-Foo Fighters - The Pretender
-Quiet Riot - Metal Health (Bang Your Head)
-Cream - White Room
-Papa Roach - Help
-INXS & Jimmy Barnes - Good Times
+Chad Kroeger - Hero (feat Josey Scott)
+The Rolling Stones - Like a Rolling Stone
+Fleetwood Mac - Go Your Own Way
+AC/DC - Shoot to Thrill
+Green Day - I'm Never Gonna R.I.P.
+Dio - I Could Have Been a Dreamer
+Stereophonics - Dakota
+Cheap Trick - Surrender
+Måneskin - BABY SAID
+Smash Mouth - All Star
+Black Stone Cherry - Like I Roll
+Brian Fallon - Not Bad for New Jersey
+Don Henley - The Boys of Summer
+Angels & Airwaves - The Adventure
+Nirvana - Lithium
+The Police - Can't Stand Losing You
+Buckcherry - All Night Long
+Manic Street Preachers - Australia
+Pink Floyd - Another Brick In the Wall, Pt. 2
+Avatar - Crying Fire
+Motörhead - Born To Raise Hell
+Bon Jovi - Runaway
+Limp Bizkit - Behind Blue Eyes
+Def Leppard - Pour Some Sugar On Me
+John Diva & The Rockets of Love - Bigger Than America
+Aerosmith - Crazy
+R.E.M. - Bad Day
+The Georgia Satellites - Keep Your Hands to Yourself
+The Offspring - Pretty Fly (For a White Guy)
+Kissin' Dynamite - Glory Days
+Journey - Any Way You Want It
+Sweet - The Ballroom Blitz
+Sammy Hagar - Your Love Is Driving Me Crazy
+Kid Rock - Born Free
+Betontod - Eine letzte Runde
+Queen - Another One Bites the Dust
+Disturbed - Land of Confusion
+Mr. Big - To Be With You
+Massive Wagons - Everywhere We Go
+Foreigner - Long, Long Way from Home
+The Darkness - Solid Gold
+The Black Crowes - Hard To Handle
+Survivor - Burning Heart
+Asia - The Traveller (Into The Light)
+Tom Petty & The Heartbreakers - Into the Great Wide Open
+Scorpions - Passion Rules the Game
+Green Day - Oh Love
+Foo Fighters - Learn to Fly
+AC/DC - You Shook Me All Night Long
+The Pretty Reckless - About You
+Creedence Clearwater Revival - Down On the Corner
+Måneskin - HONEY (ARE U COMING?)
+Europe - Rock the Night
+LINKIN PARK - Over Each Other
+Bryan Adams - The Only Thing That Looks Good on Me Is You
+Good Charlotte - The Anthem
+Die Ärzte - Westerland
+Rory Gallagher - Bad Penny
+Beatsteaks - Milk & Honey
+Billy Idol - White Wedding
+BenjRose - Where Do We Go?
+LIVE - The Dolphin's Cry
+The Rolling Stones - Mr Charm
+Huey Lewis and the News - The Power of Love
+Nickelback - Gotta Be Somebody
+blink-182 - What's My Age Again?
+Avatar - The Dirt I'm Buried In
+The Police - Roxanne
+Rise Against - Satellite
+Die Toten Hosen - Bonnie & Clyde
+Ozzy Osbourne - Bark at the Moon
+Airbourne - Here She Comes
+Aerosmith - Amazing
+Rick Springfield - Love Somebody
+Donots - Come Away With Me
+Twisted Sister - I Wanna Rock
+The New Roses - Saints & Sinners
+The Gaslight Anthem - American Slang
+Melissa Etheridge - I'm the Only One
+Sammy Hagar - Winner Takes It All
+John Diva & The Rockets of Love - God Made Radio
+Shinedown - Young Again
+U2 - Where the Streets Have No Name
+The Subways - We Don't Need Money to Have a Good Time
+Lynyrd Skynyrd - I Ain't the One (Live At The Fox Theater/1976)
+Papa Roach - Feel like Home
+Survivor - Didn't Know It Was Love
+Puddle of Mudd - Control
+Social Distortion - Tonight
+Skid Row - I Remember You
+The Offspring - Ok, But This Is The Last Time
+Asia - Heat of the Moment
+Volbeat - Thanks
+BAP - Verdamp Lang Her
+Bon Jovi - Born to Be My Baby
+The Funeral Portrait - Dark Thoughts
+Thin Lizzy - The Boys Are Back In Town
+H-Blockx - Leave Me Alone
+Queen - Friends Will Be Friends
+Foo Fighters - Under You
+STILTSKIN - INSIDE
+Weezer - Pork and Beans
+Poison - Talk Dirty to Me
+Whitesnake - Shut Up & Kiss Me
+Billy Idol - Flesh for Fantasy
+Bowling for Soup - Girl All the Bad Guys Want
+Die Ärzte - Schunder-Song
+Muse - Cryogen
+Mötley Crüe - Don't Go Away Mad (Just Go Away)
+Sum 41 - Dopamine
+Mr. Big - Wild World
+Blondie - Call Me
+Bruce Springsteen - Born to Run
+The Outfield - A Long, Long Time Ago
+Bryan Adams & Tina Turner - It's Only Love
+Massive Wagons - In It Together
+Metallica - Mama Said
+Corey Taylor - We Are The Rest
+The Hooters - Johnny B.
+AC/DC - Big Jack
+David Bowie - Absolute Beginners
+Guns N' Roses - Welcome to the Jungle
+Nickelback & John 5 - Rattle The Cage
+The Rolling Stones - Miss You
+blink-182 - Always
+Steve Perry - Strung Out
+Godsmack - Bulletproof
+Red Hot Chili Peppers - Scar Tissue
+Royal Republic - Full Steam Spacemachine
