@@ -2,8 +2,9 @@ name: Daily Playlist Scrape
 
 on:
   schedule:
-    # Run at 18:30 UTC daily
-    - cron: '37 18 * * *'
+    # Run at 06:37 UTC daily (07:37/08:37 Berlin), scraping the completed previous day.
+    # Delayed runs crossing midnight must not switch to an empty "today" window.
+    - cron: '37 6 * * *'
   workflow_dispatch:
     inputs:
       days_back:
@@ -26,9 +27,12 @@ jobs:
       - run: |
           pip install -r requirements.txt
           
+      - name: Test time windows
+        run: python -m unittest discover -s tests -v
+
       - name: Run Scraper
         env:
-          DAYS_BACK: ${{ github.event.inputs.days_back || '0' }}
+          DAYS_BACK: ${{ github.event_name == 'schedule' && '1' || github.event.inputs.days_back || '0' }}
         run: python scrape_stations.py
 
       - name: Commit

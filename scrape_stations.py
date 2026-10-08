@@ -26,14 +26,14 @@ BERLIN_TZ = ZoneInfo("Europe/Berlin")
 # UTILITIES
 # ==========================================
 
-def get_run_dates():
-    """Returns (target_date, current_weekday_int)."""
+def get_run_dates(now_berlin=None):
+    """Returns (target_date, target_weekday_int)."""
     days_back = int(os.environ.get("DAYS_BACK", 0))
-    now_berlin = datetime.now(BERLIN_TZ)
+    now_berlin = now_berlin if now_berlin is not None else datetime.now(BERLIN_TZ)
     target_date = now_berlin - timedelta(days=days_back)
     return target_date, target_date.weekday()
 
-def calculate_time_window(config, target_date):
+def calculate_time_window(config, target_date, now_berlin=None):
     """
     Determines start/end datetime based on config limits and current time.
     """
@@ -44,7 +44,7 @@ def calculate_time_window(config, target_date):
     
     # Check if we are running for "Today"
     days_back = int(os.environ.get("DAYS_BACK", 0))
-    now_berlin = datetime.now(BERLIN_TZ)
+    now_berlin = now_berlin if now_berlin is not None else datetime.now(BERLIN_TZ)
     is_today = (days_back == 0 and target_date.date() == now_berlin.date())
 
     # If today and currently earlier than the configured end time, stop at current hour
@@ -264,7 +264,8 @@ def run():
         print(f"Error: {CONFIG_FILE} missing.")
         exit(1)
 
-    target_date, weekday = get_run_dates()
+    now_berlin = datetime.now(BERLIN_TZ)
+    target_date, weekday = get_run_dates(now_berlin)
     print(f"🚀 Execution Date: {target_date.strftime('%Y-%m-%d')} (Weekday: {weekday})")
 
     with open(CONFIG_FILE, 'r') as f:
@@ -280,9 +281,11 @@ def run():
             continue
 
         # 2. Time Window
-        start_dt, end_dt = calculate_time_window(config, target_date)
+        start_dt, end_dt = calculate_time_window(config, target_date, now_berlin)
         if start_dt >= end_dt:
-            print(f"   Skipping (Current time {start_dt.strftime('%H:%M')} is past end time {end_dt.strftime('%H:%M')}).")
+            print(f"   Skipping (No completed hours in window: "
+                  f"start {start_dt.strftime('%H:%M')}, end {end_dt.strftime('%H:%M')}; "
+                  f"current Berlin time {now_berlin.strftime('%H:%M')}).")
             continue
         
         print(f"   Window: {start_dt.strftime('%H:%M')} - {end_dt.strftime('%H:%M')}")
