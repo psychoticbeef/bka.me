@@ -1,107 +1,97 @@
-HELEN KELLER,6813080772
-Paint It Black,1440745782
-Jailbreak,1440923438
-Hammer to Fall,1435375499
-21st Century Breakdown,315611299
-Going Clear,1606211475
-Caught Up In You,1440891607
-head over feet,549864747
-Why Can't This Be Love,253303419
-Speed of Sound,1123076830
-Lake Ontario,6809936921
-Tanzt du noch einmal mit mir?,1477080630
-Bark at the Moon,192826926
-All Signs Point To Lauderdale,1558582338
-Hey Tonight,1440927038
-"The Road to Hell, Pt. 2",79018297
-You Might Think,1088531476
-Rebel Yell,724348585
-Mr. Brightside,1440891171
-My Hero,362133488
-Cocaine,977832541
-Ocean Avenue,725822641
-Master,1387662533
-Sweet Child O' Mine,1377813701
-Lost In Translation,6811894387
-The Unforgiven,1440833479
-In Between Days,1440662787
-Talk Dirty to Me,715750443
-Heaven For Everyone,1440822698
-Guitar Gangsters & Cadillac Blood,285216422
-Hot Under The Collar,1817457528
-Flying Blind (feat. Myles Kennedy & The Conspirators),6813140577
-Easy Lover,1005850935
-Celebrate Youth,1442637537
-Block Buster!,211691253
-Guess Who's Back,1677322498
-Beast of Burden,76155150
-Bound for Glory,1460464739
-Rock or Bust,923586228
-Here She Comes,1890143401
-Is This Love,693213544
-Year Of The Snake,1833941752
-Love Somebody,258613900
-The Bandit,1547474736
-Alive,425465319
-Modern Love,1664275308
-Schrei nach Liebe,1521324605
-Jet Airliner,1440917533
-Not Bad for New Jersey,6763344041
-With Arms Wide Open,1440718229
-Kids Wanna Rock,1443510208
-Crying Fire,6766303435
-Better Days,1435854690
-Walk This Way,398183687
-Entre Dos Tierras,697634977
-Who You Callin' Crazy,6820456636
-Is This Love,271868839
-She Hates Me,1450664889
-We Are the Champions,1440822123
-No One Knows,1444416578
-"Another Brick In the Wall, Pt. 2",700054855
-God Damn Beautiful,6767571894
-Working for the Weekend,207181187
-Thirsty,1442403641
-Mama Said,1440837940
-9 Lives,1868641955
-Life In the Fast Lane,640369793
-Always the Last To Know,1444161684
-Wild Side,713437315
-Calvary Drive,6790829586
-Give It Away,947701034
-Call Me,716231650
-Shadow of the Day,528975367
-Ask the Lonely,169004346
-The Loneliest Hour,1694753333
-Run to the Hills,979954060
-Finest Hour,1458646483
+Celebrity Skin,1440905808
+Biblical,595691554
+Sharp Dressed Man,655185090
+Down On the Corner,1440926430
+Big City Nights,735967067
+Sex On Fire,290303003
+Born In the U.S.A.,203708455
+Fuel,1440875710
+Lady In Black,948176845
 ACES,6831702309
-Stuck With You,725785132
-Missing on TV,1751750750
-Gimme All Your Lovin',655184888
-Perry Mason,192898627
-Tonight,1873280360
-All Along the Watchtower,344803162
-The Drug In Me Is You,579836679
-Winner Takes It All,365448189
-Always,1423285054
-Shotgun Blues,1586126256
-Urgent,284531775
-Rock the Blues Away,923586230
-Marliese,696846083
-We Didn't Start the Fire,273854291
+Born to Be My Baby,1440677678
+Cryin',1440917778
+Help,1206598560
+Bohemian Rhapsody,1435375371
+American Woman,723338394
+Welcome to the Jungle,1377813288
+Not Bad for New Jersey,6763344041
+High Enough,321975428
+Satellite,288508253
+Fake It,1440777828
+Edge of Seventeen,219393906
+Crying Fire,6766303435
+She,417565802
+Rusted from the Rain,322083869
+Mess It Up,1704374052
+Buddy Holly,1440879325
 Thunder Love (feat. Phil Collen),6790396797
+With or Without You,1440729860
+Can't Stop,945578427
+Love Is Like Oxygen,1040963363
+Can I Play With Madness,979945781
+Gotta Be Somebody,295233935
+Under You,1682993468
+Can't Stand Losing You,1440882893
+Legs,882468025
+Calvary Drive,6790829586
+I Can't Hold Back,271868838
+Back In Black,574050602
+Tonight,1873280360
+Cocaine,1440650862
+BABY SAID,1659658724
+Turn Me Loose,207181143
+Weak,1463204471
+Livin' On a Prayer,1422962493
+So Long (feat. Frank Turner),1445882171
+Killer Queen,1440822101
+Lake Ontario,6809936921
+Killed By Death,694088412
+Cats in the Cradle,1440912785
+Kayleigh,699747991
+Uma Thurman,1440826718
+November Rain,1440896193
+Back On the Road Again,385551005
+Driving In Style,1502964619
+Even Flow,158049842
+HELEN KELLER,6813080772
+Road to Nowhere,209695679
+Rebel Yell,724348585
+God Gave Rock 'N' Roll to You Ii,1440783892
+Still Into You,593148441
+Interstate Love Song,3631594
+Who Are You,585701884
+Flying Blind (feat. Myles Kennedy & The Conspirators),6813140577
+Black Velvet,217503142
+Still Breathing,1140560589
+Walk Of Life,1565392067
+Lost In Translation,6811894387
+Euphoria,1273672456
+Bring Me To Life,1440666111
+Real Wild Child (Wild One),1443994800
+The Memory Remains,1440875773
+Like the Way I Do,1440865830
+Here She Comes,1890143401
+Let There Be Rock,574124486
+Use Somebody,290303018
+Your Love,186346150
+Where Do We Go?,1462617339
+United,207346349
+In The Name Of Rock'n'Roll,1807151768
+Songs für Liam,1440779231
+Who You Callin' Crazy,6820456636
 One Vision,1440822675
-Holy Diver,1442912745
-Darkside,1473471042
-Days Like These,1421303799
-I Don't Know You,1618291413
-All You Zombies,288508252
-Take Me Down,1440939674
-Pretty Fly (For a White Guy),1440881518
-Breaking the Law,207346225
-Where Is My Mind?,1025318629
-Whatever,1525936734
-Take It Off,319397483
-Passion Rules the Game,1440784616
-Over Each Other,1766137055
+Numb,528437514
+Why Can't This Be Love,253303419
+Crazy,1440917793
+Bad Moon Rising,1440955834
+Are You Gonna Be My Girl,311582143
+Everlong,451869611
+Gods Of Rock N Roll (feat. Steve Stevens),1790387608
+Pride (In the Name of Love),1440729859
+God Knows,697307930
+Dancing With Myself,724348555
+The Spirit of Radio,1440783222
+God Damn Beautiful,6767571894
+Kickstart My Heart,1242681070
+The Usual Suspects,1634455594
+Twice As Hard,1440810649
